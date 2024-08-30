@@ -1,0 +1,569 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: BeIN Sport Arabic ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: BeIN Sport Arabic ᵁᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86259
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: RMC Sport 1 ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: RMC Sport 1 ᵁᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86265
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Astro SuperSport ᵁᴴᴰ ⁺ ᴴᴰᴿ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Astro SuperSport ᵁᴴᴰ ⁺ ᴴᴰᴿ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86257
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Eleven Sports 1 ⁴ᴷ ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Eleven Sports 1 ⁴ᴷ ᵁᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86266
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sky Sport Bundesliga ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sky Sport Bundesliga ᵁᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86292
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Now HK Sports 4K 1 ⁴ᵏ ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Now HK Sports 4K 1 ⁴ᵏ ᵁᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86258
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Now HK Sports 4K 2 ⁴ᵏ ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Now HK Sports 4K 2 ⁴ᵏ ᵁᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86268
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Now HK Sports 4K 3 ⁴ᵏ ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Now HK Sports 4K 3 ⁴ᵏ ᵁᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86269
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 2 ⁴ᵏ ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Hub Premier 2 ⁴ᵏ ᵁᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86270
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: V Sport Ultra ᵁᴴᴰ (Multi Audio)" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: V Sport Ultra ᵁᴴᴰ (Multi Audio)
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86267
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 1 ⁴ᴷ" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/ART_Sport_1_AL_logo.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 1 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30158
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 1 ᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%201.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 1 ᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30081
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 2 ⁴ᴷ" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/ART_Sport_2_AL_logo.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 2 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30159
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 2 ᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%202.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 2 ᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30080
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 3 ⁴ᴷ" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/ART_Sport_3_AL_logo.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 3 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30160
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 3 ᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%203.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 3 ᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30079
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 4 ⁴ᴷ" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/ART_Sport_4_AL_logo.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 4 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/63207
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 4 ᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 4 ᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/87193
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 5 ⁴ᴷ" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/ART_Sport_5_AL_logo.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 5 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/63208
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 5 ᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 5 ᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/87194
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 6 ⁴ᴷ" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/ART_Sport_6_AL_logo.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 6 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/63209
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 6 ᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 6 ᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/87195
+#EXTINF:-1 tvg-id="SuperSport 1" tvg-name="AL: SS-1 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-1 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/43729
+#EXTINF:-1 tvg-id="SuperSport 1" tvg-name="AL: SS-1 ᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-1 ᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/1146
+#EXTINF:-1 tvg-id="SuperSport 2" tvg-name="AL: SS-2 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-2 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/43728
+#EXTINF:-1 tvg-id="SuperSport 2" tvg-name="AL: SS-2 ᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-2 ᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/1148
+#EXTINF:-1 tvg-id="SuperSport 3" tvg-name="AL: SS-3 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-3 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/43727
+#EXTINF:-1 tvg-id="SuperSport 3" tvg-name="AL: SS-3 ᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-3 ᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/1150
+#EXTINF:-1 tvg-id="SuperSport 4" tvg-name="AL: SS-4 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-4 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/43726
+#EXTINF:-1 tvg-id="SuperSport 4" tvg-name="AL: SS-4 ᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-4 ᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/1152
+#EXTINF:-1 tvg-id="SuperSport 5" tvg-name="AL: SS-5 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%205.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-5 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/43725
+#EXTINF:-1 tvg-id="SuperSport 5" tvg-name="AL: SS-5 ᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%205.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-5 ᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/1153
+#EXTINF:-1 tvg-id="SuperSport 6" tvg-name="AL: SS-6 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%206.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-6 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/43724
+#EXTINF:-1 tvg-id="SuperSport 6" tvg-name="AL: SS-6 ᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%206.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-6 ᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/2704
+#EXTINF:-1 tvg-id="SuperSport 7" tvg-name="AL: SS-7 ᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%207.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-7 ᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/78732
+#EXTINF:-1 tvg-id="" tvg-name="AL: SS-1 Kosova ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/SS%20Kosova%201.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-1 Kosova ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/77985
+#EXTINF:-1 tvg-id="" tvg-name="AL: SS-2 Kosova ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/SS%20Kosova%202.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-2 Kosova ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/77986
+#EXTINF:-1 tvg-id="" tvg-name="AL: SS-3 Kosova ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/SS%20Kosova%203.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-3 Kosova ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/78733
+#EXTINF:-1 tvg-id="Tring Sport News HD" tvg-name="AL: Tring Sport News ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%20News%20HD.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Tring Sport News ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30157
+#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-name="AL: Tring Sport 1 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Tring Sport 1 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30153
+#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-name="AL: Tring Sport 1 ᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Tring Sport 1 ᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/1169
+#EXTINF:-1 tvg-id="Tring Sport 2 HD" tvg-name="AL: Tring Sport 2 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%202%20HD.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Tring Sport 2 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30154
+#EXTINF:-1 tvg-id="Tring Sport 2 HD" tvg-name="AL: Tring Sport 2 ᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%202%20HD.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Tring Sport 2 ᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/1170
+#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-name="AL: Tring Sport 3 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%203%20HD.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Tring Sport 3 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30155
+#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-name="AL: Tring Sport 3 ᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%203%20HD.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Tring Sport 3 ᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/1171
+#EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-name="AL: Tring Sport 4 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%204%20HD.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Tring Sport 4 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30156
+#EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-name="AL: Tring Sport 4 ᶠᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%204%20HD.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Tring Sport 4 ᶠᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/1172
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Sport ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: RTSH Sport ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/77129
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 1 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%201.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Kujtesa Sport 1 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30162
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 1 ᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%201.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Kujtesa Sport 1 ᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/1876
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 2 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%202.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Kujtesa Sport 2 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30163
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 2 ᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%204.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Kujtesa Sport 2 ᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/1877
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 3 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%203.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Kujtesa Sport 3 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30164
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 3 ᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%203.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Kujtesa Sport 3 ᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/2737
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 4 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%204.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Kujtesa Sport 4 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30165
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 4 ᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%204.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Kujtesa Sport 4 ᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/2738
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sportdigital Fusball | DE ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sportdigital Fusball | DE ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86686
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: DAZN Sport 1 DE ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: DAZN Sport 1 DE ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86289
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: DAZN Sport 2 DE ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: DAZN Sport 2 DE ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86290
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: DAZN Sport 1 EN ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: DAZN Sport 1 EN ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86291
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Astro SuperSport 1 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Astro SuperSport 1 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86293
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Astro SuperSport 2 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Astro SuperSport 2 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86294
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Astro SuperSport 3 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Astro SuperSport 3 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86295
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Astro SuperSport 4 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Astro SuperSport 4 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86296
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sky Sport Bundesliga ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sky Sport Bundesliga ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86597
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sky Sport Bundesliga 1 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sky Sport Bundesliga 1 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86587
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sky Sport Bundesliga 2 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sky Sport Bundesliga 2 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86588
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sky Sport Bundesliga 3 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sky Sport Bundesliga 3 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86589
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sky Sport Bundesliga 4 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sky Sport Bundesliga 4 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86590
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sky Sport Bundesliga 5 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sky Sport Bundesliga 5 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86591
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sky Sport Bundesliga 6 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sky Sport Bundesliga 6 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86592
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sky Sport Bundesliga 7 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sky Sport Bundesliga 7 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86593
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sky Sport Bundesliga 8 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sky Sport Bundesliga 8 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86594
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sky Sport Bundesliga 9 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sky Sport Bundesliga 9 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86595
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sky Sport Bundesliga 10 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sky Sport Bundesliga 10 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86596
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 1 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Premier Leauge 1 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86376
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 2 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Premier Leauge 2 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86377
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 3 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Premier Leauge 3 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86378
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 4 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Premier Leauge 4 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86379
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 5 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Premier Leauge 5 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86380
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 6 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Premier Leauge 6 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86381
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports Prime ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports Prime ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86578
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 1 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports 1 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86580
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 2 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports 2 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86581
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 3 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports 3 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86582
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 4 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports 4 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86583
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 5 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports 5 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86584
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 6 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports 6 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86585
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 7 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports 7 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86586
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports Plus ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports Plus ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86579
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 1 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Hub Premier 1 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86271
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 2 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Hub Premier 2 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86272
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 3 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Hub Premier 3 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86273
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 4 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Hub Premier 4 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86274
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 5 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Hub Premier 5 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86275
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 1 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",PT: Eleven Sports 1 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86276
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 2 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",PT: Eleven Sports 2 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86277
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 3 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",PT: Eleven Sports 3 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86278
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 4 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",PT: Eleven Sports 4 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86279
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 5 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",PT: Eleven Sports 5 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86280
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 6 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",PT: Eleven Sports 6 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86281
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Eleven Sports 1 ⁴ᵏ PL" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Eleven Sports 1 ⁴ᵏ PL
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86282
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Eleven Sports 2 ⁴ᵏ PL" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Eleven Sports 2 ⁴ᵏ PL
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86283
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Eleven Sports 3 ⁴ᵏ PL" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Eleven Sports 3 ⁴ᵏ PL
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86284
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Eleven Sports 4 ⁴ᵏ PL" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Eleven Sports 4 ⁴ᵏ PL
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86285
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Eleven Pro Sports League 1 ⁴ᵏ | BE" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Eleven Pro Sports League 1 ⁴ᵏ | BE
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86286
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Eleven Pro Sports League 2 ⁴ᵏ | BE" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Eleven Pro Sports League 2 ⁴ᵏ | BE
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86287
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Eleven Pro Sports League 3 ⁴ᵏ | BE" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Eleven Pro Sports League 3 ⁴ᵏ | BE
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86288
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 1 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK BeIN 1 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86297
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 2 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK BeIN 2 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86298
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 3 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK BeIN 3 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86299
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 4 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK BeIN 4 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86300
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 5 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK BeIN 5 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86301
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 6 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK BeIN 6 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86302
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Polsat Sport Premium 1 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Polsat Sport Premium 1 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86382
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Polsat Sport Premium 2 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Polsat Sport Premium 2 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86383
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Polsat Sport Premium PPV 3 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Polsat Sport Premium PPV 3 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86384
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Polsat Sport Premium PPV 4 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Polsat Sport Premium PPV 4 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86385
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Polsat Sport Premium PPV 5 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Polsat Sport Premium PPV 5 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86386
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Polsat Sport Premium PPV 6 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Polsat Sport Premium PPV 6 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86387
+#EXTINF:-1 tvg-id="" tvg-name="SPORT:  BeIN Sport News Arabic ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT:  BeIN Sport News Arabic ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86577
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BeIN Sport Arabic 1 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: BeIN Sport Arabic 1 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86565
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BeIN Sport Arabic 2 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: BeIN Sport Arabic 2 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86566
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BeIN Sport Arabic 3 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: BeIN Sport Arabic 3 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86567
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BeIN Sport Arabic 4 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: BeIN Sport Arabic 4 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86568
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BeIN Sport Arabic 5 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: BeIN Sport Arabic 5 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86569
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BeIN Sport Arabic 6 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: BeIN Sport Arabic 6 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86570
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BeIN Sport Arabic 7 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: BeIN Sport Arabic 7 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86571
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BeIN Sport Arabic 8 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: BeIN Sport Arabic 8 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86572
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BeIN Sport Arabic 9 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: BeIN Sport Arabic 9 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86573
+#EXTINF:-1 tvg-id="" tvg-name="SPORT:  BeIN Sport XTRA1 Arabic 1 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT:  BeIN Sport XTRA1 Arabic 1 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86574
+#EXTINF:-1 tvg-id="" tvg-name="SPORT:  BeIN Sport XTRA1 Arabic 2 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT:  BeIN Sport XTRA1 Arabic 2 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86575
+#EXTINF:-1 tvg-id="" tvg-name="SPORT:  BeIN Sport XTRA1 Arabic 3 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT:  BeIN Sport XTRA1 Arabic 3 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86576
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sport TV 1 | PT ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sport TV 1 | PT ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86507
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sport TV 2 | PT ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sport TV 2 | PT ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86508
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sport TV 3 | PT ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sport TV 3 | PT ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86509
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sport TV 4 | PT ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sport TV 4 | PT ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86510
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sport TV 5 | PT ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sport TV 5 | PT ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86511
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sport TV 6 | PT ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sport TV 6 | PT ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86512
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Digi Sport 1 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Digi Sport 1 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86413
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Digi Sport 2 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Digi Sport 2 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86414
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Digi Sport 3 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Digi Sport 3 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86415
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Digi Sport 4 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Digi Sport 4 ⁴ᵏ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/86416
+#EXTINF:-1 tvg-id="" tvg-name="UK: UFC Fight Pass ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",UK: UFC Fight Pass ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/81429
+#EXTINF:-1 tvg-id="" tvg-name="UK: SkyGO TNT Sport 1 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",UK: SkyGO TNT Sport 1 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80268
+#EXTINF:-1 tvg-id="" tvg-name="UK: SkyGO TNT Sport 2 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",UK: SkyGO TNT Sport 2 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80269
+#EXTINF:-1 tvg-id="" tvg-name="UK: SkyGO TNT Sport 3 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",UK: SkyGO TNT Sport 3 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80271
+#EXTINF:-1 tvg-id="" tvg-name="UK: SkyGO TNT Sport 4 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",UK: SkyGO TNT Sport 4 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80272
+#EXTINF:-1 tvg-id="" tvg-name="UK: SkyGO Sky News ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",UK: SkyGO Sky News ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80280
+#EXTINF:-1 tvg-id="" tvg-name="UK: SkyGO Sky Sport Arena ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",UK: SkyGO Sky Sport Arena ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80289
+#EXTINF:-1 tvg-id="" tvg-name="UK: SkyGO Sky Sport Cricket ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",UK: SkyGO Sky Sport Cricket ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80285
+#EXTINF:-1 tvg-id="" tvg-name="UK: SkyGO Sky Sport F1 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",UK: SkyGO Sky Sport F1 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80287
+#EXTINF:-1 tvg-id="" tvg-name="UK: SkyGO Sky Sport Football ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",UK: SkyGO Sky Sport Football ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80284
+#EXTINF:-1 tvg-id="" tvg-name="UK: SkyGO Sky Sport Golf ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",UK: SkyGO Sky Sport Golf ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80286
+#EXTINF:-1 tvg-id="" tvg-name="UK: SkyGO Sky Sport Main Event ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",UK: SkyGO Sky Sport Main Event ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80281
+#EXTINF:-1 tvg-id="" tvg-name="UK: SkyGO Sky Sport Mix ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",UK: SkyGO Sky Sport Mix ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80290
+#EXTINF:-1 tvg-id="" tvg-name="UK: SkyGO Sky Sport Premier Leauge ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",UK: SkyGO Sky Sport Premier Leauge ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80282
+#EXTINF:-1 tvg-id="" tvg-name="FR: InfoSport+ ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: InfoSport+ ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80308
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports 1 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: Bein Sports 1 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80261
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports 2 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: Bein Sports 2 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80262
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports 3 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: Bein Sports 3 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80263
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 1 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: RMC Sport 1 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80299
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 2 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: RMC Sport 2 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80300
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 3 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: RMC Sport 3 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80301
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 4 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: RMC Sport 4 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80302
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 5 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: RMC Sport 5 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80303
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 7 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: RMC Sport 7 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80304
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 8 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: RMC Sport 8 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80305
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 9 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: RMC Sport 9 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80306
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 10 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: RMC Sport 10 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80307
+#EXTINF:-1 tvg-id="" tvg-name="CH: BlueSport 1 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",CH: BlueSport 1 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80177
+#EXTINF:-1 tvg-id="" tvg-name="CH: BlueSport 2 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",CH: BlueSport 2 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80178
+#EXTINF:-1 tvg-id="" tvg-name="CH: BlueSport 3 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",CH: BlueSport 3 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80179
+#EXTINF:-1 tvg-id="" tvg-name="DE: Blue Sport D 1 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Blue Sport D 1 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80029
+#EXTINF:-1 tvg-id="" tvg-name="DE: Blue Sport D 2 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Blue Sport D 2 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80030
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 1 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 1 Croatia ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80309
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 2 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 2 Croatia ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80310
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 3 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 3 Croatia ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80311
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 4 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 4 Croatia ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80312
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 5 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 5 Croatia ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80313
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 6 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 6 Croatia ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80314
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 7 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 7 Croatia ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80315
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 8 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 8 Croatia ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80316
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 9 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 9 Croatia ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80317
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 10 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 10 Croatia ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80318
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub Fight Croatia  ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub Fight Croatia  ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80333
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 1 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 1 Croatia ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80336
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 2 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 2 Croatia ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80337
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 3 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 3 Croatia ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80338
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 4 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 4 Croatia ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80339
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 4 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 4 Croatia ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80340
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 5 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 5 Croatia ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80341
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 6 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 6 Croatia ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80342
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 1 Premium SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 1 Premium SRB ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80319
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 2 Premium SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 2 Premium SRB ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80320
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 3 Premium SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 3 Premium SRB ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80321
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 1 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 1 SRB ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80349
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 2 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 2 SRB ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80350
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 3 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 3 SRB ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80351
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 4 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 4 SRB ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80352
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 5 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 5 SRB ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80353
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 6 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 6 SRB ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80354
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 7 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 7 SRB ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80355
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 8 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 8 SRB ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80356
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 1x2 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 1x2 SRB ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80322
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Fight SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Fight SRB ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80323
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena ESports SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena ESports SRB ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80324
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 1 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 1 SRB ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80325
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 2 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 2 SRB ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80326
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 3 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 3 SRB ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80327
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 4 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 4 SRB ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80328
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 5 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 5 SRB ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80329
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 6 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 6 SRB ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80330
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 7 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 7 SRB ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80331
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 8 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 8 SRB ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80332
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub Golf SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub Golf SRB ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80335
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub ESport SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub ESport SRB ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80334
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Dazn 1 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom Dazn 1 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/58597
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Dazn 2 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom Dazn 2 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/20256
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar M+ LaLigaTV ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",ES: Movistar M+ LaLigaTV ᵁᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80264
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Dazn LaLiga ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",ES: Movistar Dazn LaLiga ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80255
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LaLiga TV Hypermotion 1 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",ES: Movistar LaLiga TV Hypermotion 1 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80265
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LaLiga TV Hypermotion 2 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",ES: Movistar LaLiga TV Hypermotion 2 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80266
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LaLiga TV Hypermotion 3 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",ES: Movistar LaLiga TV Hypermotion 3 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80267
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Dazn 1 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",ES: Movistar Dazn 1 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80257
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Dazn 2 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",ES: Movistar Dazn 2 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80258
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Dazn 3 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",ES: Movistar Dazn 3 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80259
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Dazn 4 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",ES: Movistar Dazn 4 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80260
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Dazn F1 ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",ES: Movistar Dazn F1 ᵁᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80256
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom | SportDigital Fussball ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom | SportDigital Fussball ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80241
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom | MagentaSport ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom | MagentaSport ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80230
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom myTeamTV | Sport 1 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom myTeamTV | Sport 1 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80231
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom myTeamTV | Sport 2 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom myTeamTV | Sport 2 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80232
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom myTeamTV | Sport 3 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom myTeamTV | Sport 3 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80233
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom myTeamTV | Sport 4 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom myTeamTV | Sport 4 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80234
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom myTeamTV | Sport 5 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom myTeamTV | Sport 5 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80235
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom myTeamTV | Sport 6 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom myTeamTV | Sport 6 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80236
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom myTeamTV | Sport 7 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom myTeamTV | Sport 7 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80237
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom myTeamTV | Sport 8 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom myTeamTV | Sport 8 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80238
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom myTeamTV | Sport 9 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom myTeamTV | Sport 9 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80239
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom myTeamTV | Sport 10 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom myTeamTV | Sport 10 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80240
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom myTeamTV | Sport 11 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom myTeamTV | Sport 11 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80245
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom myTeamTV | Sport 12 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom myTeamTV | Sport 12 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80246
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom myTeamTV | Sport 13 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom myTeamTV | Sport 13 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80247
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom myTeamTV | Sport 14 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom myTeamTV | Sport 14 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80248
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom myTeamTV | Sport 15 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom myTeamTV | Sport 15 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80249
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom myTeamTV | Sport 16 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom myTeamTV | Sport 16 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80250
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom myTeamTV | Sport 17 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom myTeamTV | Sport 17 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80251
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom myTeamTV | Sport 18 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom myTeamTV | Sport 18 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80252
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom | Sky Sport News ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom | Sky Sport News ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30173
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom | Sky Sport News ᶠᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom | Sky Sport News ᶠᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80244
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom | Sky Sport Top Event ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom | Sky Sport Top Event ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30197
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom | Sky Sport Premier League ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom | Sky Sport Premier League ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/10811
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom | Sky Sport Mix ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom | Sky Sport Mix ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/35973
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom | Sky Sport Tennis ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom | Sky Sport Tennis ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80253
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom | Sky Sport Golf ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom | Sky Sport Golf ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80254
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 1 ᶠᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 1 ᶠᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/1106
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 2 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 2 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30205
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 2 ᶠᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 2 ᶠᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/1495
+#EXTINF:-1 tvg-id="SSS Sport 2 DE" tvg-name="DE: Sky Sport 2 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 2 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/6451
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 3 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 3 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30200
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 3 ᶠᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 3 ᶠᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/2734
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 4 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 4 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30199
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 4 ᶠᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 4 ᶠᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/2735
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 5 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 5 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30198
+#EXTINF:-1 tvg-id="SSS Sport 5 DE" tvg-name="DE: Sky Sport 5 ᶠᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 5 ᶠᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/2736
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 6 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 6 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30195
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 6 ᶠᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 6 ᶠᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/7305
+#EXTINF:-1 tvg-id="SSS Sport 7 DE" tvg-name="DE: Sky Sport 7 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 7 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30194
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 7 ᶠᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 7 ᶠᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/7306
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 8 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 8 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30193
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 8 ᶠᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 8 ᶠᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/7307
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 9 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 9 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30192
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 9 ᶠᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 9 ᶠᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/7308
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 10 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 10 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/30191
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 10 ᶠᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 10 ᶠᴴᴰ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/7309
+#EXTINF:-1 tvg-id="" tvg-name="AU: ORF Sport+ ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AU: ORF Sport+ ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80291
+#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 1 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AU: Sky Sport Austria 1 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80292
+#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 2 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AU: Sky Sport Austria 2 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80293
+#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 3 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AU: Sky Sport Austria 3 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80294
+#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 4 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AU: Sky Sport Austria 4 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80295
+#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 5 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AU: Sky Sport Austria 5 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80296
+#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 6 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AU: Sky Sport Austria 6 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80297
+#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 7 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AU: Sky Sport Austria 7 ⁴ᴷ
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80298
