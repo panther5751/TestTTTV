@@ -567,215 +567,60 @@ http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80296
 http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80297
 #EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 7 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AU: Sky Sport Austria 7 ⁴ᴷ
 http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/80298
-#EXTINF:-1 tvg-id="147669" tvg-name="8K | NPO 1" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/NPO1.png" group-title="NL | 8K NEDERLAND",8K | NPO 1
-ffmpeg http://localhost/ch/147669_
-#EXTINF:-1 tvg-id="147670" tvg-name="8K | NPO 2 " tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/NPO2.png" group-title="NL | 8K NEDERLAND",8K | NPO 2 
-ffmpeg http://localhost/ch/147670_
-#EXTINF:-1 tvg-id="147671" tvg-name="8K | NPO 3" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/NPO3.png" group-title="NL | 8K NEDERLAND",8K | NPO 3
-ffmpeg http://localhost/ch/147671_
-#EXTINF:-1 tvg-id="147672" tvg-name="8K | RTL 4" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/RTL4.png" group-title="NL | 8K NEDERLAND",8K | RTL 4
-ffmpeg http://localhost/ch/147672_
-#EXTINF:-1 tvg-id="169252" tvg-name="8K | RTL 5 " tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/RTL5.png" group-title="NL | 8K NEDERLAND",8K | RTL 5 
-ffmpeg http://localhost/ch/169252_
-#EXTINF:-1 tvg-id="147673" tvg-name="8K | SBS 6" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/SBS6.png" group-title="NL | 8K NEDERLAND",8K | SBS 6
-ffmpeg http://localhost/ch/147673_
-#EXTINF:-1 tvg-id="147674" tvg-name="8K | RTL 7" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/RTL7.png" group-title="NL | 8K NEDERLAND",8K | RTL 7
-ffmpeg http://localhost/ch/147674_
-#EXTINF:-1 tvg-id="147675" tvg-name="8K | RTL 8" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/RTL8.png" group-title="NL | 8K NEDERLAND",8K | RTL 8
-ffmpeg http://localhost/ch/147675_
-#EXTINF:-1 tvg-id="150537" tvg-name="8K | VIAPLAY TV" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/SBS9.png" group-title="NL | 8K NEDERLAND",8K | VIAPLAY TV
-ffmpeg http://localhost/ch/150537_
-#EXTINF:-1 tvg-id="150563" tvg-name="8K | NET 5" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/NET5.png" group-title="NL | 8K NEDERLAND",8K | NET 5
-ffmpeg http://localhost/ch/150563_
-#EXTINF:-1 tvg-id="150554" tvg-name="8K | VERONICA DISNEY XD " tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/VERONICAHDDISNEYXD.png" group-title="NL | 8K NEDERLAND",8K | VERONICA DISNEY XD 
-ffmpeg http://localhost/ch/150554_
-#EXTINF:-1 tvg-id="150539" tvg-name="8K | RTL Z" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/RTLZ.png" group-title="NL | 8K NEDERLAND",8K | RTL Z
-ffmpeg http://localhost/ch/150539_
-#EXTINF:-1 tvg-id="150558" tvg-name="8K | STAR CHANNEL" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="NL | 8K NEDERLAND",8K | STAR CHANNEL
-ffmpeg http://localhost/ch/150558_
-#EXTINF:-1 tvg-id="150547" tvg-name="8K | PARAMOUNT NETWORK" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="NL | 8K NEDERLAND",8K | PARAMOUNT NETWORK
-ffmpeg http://localhost/ch/150547_
-#EXTINF:-1 tvg-id="150545" tvg-name="8K | COMEDY CENTRAL" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/COMEDYCENTRAL.png" group-title="NL | 8K NEDERLAND",8K | COMEDY CENTRAL
-ffmpeg http://localhost/ch/150545_
-#EXTINF:-1 tvg-id="150561" tvg-name="8K | NICKELODEON " tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/NICKELODEON.png" group-title="NL | 8K NEDERLAND",8K | NICKELODEON 
-ffmpeg http://localhost/ch/150561_
-#EXTINF:-1 tvg-id="264903" tvg-name="8K | DISNEY CHANNEL" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/DISNEYCHANNEL.png" group-title="NL | 8K NEDERLAND",8K | DISNEY CHANNEL
-ffmpeg http://localhost/ch/264903_
-#EXTINF:-1 tvg-id="150544" tvg-name="8K | CARTOON NETWORK " tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/CARTOONNETWORK.png" group-title="NL | 8K NEDERLAND",8K | CARTOON NETWORK 
-ffmpeg http://localhost/ch/150544_
-#EXTINF:-1 tvg-id="150549" tvg-name="8K | RTL TELEKIDS " tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/TELEKIDS.png" group-title="NL | 8K NEDERLAND",8K | RTL TELEKIDS 
-ffmpeg http://localhost/ch/150549_
-#EXTINF:-1 tvg-id="150565" tvg-name="8K | MTV" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/MTV.png" group-title="NL | 8K NEDERLAND",8K | MTV
-ffmpeg http://localhost/ch/150565_
-#EXTINF:-1 tvg-id="150564" tvg-name="8K | DANCE TRIPPIN " tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/DANCETRIPPIN.png" group-title="NL | 8K NEDERLAND",8K | DANCE TRIPPIN 
-ffmpeg http://localhost/ch/150564_
-#EXTINF:-1 tvg-id="150548" tvg-name="8K | XITE " tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/XITE.png" group-title="NL | 8K NEDERLAND",8K | XITE 
-ffmpeg http://localhost/ch/150548_
-#EXTINF:-1 tvg-id="354021" tvg-name="8K | FILMBOX" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="NL | 8K NEDERLAND",8K | FILMBOX
-ffmpeg http://localhost/ch/354021_
-#EXTINF:-1 tvg-id="169254" tvg-name="8K | FILM1 PREMIERE " tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/FILM1PREMIERE.png" group-title="NL | 8K NEDERLAND",8K | FILM1 PREMIERE 
-ffmpeg http://localhost/ch/169254_
-#EXTINF:-1 tvg-id="169255" tvg-name="8K | FILM1 ACTION " tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/FILM1ACTION.png" group-title="NL | 8K NEDERLAND",8K | FILM1 ACTION 
-ffmpeg http://localhost/ch/169255_
-#EXTINF:-1 tvg-id="169256" tvg-name="8K | FILM1 DRAMA" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/FILM1DRAMA.png" group-title="NL | 8K NEDERLAND",8K | FILM1 DRAMA
-ffmpeg http://localhost/ch/169256_
-#EXTINF:-1 tvg-id="169257" tvg-name="8K | FILM1 FAMILY " tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/FILM1FAMILY.png" group-title="NL | 8K NEDERLAND",8K | FILM1 FAMILY 
-ffmpeg http://localhost/ch/169257_
-#EXTINF:-1 tvg-id="391617" tvg-name="8K | RAKUTEN STORIES" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="NL | 8K NEDERLAND",8K | RAKUTEN STORIES
-ffmpeg http://localhost/ch/391617_
-#EXTINF:-1 tvg-id="391616" tvg-name="8K | RAKUTEN FAMILY" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="NL | 8K NEDERLAND",8K | RAKUTEN FAMILY
-ffmpeg http://localhost/ch/391616_
-#EXTINF:-1 tvg-id="391615" tvg-name="8K | RAKUTEN DRAMA" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="NL | 8K NEDERLAND",8K | RAKUTEN DRAMA
-ffmpeg http://localhost/ch/391615_
-#EXTINF:-1 tvg-id="391614" tvg-name="8K | RAKUTEN COMEDY" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="NL | 8K NEDERLAND",8K | RAKUTEN COMEDY
-ffmpeg http://localhost/ch/391614_
-#EXTINF:-1 tvg-id="391613" tvg-name="8K | RAKUTEN ACTION" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="NL | 8K NEDERLAND",8K | RAKUTEN ACTION
-ffmpeg http://localhost/ch/391613_
-#EXTINF:-1 tvg-id="391612" tvg-name="8K | RAKUTEN ROMANTIEK" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="NL | 8K NEDERLAND",8K | RAKUTEN ROMANTIEK
-ffmpeg http://localhost/ch/391612_
-#EXTINF:-1 tvg-id="150536" tvg-name="8K | RTL LOUNGE" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/RTLLOUNGE.png" group-title="NL | 8K NEDERLAND",8K | RTL LOUNGE
-ffmpeg http://localhost/ch/150536_
-#EXTINF:-1 tvg-id="150535" tvg-name="8K | RTL CRIME" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/RTLCRIME.png" group-title="NL | 8K NEDERLAND",8K | RTL CRIME
-ffmpeg http://localhost/ch/150535_
-#EXTINF:-1 tvg-id="150562" tvg-name="8K | E! ENTERTAINMENT " tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/E!.png" group-title="NL | 8K NEDERLAND",8K | E! ENTERTAINMENT 
-ffmpeg http://localhost/ch/150562_
-#EXTINF:-1 tvg-id="150559" tvg-name="8K | TLC" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/TLC.png" group-title="NL | 8K NEDERLAND",8K | TLC
-ffmpeg http://localhost/ch/150559_
-#EXTINF:-1 tvg-id="150546" tvg-name="8K | 24 KITCHEN " tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/24KITCHEN.png" group-title="NL | 8K NEDERLAND",8K | 24 KITCHEN 
-ffmpeg http://localhost/ch/150546_
-#EXTINF:-1 tvg-id="150541" tvg-name="8K | DISCOVERY CHANNEL" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/DISCOVERY.png" group-title="NL | 8K NEDERLAND",8K | DISCOVERY CHANNEL
-ffmpeg http://localhost/ch/150541_
-#EXTINF:-1 tvg-id="150553" tvg-name="8K | DISCOVERY SCIENCE " tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/DISCOVERYSCIENCE.png" group-title="NL | 8K NEDERLAND",8K | DISCOVERY SCIENCE 
-ffmpeg http://localhost/ch/150553_
-#EXTINF:-1 tvg-id="150542" tvg-name="8K | NATIONAL GEOGRAPHIC" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NGC.png" group-title="NL | 8K NEDERLAND",8K | NATIONAL GEOGRAPHIC
-ffmpeg http://localhost/ch/150542_
-#EXTINF:-1 tvg-id="150552" tvg-name="8K | NAT GEO WILD " tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NGCWILD.png" group-title="NL | 8K NEDERLAND",8K | NAT GEO WILD 
-ffmpeg http://localhost/ch/150552_
-#EXTINF:-1 tvg-id="150543" tvg-name="8K | ANIMAL PLANET" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/ANIMALPLANET.png" group-title="NL | 8K NEDERLAND",8K | ANIMAL PLANET
-ffmpeg http://localhost/ch/150543_
-#EXTINF:-1 tvg-id="150555" tvg-name="8K | HORSE AND COUNTRY " tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/HORSEANDCOUNTRY.png" group-title="NL | 8K NEDERLAND",8K | HORSE AND COUNTRY 
-ffmpeg http://localhost/ch/150555_
-#EXTINF:-1 tvg-id="150567" tvg-name="8K | LOVE NATURE" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/LOVENATURE.png" group-title="NL | 8K NEDERLAND",8K | LOVE NATURE
-ffmpeg http://localhost/ch/150567_
-#EXTINF:-1 tvg-id="416784" tvg-name="8K | HGTV NL" tvg-logo="https://logo.diamondtv.one/images/logos/diamond.png" group-title="NL | 8K NEDERLAND",8K | HGTV NL
-ffmpeg http://localhost/ch/416784_
-#EXTINF:-1 tvg-id="147680" tvg-name="8K | HISTORY " tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HISTORY.png" group-title="NL | 8K NEDERLAND",8K | HISTORY 
-ffmpeg http://localhost/ch/147680_
-#EXTINF:-1 tvg-id="169262" tvg-name="8K | INVESTIGATION DISCOVERY" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/ID.png" group-title="NL | 8K NEDERLAND",8K | INVESTIGATION DISCOVERY
-ffmpeg http://localhost/ch/169262_
-#EXTINF:-1 tvg-id="212390" tvg-name="8K | ESPN ULTRA" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/ESPN.png" group-title="NL | 8K NEDERLAND",8K | ESPN ULTRA
-ffmpeg http://localhost/ch/212390_
-#EXTINF:-1 tvg-id="147676" tvg-name="8K | ESPN 1" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/ESPN.png" group-title="NL | 8K NEDERLAND",8K | ESPN 1
-ffmpeg http://localhost/ch/147676_
-#EXTINF:-1 tvg-id="147677" tvg-name="8K | ESPN 2 " tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/ESPN.png" group-title="NL | 8K NEDERLAND",8K | ESPN 2 
-ffmpeg http://localhost/ch/147677_
-#EXTINF:-1 tvg-id="169253" tvg-name="8K | ESPN 3 " tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/ESPN.png" group-title="NL | 8K NEDERLAND",8K | ESPN 3 
-ffmpeg http://localhost/ch/169253_
-#EXTINF:-1 tvg-id="147678" tvg-name="8K | ESPN 4 " tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/ESPN.png" group-title="NL | 8K NEDERLAND",8K | ESPN 4 
-ffmpeg http://localhost/ch/147678_
-#EXTINF:-1 tvg-id="212393" tvg-name="8K | ZIGGO SPORT ULTRA" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/ZIGGOSPORT.png" group-title="NL | 8K NEDERLAND",8K | ZIGGO SPORT ULTRA
-ffmpeg http://localhost/ch/212393_
-#EXTINF:-1 tvg-id="147679" tvg-name="8K | ZIGGO SPORT SELECT" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-OLD/ZIGGOSPORT.png" group-title="NL | 8K NEDERLAND",8K | ZIGGO SPORT SELECT
-ffmpeg http://localhost/ch/147679_
-#EXTINF:-1 tvg-id="150551" tvg-name="8K | ZIGGO SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/ZIGGOSPORT.png" group-title="NL | 8K NEDERLAND",8K | ZIGGO SPORT
-ffmpeg http://localhost/ch/150551_
-#EXTINF:-1 tvg-id="150556" tvg-name="8K | ZIGGO SPORT 2" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-OLD/ZIGGOSPORT.png" group-title="NL | 8K NEDERLAND",8K | ZIGGO SPORT 2
-ffmpeg http://localhost/ch/150556_
-#EXTINF:-1 tvg-id="150550" tvg-name="8K | ZIGGO SPORT 3" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-OLD/ZIGGOSPORT.png" group-title="NL | 8K NEDERLAND",8K | ZIGGO SPORT 3
-ffmpeg http://localhost/ch/150550_
-#EXTINF:-1 tvg-id="150538" tvg-name="8K | ZIGGO SPORT 4" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/ZIGGOSPORT.png" group-title="NL | 8K NEDERLAND",8K | ZIGGO SPORT 4
-ffmpeg http://localhost/ch/150538_
-#EXTINF:-1 tvg-id="150540" tvg-name="8K | EURO SPORT 1" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/EUROSPORT1.png" group-title="NL | 8K NEDERLAND",8K | EURO SPORT 1
-ffmpeg http://localhost/ch/150540_
-#EXTINF:-1 tvg-id="150560" tvg-name="8K | EURO SPORT 2" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/EUROSPORT2.png" group-title="NL | 8K NEDERLAND",8K | EURO SPORT 2
-ffmpeg http://localhost/ch/150560_
-#EXTINF:-1 tvg-id="147681" tvg-name="8K | VTM" tvg-logo="https://logo.diamondtv.one/images/logos/BELGIUM/VTMHD.png" group-title="NL | 8K NEDERLAND",8K | VTM
-ffmpeg http://localhost/ch/147681_
-#EXTINF:-1 tvg-id="147682" tvg-name="8K | VTM 2" tvg-logo="https://logo.diamondtv.one/images/logos/BELGIUM/VTMHD.png" group-title="NL | 8K NEDERLAND",8K | VTM 2
-ffmpeg http://localhost/ch/147682_
-#EXTINF:-1 tvg-id="169251" tvg-name="8K | VRT CANVAS " tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/CANVAS.png" group-title="NL | 8K NEDERLAND",8K | VRT CANVAS 
-ffmpeg http://localhost/ch/169251_
-#EXTINF:-1 tvg-id="264902" tvg-name="8K | BBC FIRST" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/BBCFIRST.png" group-title="NL | 8K NEDERLAND",8K | BBC FIRST
-ffmpeg http://localhost/ch/264902_
-#EXTINF:-1 tvg-id="2995" tvg-name="4K | NPO 1" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NPO1.png" group-title="NL | 4K NEDERLAND",4K | NPO 1
-ffmpeg http://localhost/ch/2995_
-#EXTINF:-1 tvg-id="2996" tvg-name="4K | NPO 2" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NPO2.png" group-title="NL | 4K NEDERLAND",4K | NPO 2
-ffmpeg http://localhost/ch/2996_
-#EXTINF:-1 tvg-id="2997" tvg-name="4K | NPO 3" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NPO3.png" group-title="NL | 4K NEDERLAND",4K | NPO 3
-ffmpeg http://localhost/ch/2997_
-#EXTINF:-1 tvg-id="2998" tvg-name="4K | RTL 4" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/RTL4.png" group-title="NL | 4K NEDERLAND",4K | RTL 4
-ffmpeg http://localhost/ch/2998_
-#EXTINF:-1 tvg-id="2999" tvg-name="4K | RTL 5" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/RTL5.png" group-title="NL | 4K NEDERLAND",4K | RTL 5
-ffmpeg http://localhost/ch/2999_
-#EXTINF:-1 tvg-id="3000" tvg-name="4K | SBS 6" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/SBS6.png" group-title="NL | 4K NEDERLAND",4K | SBS 6
-ffmpeg http://localhost/ch/3000_
-#EXTINF:-1 tvg-id="3001" tvg-name="4K | RTL 7" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/RTL7.png" group-title="NL | 4K NEDERLAND",4K | RTL 7
-ffmpeg http://localhost/ch/3001_
-#EXTINF:-1 tvg-id="3004" tvg-name="4K | RTL 8" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/RTL8.png" group-title="NL | 4K NEDERLAND",4K | RTL 8
-ffmpeg http://localhost/ch/3004_
-#EXTINF:-1 tvg-id="3013" tvg-name="4K | VIAPLAY TV" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/SBS9.png" group-title="NL | 4K NEDERLAND",4K | VIAPLAY TV
-ffmpeg http://localhost/ch/3013_
-#EXTINF:-1 tvg-id="3003" tvg-name="4K | NET 5" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NET5.png" group-title="NL | 4K NEDERLAND",4K | NET 5
-ffmpeg http://localhost/ch/3003_
-#EXTINF:-1 tvg-id="3002" tvg-name="4K | VERONICA / DISNEY XD" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/VERONICAHDDISNEYXD.png" group-title="NL | 4K NEDERLAND",4K | VERONICA / DISNEY XD
-ffmpeg http://localhost/ch/3002_
-#EXTINF:-1 tvg-id="3006" tvg-name="4K | RTL Z" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/RTL7.png" group-title="NL | 4K NEDERLAND",4K | RTL Z
-ffmpeg http://localhost/ch/3006_
-#EXTINF:-1 tvg-id="18679" tvg-name="4K | NPO 1 EXTRA" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NPO1.png" group-title="NL | 4K NEDERLAND",4K | NPO 1 EXTRA
-ffmpeg http://localhost/ch/18679_
-#EXTINF:-1 tvg-id="17201" tvg-name="4K | NPO 2 EXTRA " tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NPO2.png" group-title="NL | 4K NEDERLAND",4K | NPO 2 EXTRA 
-ffmpeg http://localhost/ch/17201_
-#EXTINF:-1 tvg-id="18184" tvg-name="4K | NPO NIEUWS" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NPONIEUWS.png" group-title="NL | 4K NEDERLAND",4K | NPO NIEUWS
-ffmpeg http://localhost/ch/18184_
-#EXTINF:-1 tvg-id="3079" tvg-name="4K | NPO POLITIEK" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NPOPOLITIEK.png" group-title="NL | 4K NEDERLAND",4K | NPO POLITIEK
-ffmpeg http://localhost/ch/3079_
-#EXTINF:-1 tvg-id="3009" tvg-name="4K | COMEDY CENTRAL" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/COMEDYCENTRAL.png" group-title="NL | 4K NEDERLAND",4K | COMEDY CENTRAL
-ffmpeg http://localhost/ch/3009_
-#EXTINF:-1 tvg-id="3010" tvg-name="4K | PARAMOUNT NETWORK" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="NL | 4K NEDERLAND",4K | PARAMOUNT NETWORK
-ffmpeg http://localhost/ch/3010_
-#EXTINF:-1 tvg-id="3005" tvg-name="4K | STAR CHANNEL" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="NL | 4K NEDERLAND",4K | STAR CHANNEL
-ffmpeg http://localhost/ch/3005_
-#EXTINF:-1 tvg-id="18730" tvg-name="4K | ZIGGO TV" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/ZIGGOSPORT.png" group-title="NL | 4K NEDERLAND",4K | ZIGGO TV
-ffmpeg http://localhost/ch/18730_
-#EXTINF:-1 tvg-id="3026" tvg-name="4K | ÉÉN" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/EEN.png" group-title="NL | 4K NEDERLAND",4K | ÉÉN
-ffmpeg http://localhost/ch/3026_
-#EXTINF:-1 tvg-id="182689" tvg-name="✦●✦●      ENTERTAINMENT      ✦●✦●" tvg-logo="https://logo.diamondtv.one/images/logos/flags/nederland.png" group-title="NL | 4K NEDERLAND",✦●✦●      ENTERTAINMENT      ✦●✦●
-ffmpeg http://localhost/ch/182689_
-#EXTINF:-1 tvg-id="3049" tvg-name="4K | RTL LOUNGE" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/RTLLOUNGE.png" group-title="NL | 4K NEDERLAND",4K | RTL LOUNGE
-ffmpeg http://localhost/ch/3049_
-#EXTINF:-1 tvg-id="3039" tvg-name="4K | RTL CRIME" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/RTL_Crime.png" group-title="NL | 4K NEDERLAND",4K | RTL CRIME
-ffmpeg http://localhost/ch/3039_
-#EXTINF:-1 tvg-id="17196" tvg-name="4K | CRIME INVESTIGATION NETWORK" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/CRIMEINVESTIGATION.png" group-title="NL | 4K NEDERLAND",4K | CRIME INVESTIGATION NETWORK
-ffmpeg http://localhost/ch/17196_
-#EXTINF:-1 tvg-id="3042" tvg-name="4K | E! ENTERTAINMENT" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/E!.png" group-title="NL | 4K NEDERLAND",4K | E! ENTERTAINMENT
-ffmpeg http://localhost/ch/3042_
-#EXTINF:-1 tvg-id="3016" tvg-name="4K | TLC" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/TLC.png" group-title="NL | 4K NEDERLAND",4K | TLC
-ffmpeg http://localhost/ch/3016_
-#EXTINF:-1 tvg-id="112871" tvg-name="4K | FASHION TV" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/FASHION.png" group-title="NL | 4K NEDERLAND",4K | FASHION TV
-ffmpeg http://localhost/ch/112871_
-#EXTINF:-1 tvg-id="3019" tvg-name="4K | 24 KITCHEN" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/24KITCHEN.png" group-title="NL | 4K NEDERLAND",4K | 24 KITCHEN
-ffmpeg http://localhost/ch/3019_
-#EXTINF:-1 tvg-id="3025" tvg-name="4K | ONS" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/ONS.png" group-title="NL | 4K NEDERLAND",4K | ONS
-ffmpeg http://localhost/ch/3025_
-#EXTINF:-1 tvg-id="150643" tvg-name="4K | OUT TV" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/OUTTV.png" group-title="NL | 4K NEDERLAND",4K | OUT TV
-ffmpeg http://localhost/ch/150643_
-#EXTINF:-1 tvg-id="182691" tvg-name="4K | FAMILY 7" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/FAMILY7.png" group-title="NL | 4K NEDERLAND",4K | FAMILY 7
-ffmpeg http://localhost/ch/182691_
-#EXTINF:-1 tvg-id="3096" tvg-name="4K | AT5" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/AT5.png" group-title="NL | 4K NEDERLAND",4K | AT5
-ffmpeg http://localhost/ch/3096_
-#EXTINF:-1 tvg-id="186432" tvg-name="4K | GO-RTV" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/GO-TV.png" group-title="NL | 4K NEDERLAND",4K | GO-RTV
-ffmpeg http://localhost/ch/186432_
-#EXTINF:-1 tvg-id="182727" tvg-name="4K | BBC ONE" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/BBCONE.png" group-title="NL | 4K NEDERLAND",4K | BBC ONE
-ffmpeg http://localhost/ch/182727_
-#EXTINF:-1 tvg-id="3017" tvg-name="4K | BBC FIRST" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/BBCFIRST.png" group-title="NL | 4K NEDERLAND",4K | BBC FIRST
-ffmpeg http://localhost/ch/3017_
-#EXTINF:-1 tvg-id="182730" tvg-name="4K | BBC TWO" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/BBCTWO.png" group-title="NL | 4K NEDERLAND",4K | BBC TWO
-ffmpeg http://localhost/ch/182730_
-#EXTINF:-1 tvg-id="3027" tvg-name="4K | CANVAS" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/CANVAS.png" group-title="NL | 4K NEDERLAND",4K | CANVAS
-ffmpeg http://localhost/ch/3027_
-#EXTINF:-1 tvg-id="182726" tvg-name="4K | ONE 1" tvg-logo="https://logo.diamondtv.one/images/logos/germanynew/one_1.png" group-title="NL | 4K NEDERLAND",4K | ONE 1
-ffmpeg http://localhost/ch/182726_
-#EXTINF:-1 tvg-id="182728" tvg-name="4K | CBS REALITY" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/CBS.png" group-title="NL | 4K NEDERLAND",4K | CBS REALITY
-ffmpeg http://localhost/ch/182728_
-#EXTINF:-1 tvg-id="182729" tvg-name="4K | MYZEN" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/MYZEN.png" group-title="NL | 4K NEDERLAND",4K | MYZEN
-ffmpeg http://localhost/ch/182729_
+
+#EXTINF:-1 tvg-id="416783" tvg-name="4K | FIX-TV NEW GIRL" tvg-logo="https://logo.diamondtv.one/images/logos/diamond.png" group-title="NL | FILMS EN SERIES",4K | FIX-TV NEW GIRL
+ffmpeg http://localhost/ch/416783_
+#EXTINF:-1 tvg-id="417472" tvg-name="4K | FIX-TV LA CASA DE PAPEL" tvg-logo="https://logo.diamondtv.one/images/logos/diamond.png" group-title="NL | FILMS EN SERIES",4K | FIX-TV LA CASA DE PAPEL
+ffmpeg http://localhost/ch/417472_
+#EXTINF:-1 tvg-id="130843" tvg-name="4K | FIX-TV VIN DIESEL" tvg-logo="https://logo.diamondtv.one/images/logos/diamond.png" group-title="NL | FILMS EN SERIES",4K | FIX-TV VIN DIESEL
+ffmpeg http://localhost/ch/130843_
+#EXTINF:-1 tvg-id="214707" tvg-name="✦●✦●   SP⚽RT   ✦●✦●" tvg-logo="https://logo.diamondtv.one/images/logos/flags/nederland.png" group-title="NL | ESPN & ZIGGO SPORT",✦●✦●   SP⚽RT   ✦●✦●
+ffmpeg http://localhost/ch/214707_
+#EXTINF:-1 tvg-id="212656" tvg-name="8K | ESPN ULTRA" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/ESPN.png" group-title="NL | ESPN & ZIGGO SPORT",8K | ESPN ULTRA
+ffmpeg http://localhost/ch/212656_
+#EXTINF:-1 tvg-id="3072" tvg-name="4K | ESPN 1 ⚽" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/ESPN.png" group-title="NL | ESPN & ZIGGO SPORT",4K | ESPN 1 ⚽
+ffmpeg http://localhost/ch/3072_
+#EXTINF:-1 tvg-id="3073" tvg-name="4K | ESPN 2" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/ESPN.png" group-title="NL | ESPN & ZIGGO SPORT",4K | ESPN 2
+ffmpeg http://localhost/ch/3073_
+#EXTINF:-1 tvg-id="3074" tvg-name="4K | ESPN 3" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/ESPN.png" group-title="NL | ESPN & ZIGGO SPORT",4K | ESPN 3
+ffmpeg http://localhost/ch/3074_
+#EXTINF:-1 tvg-id="3075" tvg-name="4K | ESPN 4" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/ESPN.png" group-title="NL | ESPN & ZIGGO SPORT",4K | ESPN 4
+ffmpeg http://localhost/ch/3075_
+#EXTINF:-1 tvg-id="18185" tvg-name="4K | ZIGGO SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-OLD/ZIGGOSPORT.png" group-title="NL | ESPN & ZIGGO SPORT",4K | ZIGGO SPORT
+ffmpeg http://localhost/ch/18185_
+#EXTINF:-1 tvg-id="212655" tvg-name="8K | ZIGGO SPORT ULTRA+" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/ZIGGOSPORT.png" group-title="NL | ESPN & ZIGGO SPORT",8K | ZIGGO SPORT ULTRA+
+ffmpeg http://localhost/ch/212655_
+#EXTINF:-1 tvg-id="3065" tvg-name="4K | ZIGGO SPORT SELECT" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-OLD/ZIGGOSPORT.png" group-title="NL | ESPN & ZIGGO SPORT",4K | ZIGGO SPORT SELECT
+ffmpeg http://localhost/ch/3065_
+#EXTINF:-1 tvg-id="3066" tvg-name="4K | ZIGGO SPORT 2" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-OLD/ZIGGOSPORT.png" group-title="NL | ESPN & ZIGGO SPORT",4K | ZIGGO SPORT 2
+ffmpeg http://localhost/ch/3066_
+#EXTINF:-1 tvg-id="3067" tvg-name="4K | ZIGGO SPORT 3" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-OLD/ZIGGOSPORT.png" group-title="NL | ESPN & ZIGGO SPORT",4K | ZIGGO SPORT 3
+ffmpeg http://localhost/ch/3067_
+#EXTINF:-1 tvg-id="3068" tvg-name="4K | ZIGGO SPORT 4" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-OLD/ZIGGOSPORT.png" group-title="NL | ESPN & ZIGGO SPORT",4K | ZIGGO SPORT 4
+ffmpeg http://localhost/ch/3068_
+#EXTINF:-1 tvg-id="18681" tvg-name="4K | ZIGGO SPORT 5" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-OLD/ZIGGOSPORT.png" group-title="NL | ESPN & ZIGGO SPORT",4K | ZIGGO SPORT 5
+ffmpeg http://localhost/ch/18681_
+#EXTINF:-1 tvg-id="3070" tvg-name="4K | ZIGGO SPORT 6" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-OLD/ZIGGOSPORT.png" group-title="NL | ESPN & ZIGGO SPORT",4K | ZIGGO SPORT 6
+ffmpeg http://localhost/ch/3070_
+#EXTINF:-1 tvg-id="3014" tvg-name="4K | EURO SPORT 1" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/EUROSPORT1.png" group-title="NL | ESPN & ZIGGO SPORT",4K | EURO SPORT 1
+ffmpeg http://localhost/ch/3014_
+#EXTINF:-1 tvg-id="3015" tvg-name="4K | EURO SPORT 2" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/EUROSPORT2.png" group-title="NL | ESPN & ZIGGO SPORT",4K | EURO SPORT 2
+ffmpeg http://localhost/ch/3015_
+#EXTINF:-1 tvg-id="715584" tvg-name="4K | FEYENOORD ONE" tvg-logo="https://i.imgur.com/W3IoorB.png" group-title="NL | ESPN & ZIGGO SPORT",4K | FEYENOORD ONE
+ffmpeg http://localhost/ch/715584_
+#EXTINF:-1 tvg-id="124160" tvg-name="4K | UFC NETWORK" tvg-logo="https://logo.diamondtv.one/images/logos/USA/UFC.png" group-title="NL | ESPN & ZIGGO SPORT",4K | UFC NETWORK
+ffmpeg http://localhost/ch/124160_
+#EXTINF:-1 tvg-id="182683" tvg-name="4K | PPV 1" tvg-logo="https://logo.diamondtv.one/images/logos/Diamond/NL4KSPORT/ppv1.png" group-title="NL | ESPN & ZIGGO SPORT",4K | PPV 1
+ffmpeg http://localhost/ch/182683_
+#EXTINF:-1 tvg-id="393556" tvg-name="NL | GLORY" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="NL | ESPN & ZIGGO SPORT",NL | GLORY
+ffmpeg http://localhost/ch/393556_
+#EXTINF:-1 tvg-id="182684" tvg-name="4K | PPV 2" tvg-logo="https://logo.diamondtv.one/images/logos/Diamond/NL4KSPORT/ppv2.png" group-title="NL | ESPN & ZIGGO SPORT",4K | PPV 2
+ffmpeg http://localhost/ch/182684_
+#EXTINF:-1 tvg-id="150868" tvg-name="4K | WWE" tvg-logo="https://logo.diamondtv.one/images/logos/USA/WWENETWORKHD.png" group-title="NL | ESPN & ZIGGO SPORT",4K | WWE
+ffmpeg http://localhost/ch/150868_
+#EXTINF:-1 tvg-id="150869" tvg-name="4K | BOXNATION" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/BOXNATION.png" group-title="NL | ESPN & ZIGGO SPORT",4K | BOXNATION
+ffmpeg http://localhost/ch/150869_
+#EXTINF:-1 tvg-id="4350" tvg-name="4K | RED BULL TV" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/REDBULLTV.png" group-title="NL | ESPN & ZIGGO SPORT",4K | RED BULL TV
+ffmpeg http://localhost/ch/4350_
+#EXTINF:-1 tvg-id="185159" tvg-name="4K | FIX-TV CRISTIANO RONALDO" tvg-logo="https://logo.diamondtv.one/images/logos/diamond.png" group-title="NL | ESPN & ZIGGO SPORT",4K | FIX-TV CRISTIANO RONALDO
+ffmpeg http://localhost/ch/185159_
