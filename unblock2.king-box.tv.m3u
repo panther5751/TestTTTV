@@ -4,13 +4,13 @@
 #EXT-X-SP-URL http://unblock2.king-box.tv?mac=00:1A:79:A2:22:23
 
 #EXTINF:-1 tvg-id="5144" tvg-name="======== Greece =======" group-title="未分类",======== Greece =======
-ffmpeg http://localhost/ch/5144_
+http://localhost/ch/5144_
 #EXTINF:-1 tvg-id="131180" tvg-name="GR:* ERT 1 HD" tvg-logo="http://ipro.tv/picons/ert1.png" group-title="Greece & Cyprus",GR:* ERT 1 HD
-ffmpeg http://localhost/ch/131180_
+http://localhost/ch/131180_
 #EXTINF:-1 tvg-id="2844" tvg-name="GR: ERT 1" tvg-logo="http://ipro.tv/picons/ert1.png" group-title="Greece & Cyprus",GR: ERT 1
-ffmpeg http://localhost/ch/2844_
+http://localhost/ch/2844_
 #EXTINF:-1 tvg-id="131181" tvg-name="GR:* ERT 2 HD" tvg-logo="http://ipro.tv/picons/ert2.png" group-title="Greece & Cyprus",GR:* ERT 2 HD
-ffmpeg http://localhost/ch/131181_
+http://localhost/ch/131181_
 #EXTINF:-1 tvg-id="2843" tvg-name="GR: ERT 2" tvg-logo="http://ipro.tv/picons/ert2.png" group-title="Greece & Cyprus",GR: ERT 2
 ffmpeg http://localhost/ch/2843_
 #EXTINF:-1 tvg-id="131182" tvg-name="GR:* ERT 3 HD" tvg-logo="http://ipro.tv/picons/ert3.png" group-title="Greece & Cyprus",GR:* ERT 3 HD
