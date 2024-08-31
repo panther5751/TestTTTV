@@ -1,0 +1,505 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE stalker
+#EXT-X-SP-URL http://unblock2.king-box.tv?mac=00:1A:79:A2:22:23
+
+#EXTINF:-1 tvg-id="5144" tvg-name="======== Greece =======" group-title="未分类",======== Greece =======
+ffmpeg http://localhost/ch/5144_
+#EXTINF:-1 tvg-id="131180" tvg-name="GR:* ERT 1 HD" tvg-logo="http://ipro.tv/picons/ert1.png" group-title="Greece & Cyprus",GR:* ERT 1 HD
+ffmpeg http://localhost/ch/131180_
+#EXTINF:-1 tvg-id="2844" tvg-name="GR: ERT 1" tvg-logo="http://ipro.tv/picons/ert1.png" group-title="Greece & Cyprus",GR: ERT 1
+ffmpeg http://localhost/ch/2844_
+#EXTINF:-1 tvg-id="131181" tvg-name="GR:* ERT 2 HD" tvg-logo="http://ipro.tv/picons/ert2.png" group-title="Greece & Cyprus",GR:* ERT 2 HD
+ffmpeg http://localhost/ch/131181_
+#EXTINF:-1 tvg-id="2843" tvg-name="GR: ERT 2" tvg-logo="http://ipro.tv/picons/ert2.png" group-title="Greece & Cyprus",GR: ERT 2
+ffmpeg http://localhost/ch/2843_
+#EXTINF:-1 tvg-id="131182" tvg-name="GR:* ERT 3 HD" tvg-logo="http://ipro.tv/picons/ert3.png" group-title="Greece & Cyprus",GR:* ERT 3 HD
+ffmpeg http://localhost/ch/131182_
+#EXTINF:-1 tvg-id="15056" tvg-name="GR: ERT 3" tvg-logo="http://ipro.tv/picons/ert3.png" group-title="Greece & Cyprus",GR: ERT 3
+ffmpeg http://localhost/ch/15056_
+#EXTINF:-1 tvg-id="208511" tvg-name="[GR] ERT World HD" tvg-logo="http://ipro.tv/picons/ertworld.png" group-title="Greece & Cyprus",[GR] ERT World HD
+ffmpeg http://localhost/ch/208511_
+#EXTINF:-1 tvg-id="196741" tvg-name="GR:* Mega FHD" tvg-logo="http://ipro.tv/picons/mega.png" group-title="Greece & Cyprus",GR:* Mega FHD
+ffmpeg http://localhost/ch/196741_
+#EXTINF:-1 tvg-id="276881" tvg-name="GR: Mega" tvg-logo="http://ipro.tv/picons/mega.png" group-title="Greece & Cyprus",GR: Mega
+ffmpeg http://localhost/ch/276881_
+#EXTINF:-1 tvg-id="126880" tvg-name="GR:* Ant 1 FHD" tvg-logo="http://ipro.tv/picons/ant1.png" group-title="Greece & Cyprus",GR:* Ant 1 FHD
+ffmpeg http://localhost/ch/126880_
+#EXTINF:-1 tvg-id="16801" tvg-name="GR: Ant 1 HD" tvg-logo="http://ipro.tv/picons/ant1.png" group-title="Greece & Cyprus",GR: Ant 1 HD
+ffmpeg http://localhost/ch/16801_
+#EXTINF:-1 tvg-id="1534" tvg-name="GR: Ant 1" tvg-logo="http://ipro.tv/picons/ant1.png" group-title="Greece & Cyprus",GR: Ant 1
+ffmpeg http://localhost/ch/1534_
+#EXTINF:-1 tvg-id="325309" tvg-name="GR: ANT 1 Sat" tvg-logo="http://ipro.tv/picons/ant1.png" group-title="Greece & Cyprus",GR: ANT 1 Sat
+ffmpeg http://localhost/ch/325309_
+#EXTINF:-1 tvg-id="126887" tvg-name="GR:* Star FHD" tvg-logo="http://ipro.tv/picons/starhd.png" group-title="Greece & Cyprus",GR:* Star FHD
+ffmpeg http://localhost/ch/126887_
+#EXTINF:-1 tvg-id="16797" tvg-name="GR: Star HD" tvg-logo="http://ipro.tv/picons/starhd.png" group-title="Greece & Cyprus",GR: Star HD
+ffmpeg http://localhost/ch/16797_
+#EXTINF:-1 tvg-id="3680" tvg-name="GR: Star" tvg-logo="http://ipro.tv/picons/starhd.png" group-title="Greece & Cyprus",GR: Star
+ffmpeg http://localhost/ch/3680_
+#EXTINF:-1 tvg-id="126875" tvg-name="GR:* Alpha FHD" tvg-logo="http://ipro.tv/picons/alphahd.png" group-title="Greece & Cyprus",GR:* Alpha FHD
+ffmpeg http://localhost/ch/126875_
+#EXTINF:-1 tvg-id="16802" tvg-name="GR: Alpha HD" tvg-logo="http://ipro.tv/picons/alphahd.png" group-title="Greece & Cyprus",GR: Alpha HD
+ffmpeg http://localhost/ch/16802_
+#EXTINF:-1 tvg-id="1530" tvg-name="GR: Alpha" tvg-logo="http://ipro.tv/picons/alpha.png" group-title="Greece & Cyprus",GR: Alpha
+ffmpeg http://localhost/ch/1530_
+#EXTINF:-1 tvg-id="335514" tvg-name="GR: Alpha Sat HD" tvg-logo="http://ipro.tv/picons/alpha.png" group-title="Greece & Cyprus",GR: Alpha Sat HD
+ffmpeg http://localhost/ch/335514_
+#EXTINF:-1 tvg-id="126881" tvg-name="GR:* Skai FHD" tvg-logo="http://ipro.tv/picons/skai.png" group-title="Greece & Cyprus",GR:* Skai FHD
+ffmpeg http://localhost/ch/126881_
+#EXTINF:-1 tvg-id="16798" tvg-name="GR: Skai HD" tvg-logo="http://ipro.tv/picons/skai.png" group-title="Greece & Cyprus",GR: Skai HD
+ffmpeg http://localhost/ch/16798_
+#EXTINF:-1 tvg-id="3681" tvg-name="GR: Skai" tvg-logo="http://ipro.tv/picons/skai.png" group-title="Greece & Cyprus",GR: Skai
+ffmpeg http://localhost/ch/3681_
+#EXTINF:-1 tvg-id="126886" tvg-name="GR:* Open Beyond FHD" tvg-logo="http://ipro.tv/picons/openbeyond.png" group-title="Greece & Cyprus",GR:* Open Beyond FHD
+ffmpeg http://localhost/ch/126886_
+#EXTINF:-1 tvg-id="1538" tvg-name="GR: Open Beyond" tvg-logo="http://ipro.tv/picons/openbeyond.png" group-title="Greece & Cyprus",GR: Open Beyond
+ffmpeg http://localhost/ch/1538_
+#EXTINF:-1 tvg-id="16799" tvg-name="GR:* Makedonia TV FHD" tvg-logo="http://ipro.tv/picons/makedoniatv.png" group-title="Greece & Cyprus",GR:* Makedonia TV FHD
+ffmpeg http://localhost/ch/16799_
+#EXTINF:-1 tvg-id="1547" tvg-name="GR: Makedonia TV HD" tvg-logo="http://ipro.tv/picons/makedoniatv.png" group-title="Greece & Cyprus",GR: Makedonia TV HD
+ffmpeg http://localhost/ch/1547_
+#EXTINF:-1 tvg-id="112792" tvg-name="GR:* One Channel FHD" tvg-logo="http://ipro.tv/picons/onechannel.png" group-title="Greece & Cyprus",GR:* One Channel FHD
+ffmpeg http://localhost/ch/112792_
+#EXTINF:-1 tvg-id="96718" tvg-name="GR: One Channel" tvg-logo="http://ipro.tv/picons/onechannel.png" group-title="Greece & Cyprus",GR: One Channel
+ffmpeg http://localhost/ch/96718_
+#EXTINF:-1 tvg-id="22633" tvg-name="GR: Art" tvg-logo="http://ipro.tv/picons/art.png" group-title="Greece & Cyprus",GR: Art
+ffmpeg http://localhost/ch/22633_
+#EXTINF:-1 tvg-id="4247" tvg-name="GR: Action 24" tvg-logo="http://ipro.tv/picons/action24.png" group-title="Greece & Cyprus",GR: Action 24
+ffmpeg http://localhost/ch/4247_
+#EXTINF:-1 tvg-id="21033" tvg-name="GR: Euronews HD" tvg-logo="http://ipro.tv/picons/euronews.png" group-title="Greece & Cyprus",GR: Euronews HD
+ffmpeg http://localhost/ch/21033_
+#EXTINF:-1 tvg-id="351865" tvg-name="GR: Ionian TV" group-title="Greece & Cyprus",GR: Ionian TV
+ffmpeg http://localhost/ch/351865_
+#EXTINF:-1 tvg-id="351864" tvg-name="GR: Yachting TV HD" group-title="Greece & Cyprus",GR: Yachting TV HD
+ffmpeg http://localhost/ch/351864_
+#EXTINF:-1 tvg-id="122412" tvg-name="GR: Naftemporiki FHD" tvg-logo="http://ipro.tv/picons/black.png" group-title="Greece & Cyprus",GR: Naftemporiki FHD
+ffmpeg http://localhost/ch/122412_
+#EXTINF:-1 tvg-id="325297" tvg-name="GR: Krete Nea Teleorase" tvg-logo="http://ipro.tv/picons/nea.png" group-title="Greece & Cyprus",GR: Krete Nea Teleorase
+ffmpeg http://localhost/ch/325297_
+#EXTINF:-1 tvg-id="325296" tvg-name="GR: Star Kentrikes Elladas" tvg-logo="http://ipro.tv/picons/starkentrikiselladas.png" group-title="Greece & Cyprus",GR: Star Kentrikes Elladas
+ffmpeg http://localhost/ch/325296_
+#EXTINF:-1 tvg-id="341907" tvg-name="GR: FORMedia TV HD" tvg-logo="http://ipro.tv/picons/formediatv.png" group-title="Greece & Cyprus",GR: FORMedia TV HD
+ffmpeg http://localhost/ch/341907_
+#EXTINF:-1 tvg-id="1555" tvg-name="[GR] Vouli TV" tvg-logo="http://ipro.tv/picons/vouli.png" group-title="Greece & Cyprus",[GR] Vouli TV
+ffmpeg http://localhost/ch/1555_
+#EXTINF:-1 tvg-id="126898" tvg-name="[GR] ERT News" tvg-logo="http://ipro.tv/picons/ertnews.png" group-title="Greece & Cyprus",[GR] ERT News
+ffmpeg http://localhost/ch/126898_
+#EXTINF:-1 tvg-id="126897" tvg-name="[GR] Al Jazeera FHD" tvg-logo="http://ipro.tv/picons/aljazeera.png" group-title="Greece & Cyprus",[GR] Al Jazeera FHD
+ffmpeg http://localhost/ch/126897_
+#EXTINF:-1 tvg-id="13943" tvg-name="[GR] CNN HD" tvg-logo="http://ipro.tv/picons/cnn.png" group-title="Greece & Cyprus",[GR] CNN HD
+ffmpeg http://localhost/ch/13943_
+#EXTINF:-1 tvg-id="126900" tvg-name="[GR] CNBC" tvg-logo="http://ipro.tv/picons/cnbc.png" group-title="Greece & Cyprus",[GR] CNBC
+ffmpeg http://localhost/ch/126900_
+#EXTINF:-1 tvg-id="126899" tvg-name="[GR] France 24 FHD" tvg-logo="http://ipro.tv/picons/france24.png" group-title="Greece & Cyprus",[GR] France 24 FHD
+ffmpeg http://localhost/ch/126899_
+#EXTINF:-1 tvg-id="19606" tvg-name="------- Cyprus Channels --------" group-title="Greece & Cyprus",------- Cyprus Channels --------
+ffmpeg http://localhost/ch/19606_
+#EXTINF:-1 tvg-id="15064" tvg-name="CY:* Rik 1" tvg-logo="http://ipro.tv/picons/rik1cy.png" group-title="Greece & Cyprus",CY:* Rik 1
+ffmpeg http://localhost/ch/15064_
+#EXTINF:-1 tvg-id="15065" tvg-name="CY:* Rik 2" tvg-logo="http://ipro.tv/picons/rik2cy.png" group-title="Greece & Cyprus",CY:* Rik 2
+ffmpeg http://localhost/ch/15065_
+#EXTINF:-1 tvg-id="15063" tvg-name="CY: Rik Sat" tvg-logo="http://ipro.tv/picons/riksat.png" group-title="Greece & Cyprus",CY: Rik Sat
+ffmpeg http://localhost/ch/15063_
+#EXTINF:-1 tvg-id="1533" tvg-name="CY:* Ant 1" tvg-logo="http://ipro.tv/picons/ant1.png" group-title="Greece & Cyprus",CY:* Ant 1
+ffmpeg http://localhost/ch/1533_
+#EXTINF:-1 tvg-id="29233" tvg-name="CY:* Alpha" tvg-logo="http://ipro.tv/picons/alpha.png" group-title="Greece & Cyprus",CY:* Alpha
+ffmpeg http://localhost/ch/29233_
+#EXTINF:-1 tvg-id="18420" tvg-name="CY:* Omega" tvg-logo="http://ipro.tv/picons/omega.png" group-title="Greece & Cyprus",CY:* Omega
+ffmpeg http://localhost/ch/18420_
+#EXTINF:-1 tvg-id="1550" tvg-name="CY:* Sigma" tvg-logo="http://ipro.tv/picons/sigmatv.png" group-title="Greece & Cyprus",CY:* Sigma
+ffmpeg http://localhost/ch/1550_
+#EXTINF:-1 tvg-id="18423" tvg-name="CY: Capital TV" tvg-logo="http://ipro.tv/picons/capitaltvcy.png" group-title="Greece & Cyprus",CY: Capital TV
+ffmpeg http://localhost/ch/18423_
+#EXTINF:-1 tvg-id="96723" tvg-name="CY: Vergina" tvg-logo="http://ipro.tv/picons/verginatv.png" group-title="Greece & Cyprus",CY: Vergina
+ffmpeg http://localhost/ch/96723_
+#EXTINF:-1 tvg-id="25614" tvg-name="CY: Smile TV" tvg-logo="http://ipro.tv/picons/smiletv.png" group-title="Greece & Cyprus",CY: Smile TV
+ffmpeg http://localhost/ch/25614_
+#EXTINF:-1 tvg-id="18424" tvg-name="CY: Plus TV" tvg-logo="http://ipro.tv/picons/plustv.png" group-title="Greece & Cyprus",CY: Plus TV
+ffmpeg http://localhost/ch/18424_
+#EXTINF:-1 tvg-id="18422" tvg-name="CY: ONE Channel" tvg-logo="http://ipro.tv/picons/onechannel.png" group-title="Greece & Cyprus",CY: ONE Channel
+ffmpeg http://localhost/ch/18422_
+#EXTINF:-1 tvg-id="325294" tvg-name="CY: BRT 1" tvg-logo="http://ipro.tv/picons/brt1hd.png" group-title="Greece & Cyprus",CY: BRT 1
+ffmpeg http://localhost/ch/325294_
+#EXTINF:-1 tvg-id="325293" tvg-name="CY: BRT 2" tvg-logo="http://ipro.tv/picons/brt2hd.png" group-title="Greece & Cyprus",CY: BRT 2
+ffmpeg http://localhost/ch/325293_
+#EXTINF:-1 tvg-id="351863" tvg-name="CY: Channel 4e" group-title="Greece & Cyprus",CY: Channel 4e
+ffmpeg http://localhost/ch/351863_
+#EXTINF:-1 tvg-id="15073" tvg-name="------- Greek Entertainment --------" group-title="Greece & Cyprus",------- Greek Entertainment --------
+ffmpeg http://localhost/ch/15073_
+#EXTINF:-1 tvg-id="123414" tvg-name="GR:* Nova Life HD" tvg-logo="http://ipro.tv/picons/novalife.png" group-title="Greece & Cyprus",GR:* Nova Life HD
+ffmpeg http://localhost/ch/123414_
+#EXTINF:-1 tvg-id="122415" tvg-name="GR:* National Geo FHD" tvg-logo="http://ipro.tv/picons/nationalgeographic.png" group-title="Greece & Cyprus",GR:* National Geo FHD
+ffmpeg http://localhost/ch/122415_
+#EXTINF:-1 tvg-id="15665" tvg-name="GR:* Nat Geo Wild FHD" tvg-logo="http://ipro.tv/picons/natgeowild.png" group-title="Greece & Cyprus",GR:* Nat Geo Wild FHD
+ffmpeg http://localhost/ch/15665_
+#EXTINF:-1 tvg-id="10285" tvg-name="GR:* Discovery Channel HD" tvg-logo="http://ipro.tv/picons/discoverychannel.png" group-title="Greece & Cyprus",GR:* Discovery Channel HD
+ffmpeg http://localhost/ch/10285_
+#EXTINF:-1 tvg-id="10284" tvg-name="GR:* Investigation Discovery HD" tvg-logo="http://ipro.tv/picons/investigationdiscovery.png" group-title="Greece & Cyprus",GR:* Investigation Discovery HD
+ffmpeg http://localhost/ch/10284_
+#EXTINF:-1 tvg-id="217754" tvg-name="GR:* History Channel HD" tvg-logo="http://ipro.tv/picons/history.png" group-title="Greece & Cyprus",GR:* History Channel HD
+ffmpeg http://localhost/ch/217754_
+#EXTINF:-1 tvg-id="20382" tvg-name="GR:* Food Network HD" tvg-logo="http://ipro.tv/picons/foodnetwork.png" group-title="Greece & Cyprus",GR:* Food Network HD
+ffmpeg http://localhost/ch/20382_
+#EXTINF:-1 tvg-id="12827" tvg-name="GR:* E! Entertainment HD" tvg-logo="http://ipro.tv/picons/eentertainment.png" group-title="Greece & Cyprus",GR:* E! Entertainment HD
+ffmpeg http://localhost/ch/12827_
+#EXTINF:-1 tvg-id="146746" tvg-name="GR:* TLC" tvg-logo="http://ipro.tv/picons/tlc.png" group-title="Greece & Cyprus",GR:* TLC
+ffmpeg http://localhost/ch/146746_
+#EXTINF:-1 tvg-id="12824" tvg-name="GR:* Fox FHD" tvg-logo="http://ipro.tv/picons/fox.png" group-title="Greece & Cyprus",GR:* Fox FHD
+ffmpeg http://localhost/ch/12824_
+#EXTINF:-1 tvg-id="12825" tvg-name="GR:* Fox Life FHD" tvg-logo="http://ipro.tv/picons/foxlife.png" group-title="Greece & Cyprus",GR:* Fox Life FHD
+ffmpeg http://localhost/ch/12825_
+#EXTINF:-1 tvg-id="20327" tvg-name="GR:* Crime & Investigation HD" tvg-logo="http://ipro.tv/picons/crimeandinvestigation.png" group-title="Greece & Cyprus",GR:* Crime & Investigation HD
+ffmpeg http://localhost/ch/20327_
+#EXTINF:-1 tvg-id="20384" tvg-name="GR:* Viasat Explore HD" tvg-logo="http://ipro.tv/picons/viasatexplore.png" group-title="Greece & Cyprus",GR:* Viasat Explore HD
+ffmpeg http://localhost/ch/20384_
+#EXTINF:-1 tvg-id="20326" tvg-name="GR:* Viasat Nature HD" tvg-logo="http://ipro.tv/picons/viasatnature.png" group-title="Greece & Cyprus",GR:* Viasat Nature HD
+ffmpeg http://localhost/ch/20326_
+#EXTINF:-1 tvg-id="19609" tvg-name="GR:* Viasat History HD" tvg-logo="http://ipro.tv/picons/viasathistory.png" group-title="Greece & Cyprus",GR:* Viasat History HD
+ffmpeg http://localhost/ch/19609_
+#EXTINF:-1 tvg-id="20325" tvg-name="GR:* BBC Earth HD" tvg-logo="http://ipro.tv/picons/bbcearth.png" group-title="Greece & Cyprus",GR:* BBC Earth HD
+ffmpeg http://localhost/ch/20325_
+#EXTINF:-1 tvg-id="19610" tvg-name="GR:* Cosmote History FHD" tvg-logo="http://ipro.tv/picons/cosmotehistory.png" group-title="Greece & Cyprus",GR:* Cosmote History FHD
+ffmpeg http://localhost/ch/19610_
+#EXTINF:-1 tvg-id="10286" tvg-name="GR:* Animal Planet HD" tvg-logo="http://ipro.tv/picons/animalplanet.png" group-title="Greece & Cyprus",GR:* Animal Planet HD
+ffmpeg http://localhost/ch/10286_
+#EXTINF:-1 tvg-id="21026" tvg-name="GR:* Outdoor Channel FHD" tvg-logo="http://ipro.tv/picons/outdoorchannel.png" group-title="Greece & Cyprus",GR:* Outdoor Channel FHD
+ffmpeg http://localhost/ch/21026_
+#EXTINF:-1 tvg-id="3682" tvg-name="GR: Da Vinci FHD" tvg-logo="http://ipro.tv/picons/davinci.png" group-title="Greece & Cyprus",GR: Da Vinci FHD
+ffmpeg http://localhost/ch/3682_
+#EXTINF:-1 tvg-id="4250" tvg-name="GR: InPlus" tvg-logo="http://ipro.tv/picons/inplus.png" group-title="Greece & Cyprus",GR: InPlus
+ffmpeg http://localhost/ch/4250_
+#EXTINF:-1 tvg-id="32035" tvg-name="GR: Travel Channel HD" tvg-logo="http://ipro.tv/picons/black.png" group-title="Greece & Cyprus",GR: Travel Channel HD
+ffmpeg http://localhost/ch/32035_
+#EXTINF:-1 tvg-id="21025" tvg-name="GR: Nautical Channel FHD" tvg-logo="http://ipro.tv/picons/nauticalchannel.png" group-title="Greece & Cyprus",GR: Nautical Channel FHD
+ffmpeg http://localhost/ch/21025_
+#EXTINF:-1 tvg-id="19657" tvg-name="GR: MyZen TV HD" tvg-logo="http://ipro.tv/picons/myzentv.png" group-title="Greece & Cyprus",GR: MyZen TV HD
+ffmpeg http://localhost/ch/19657_
+#EXTINF:-1 tvg-id="126901" tvg-name="GR: Luxe TV FHD" tvg-logo="http://ipro.tv/picons/luxetv.png" group-title="Greece & Cyprus",GR: Luxe TV FHD
+ffmpeg http://localhost/ch/126901_
+#EXTINF:-1 tvg-id="19710" tvg-name="GR: Fashion TV HD" tvg-logo="http://ipro.tv/picons/fashiontv.png" group-title="Greece & Cyprus",GR: Fashion TV HD
+ffmpeg http://localhost/ch/19710_
+#EXTINF:-1 tvg-id="19712" tvg-name="------- Greek Music --------" group-title="Greece & Cyprus",------- Greek Music --------
+ffmpeg http://localhost/ch/19712_
+#EXTINF:-1 tvg-id="68442" tvg-name="GR: Nova Mad Greekz HD" tvg-logo="http://ipro.tv/picons/madgreekz.png" group-title="Greece & Cyprus",GR: Nova Mad Greekz HD
+ffmpeg http://localhost/ch/68442_
+#EXTINF:-1 tvg-id="122413" tvg-name="GR: Mad FHD" tvg-logo="http://ipro.tv/picons/mad.png" group-title="Greece & Cyprus",GR: Mad FHD
+ffmpeg http://localhost/ch/122413_
+#EXTINF:-1 tvg-id="5831" tvg-name="GR: Panik TV FHD" tvg-logo="http://ipro.tv/picons/paniktv.png" group-title="Greece & Cyprus",GR: Panik TV FHD
+ffmpeg http://localhost/ch/5831_
+#EXTINF:-1 tvg-id="322510" tvg-name="GR: Baraza TV HD" tvg-logo="http://ipro.tv/picons/black.png" group-title="Greece & Cyprus",GR: Baraza TV HD
+ffmpeg http://localhost/ch/322510_
+#EXTINF:-1 tvg-id="126903" tvg-name="GR: Tile Mousiki 2" tvg-logo="http://ipro.tv/picons/musicchannel.png" group-title="Greece & Cyprus",GR: Tile Mousiki 2
+ffmpeg http://localhost/ch/126903_
+#EXTINF:-1 tvg-id="126902" tvg-name="[GR] MTV Live FHD" tvg-logo="http://ipro.tv/picons/mtvlive.png" group-title="Greece & Cyprus",[GR] MTV Live FHD
+ffmpeg http://localhost/ch/126902_
+#EXTINF:-1 tvg-id="137539" tvg-name="[GR] Mezzo" tvg-logo="http://ipro.tv/picons/mezzo.png" group-title="Greece & Cyprus",[GR] Mezzo
+ffmpeg http://localhost/ch/137539_
+#EXTINF:-1 tvg-id="19674" tvg-name="[GR] Tile Musiki" tvg-logo="http://ipro.tv/picons/musicchannel.png" group-title="Greece & Cyprus",[GR] Tile Musiki
+ffmpeg http://localhost/ch/19674_
+#EXTINF:-1 tvg-id="19607" tvg-name="[GR] Cannali Music" tvg-logo="http://ipro.tv/picons/musicchannel.png" group-title="Greece & Cyprus",[GR] Cannali Music
+ffmpeg http://localhost/ch/19607_
+#EXTINF:-1 tvg-id="19711" tvg-name="[GR] Greek Music Mix 2" tvg-logo="http://ipro.tv/picons/musicchannel.png" group-title="Greece & Cyprus",[GR] Greek Music Mix 2
+ffmpeg http://localhost/ch/19711_
+#EXTINF:-1 tvg-id="15072" tvg-name="------- Greek Kids --------" group-title="Greece & Cyprus",------- Greek Kids --------
+ffmpeg http://localhost/ch/15072_
+#EXTINF:-1 tvg-id="68441" tvg-name="GR: Cartoonito FHD" tvg-logo="http://ipro.tv/picons/cartoonito.png" group-title="Greece & Cyprus",GR: Cartoonito FHD
+ffmpeg http://localhost/ch/68441_
+#EXTINF:-1 tvg-id="12576" tvg-name="GR: Disney Channel HD" tvg-logo="http://ipro.tv/picons/disneychannel.png" group-title="Greece & Cyprus",GR: Disney Channel HD
+ffmpeg http://localhost/ch/12576_
+#EXTINF:-1 tvg-id="19608" tvg-name="GR: Disney Junior HD" tvg-logo="http://ipro.tv/picons/disneyjunior.png" group-title="Greece & Cyprus",GR: Disney Junior HD
+ffmpeg http://localhost/ch/19608_
+#EXTINF:-1 tvg-id="12575" tvg-name="GR: Duck TV HD" tvg-logo="http://ipro.tv/picons/ducktv.png" group-title="Greece & Cyprus",GR: Duck TV HD
+ffmpeg http://localhost/ch/12575_
+#EXTINF:-1 tvg-id="5839" tvg-name="GR: Nickelodeon HD" tvg-logo="http://ipro.tv/picons/nickelodeon.png" group-title="Greece & Cyprus",GR: Nickelodeon HD
+ffmpeg http://localhost/ch/5839_
+#EXTINF:-1 tvg-id="4253" tvg-name="GR: Smile TV HD" tvg-logo="http://ipro.tv/picons/smiletv.png" group-title="Greece & Cyprus",GR: Smile TV HD
+ffmpeg http://localhost/ch/4253_
+#EXTINF:-1 tvg-id="325298" tvg-name="GR: IDJKids HD" tvg-logo="http://ipro.tv/picons/idjkids.png" group-title="Greece & Cyprus",GR: IDJKids HD
+ffmpeg http://localhost/ch/325298_
+#EXTINF:-1 tvg-id="348851" tvg-name="GR: Baby TV" tvg-logo="https://ipro.tv/picons/babytv.png" group-title="Greece & Cyprus",GR: Baby TV
+ffmpeg http://localhost/ch/348851_
+#EXTINF:-1 tvg-id="12578" tvg-name="[GR] Baby TV" tvg-logo="http://ipro.tv/picons/babytv.png" group-title="Greece & Cyprus",[GR] Baby TV
+ffmpeg http://localhost/ch/12578_
+#EXTINF:-1 tvg-id="15071" tvg-name="------- Greek Cinema --------" group-title="Greece & Cyprus",------- Greek Cinema --------
+ffmpeg http://localhost/ch/15071_
+#EXTINF:-1 tvg-id="19699" tvg-name="GR:* Nova Cinema 1 HD" tvg-logo="http://ipro.tv/picons/novacinema1.png" group-title="Greece & Cyprus",GR:* Nova Cinema 1 HD
+ffmpeg http://localhost/ch/19699_
+#EXTINF:-1 tvg-id="27539" tvg-name="GR:* Nova Cinema 2 HD" tvg-logo="http://ipro.tv/picons/novacinema2.png" group-title="Greece & Cyprus",GR:* Nova Cinema 2 HD
+ffmpeg http://localhost/ch/27539_
+#EXTINF:-1 tvg-id="27540" tvg-name="GR:* Nova Cinema 3 HD" tvg-logo="http://ipro.tv/picons/novacinema3.png" group-title="Greece & Cyprus",GR:* Nova Cinema 3 HD
+ffmpeg http://localhost/ch/27540_
+#EXTINF:-1 tvg-id="27541" tvg-name="GR:* Nova Cinema 4 HD" tvg-logo="http://ipro.tv/picons/novacinema4.png" group-title="Greece & Cyprus",GR:* Nova Cinema 4 HD
+ffmpeg http://localhost/ch/27541_
+#EXTINF:-1 tvg-id="11246" tvg-name="GR:* Cosmote Cinema 1 FHD" tvg-logo="http://ipro.tv/picons/cosmotecinema1.png" group-title="Greece & Cyprus",GR:* Cosmote Cinema 1 FHD
+ffmpeg http://localhost/ch/11246_
+#EXTINF:-1 tvg-id="11245" tvg-name="GR:* Cosmote Cinema 2 FHD" tvg-logo="http://ipro.tv/picons/cosmotecinema2.png" group-title="Greece & Cyprus",GR:* Cosmote Cinema 2 FHD
+ffmpeg http://localhost/ch/11245_
+#EXTINF:-1 tvg-id="11244" tvg-name="GR:* Cosmote Cinema 3 FHD" tvg-logo="http://ipro.tv/picons/cosmotecinema3.png" group-title="Greece & Cyprus",GR:* Cosmote Cinema 3 FHD
+ffmpeg http://localhost/ch/11244_
+#EXTINF:-1 tvg-id="11243" tvg-name="GR:* Cosmote Series FHD" tvg-logo="http://ipro.tv/picons/cosmotetv.png" group-title="Greece & Cyprus",GR:* Cosmote Series FHD
+ffmpeg http://localhost/ch/11243_
+#EXTINF:-1 tvg-id="341905" tvg-name="GR: Cosmote Cinema Kids HD" tvg-logo="http://ipro.tv/picons/cosmotetv.png" group-title="Greece & Cyprus",GR: Cosmote Cinema Kids HD
+ffmpeg http://localhost/ch/341905_
+#EXTINF:-1 tvg-id="122781" tvg-name="GR: Cosmote Cinema 1" tvg-logo="http://ipro.tv/picons/cosmotecinema1.png" group-title="Greece & Cyprus",GR: Cosmote Cinema 1
+ffmpeg http://localhost/ch/122781_
+#EXTINF:-1 tvg-id="122782" tvg-name="GR: Cosmote Cinema 2" tvg-logo="http://ipro.tv/picons/cosmotecinema2.png" group-title="Greece & Cyprus",GR: Cosmote Cinema 2
+ffmpeg http://localhost/ch/122782_
+#EXTINF:-1 tvg-id="122783" tvg-name="GR: Cosmote Cinema 3" tvg-logo="http://ipro.tv/picons/cosmotecinema3.png" group-title="Greece & Cyprus",GR: Cosmote Cinema 3
+ffmpeg http://localhost/ch/122783_
+#EXTINF:-1 tvg-id="122784" tvg-name="GR: Cosmote Series" tvg-logo="http://ipro.tv/picons/cosmotetv.png" group-title="Greece & Cyprus",GR: Cosmote Series
+ffmpeg http://localhost/ch/122784_
+#EXTINF:-1 tvg-id="21032" tvg-name="GR: Cosmote Series Marathon FHD" tvg-logo="http://ipro.tv/picons/cosmotecinemaondemand1hd.png" group-title="Greece & Cyprus",GR: Cosmote Series Marathon FHD
+ffmpeg http://localhost/ch/21032_
+#EXTINF:-1 tvg-id="335516" tvg-name="GR: Cosmote Oscar Cinema HD" tvg-logo="http://ipro.tv/picons/cosmotetv.png" group-title="Greece & Cyprus",GR: Cosmote Oscar Cinema HD
+ffmpeg http://localhost/ch/335516_
+#EXTINF:-1 tvg-id="11242" tvg-name="GR:* Village Cinema FHD" tvg-logo="http://ipro.tv/picons/villagecinema.png" group-title="Greece & Cyprus",GR:* Village Cinema FHD
+ffmpeg http://localhost/ch/11242_
+#EXTINF:-1 tvg-id="115169" tvg-name="GR:* TCM FHD" tvg-logo="http://ipro.tv/picons/tcm.png" group-title="Greece & Cyprus",GR:* TCM FHD
+ffmpeg http://localhost/ch/115169_
+#EXTINF:-1 tvg-id="126868" tvg-name="[GR] Boyah" tvg-logo="http://ipro.tv/picons/black.png" group-title="Greece & Cyprus",[GR] Boyah
+ffmpeg http://localhost/ch/126868_
+#EXTINF:-1 tvg-id="325304" tvg-name="GR: Movies Best HD" tvg-logo="http://ipro.tv/picons/black.png" group-title="Greece & Cyprus",GR: Movies Best HD
+ffmpeg http://localhost/ch/325304_
+#EXTINF:-1 tvg-id="96721" tvg-name="GR: Greek Cinema" tvg-logo="http://ipro.tv/picons/black.png" group-title="Greece & Cyprus",GR: Greek Cinema
+ffmpeg http://localhost/ch/96721_
+#EXTINF:-1 tvg-id="322119" tvg-name="GR: ANT 1 Comedy" tvg-logo="http://ipro.tv/picons/ant1comedi.png" group-title="Greece & Cyprus",GR: ANT 1 Comedy
+ffmpeg http://localhost/ch/322119_
+#EXTINF:-1 tvg-id="322118" tvg-name="GR: ANT 1 Drama" tvg-logo="http://ipro.tv/picons/ant1drama.png" group-title="Greece & Cyprus",GR: ANT 1 Drama
+ffmpeg http://localhost/ch/322118_
+#EXTINF:-1 tvg-id="341906" tvg-name="GR: Nova Cinema Easter HD" tvg-logo="http://ipro.tv/picons/novacinema.png" group-title="Greece & Cyprus",GR: Nova Cinema Easter HD
+ffmpeg http://localhost/ch/341906_
+#EXTINF:-1 tvg-id="129276" tvg-name="GR: Nova Throne Channel HD" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Throne Channel HD
+ffmpeg http://localhost/ch/129276_
+#EXTINF:-1 tvg-id="111734" tvg-name="GR: Nova Premiere 1 HD" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Premiere 1 HD
+ffmpeg http://localhost/ch/111734_
+#EXTINF:-1 tvg-id="111730" tvg-name="GR: Nova Premiere 2 HD" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Premiere 2 HD
+ffmpeg http://localhost/ch/111730_
+#EXTINF:-1 tvg-id="147754" tvg-name="GR: Nova Premiere 3 HD" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Premiere 3 HD
+ffmpeg http://localhost/ch/147754_
+#EXTINF:-1 tvg-id="147755" tvg-name="GR: Nova Premiere 4 HD" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Premiere 4 HD
+ffmpeg http://localhost/ch/147755_
+#EXTINF:-1 tvg-id="96717" tvg-name="GR: Nova Premiere 5 HD" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Premiere 5 HD
+ffmpeg http://localhost/ch/96717_
+#EXTINF:-1 tvg-id="96714" tvg-name="GR: Nova Premiere 6 HD" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Premiere 6 HD
+ffmpeg http://localhost/ch/96714_
+#EXTINF:-1 tvg-id="147757" tvg-name="GR: Nova Premiere 7 HD" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Premiere 7 HD
+ffmpeg http://localhost/ch/147757_
+#EXTINF:-1 tvg-id="147758" tvg-name="GR: Nova Premiere 8 HD" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Premiere 8 HD
+ffmpeg http://localhost/ch/147758_
+#EXTINF:-1 tvg-id="147759" tvg-name="GR: Nova Premiere 9 HD" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Premiere 9 HD
+ffmpeg http://localhost/ch/147759_
+#EXTINF:-1 tvg-id="147761" tvg-name="GR: Nova Premiere 10 HD" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Premiere 10 HD
+ffmpeg http://localhost/ch/147761_
+#EXTINF:-1 tvg-id="20328" tvg-name="GR: Nova Premiere Action FHD" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Premiere Action FHD
+ffmpeg http://localhost/ch/20328_
+#EXTINF:-1 tvg-id="111981" tvg-name="GR: Nova Premiere Adventure FHD" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Premiere Adventure FHD
+ffmpeg http://localhost/ch/111981_
+#EXTINF:-1 tvg-id="13950" tvg-name="GR: Nova Premiere Animation FHD" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Premiere Animation FHD
+ffmpeg http://localhost/ch/13950_
+#EXTINF:-1 tvg-id="13944" tvg-name="GR: Nova Premiere Biography FHD" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Premiere Biography FHD
+ffmpeg http://localhost/ch/13944_
+#EXTINF:-1 tvg-id="19656" tvg-name="GR: Nova Premiere Comedy FHD" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Premiere Comedy FHD
+ffmpeg http://localhost/ch/19656_
+#EXTINF:-1 tvg-id="19655" tvg-name="GR: Nova Premiere Fantasy FHD" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Premiere Fantasy FHD
+ffmpeg http://localhost/ch/19655_
+#EXTINF:-1 tvg-id="96719" tvg-name="GR: Nova Premiere HELLENIC" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Premiere HELLENIC
+ffmpeg http://localhost/ch/96719_
+#EXTINF:-1 tvg-id="16796" tvg-name="GR: Nova Premiere History FHD" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Premiere History FHD
+ffmpeg http://localhost/ch/16796_
+#EXTINF:-1 tvg-id="4528" tvg-name="GR: Nova Premiere Horror FHD" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Premiere Horror FHD
+ffmpeg http://localhost/ch/4528_
+#EXTINF:-1 tvg-id="96720" tvg-name="GR: Nova Premiere Mythology FHD" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Premiere Mythology FHD
+ffmpeg http://localhost/ch/96720_
+#EXTINF:-1 tvg-id="19698" tvg-name="GR: Nova Premiere Passion FHD" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Premiere Passion FHD
+ffmpeg http://localhost/ch/19698_
+#EXTINF:-1 tvg-id="13949" tvg-name="GR: Nova Premiere Sci-Fi FHD" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Premiere Sci-Fi FHD
+ffmpeg http://localhost/ch/13949_
+#EXTINF:-1 tvg-id="19654" tvg-name="GR: Nova Premiere STARZ FHD" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Premiere STARZ FHD
+ffmpeg http://localhost/ch/19654_
+#EXTINF:-1 tvg-id="13948" tvg-name="GR: Nova Premiere Thriller FHD" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Premiere Thriller FHD
+ffmpeg http://localhost/ch/13948_
+#EXTINF:-1 tvg-id="13945" tvg-name="GR: Nova Premiere Western FHD" tvg-logo="http://ipro.tv/picons/novacinematv.png" group-title="Greece & Cyprus",GR: Nova Premiere Western FHD
+ffmpeg http://localhost/ch/13945_
+#EXTINF:-1 tvg-id="15074" tvg-name="------- Greek Regional --------" group-title="Greece & Cyprus",------- Greek Regional --------
+ffmpeg http://localhost/ch/15074_
+#EXTINF:-1 tvg-id="1543" tvg-name="GR: Kontra Channel" tvg-logo="http://ipro.tv/picons/kontrachannel.png" group-title="Greece & Cyprus",GR: Kontra Channel
+ffmpeg http://localhost/ch/1543_
+#EXTINF:-1 tvg-id="1531" tvg-name="GR: Attica TV" tvg-logo="http://ipro.tv/picons/atticagreece.png" group-title="Greece & Cyprus",GR: Attica TV
+ffmpeg http://localhost/ch/1531_
+#EXTINF:-1 tvg-id="1544" tvg-name="[GR] Krhth Tv" tvg-logo="http://ipro.tv/picons/black.png" group-title="Greece & Cyprus",[GR] Krhth Tv
+ffmpeg http://localhost/ch/1544_
+#EXTINF:-1 tvg-id="112791" tvg-name="GR: Blue Sky" tvg-logo="http://ipro.tv/picons/black.png" group-title="Greece & Cyprus",GR: Blue Sky
+ffmpeg http://localhost/ch/112791_
+#EXTINF:-1 tvg-id="4246" tvg-name="GR: Extra Channel" tvg-logo="http://ipro.tv/picons/black.png" group-title="Greece & Cyprus",GR: Extra Channel
+ffmpeg http://localhost/ch/4246_
+#EXTINF:-1 tvg-id="133978" tvg-name="GR: Alert" tvg-logo="http://ipro.tv/picons/alertgreece.png" group-title="Greece & Cyprus",GR: Alert
+ffmpeg http://localhost/ch/133978_
+#EXTINF:-1 tvg-id="22632" tvg-name="------- Greek Religious --------" group-title="Greece & Cyprus",------- Greek Religious --------
+ffmpeg http://localhost/ch/22632_
+#EXTINF:-1 tvg-id="5840" tvg-name="[GR] 4E" tvg-logo="http://ipro.tv/picons/4e.png" group-title="Greece & Cyprus",[GR] 4E
+ffmpeg http://localhost/ch/5840_
+#EXTINF:-1 tvg-id="297823" tvg-name="GR: Epsilon TV" tvg-logo="http://ipro.tv/picons/epsilonlogo.png" group-title="Greece & Cyprus",GR: Epsilon TV
+ffmpeg http://localhost/ch/297823_
+#EXTINF:-1 tvg-id="4520" tvg-name="-------- Greece Sports --------" group-title="未分类",-------- Greece Sports --------
+ffmpeg http://localhost/ch/4520_
+#EXTINF:-1 tvg-id="113712" tvg-name="GR:* Nova Sports News HD" tvg-logo="http://ipro.tv/picons/novasportsnewshd.png" group-title="VIP | Sports Greece",GR:* Nova Sports News HD
+ffmpeg http://localhost/ch/113712_
+#EXTINF:-1 tvg-id="12379" tvg-name="GR:* Nova Sports 1 HD" tvg-logo="http://ipro.tv/picons/novasports1.png" group-title="VIP | Sports Greece",GR:* Nova Sports 1 HD
+ffmpeg http://localhost/ch/12379_
+#EXTINF:-1 tvg-id="12380" tvg-name="GR:* Nova Sports 2 HD" tvg-logo="http://ipro.tv/picons/novasports2.png" group-title="VIP | Sports Greece",GR:* Nova Sports 2 HD
+ffmpeg http://localhost/ch/12380_
+#EXTINF:-1 tvg-id="12381" tvg-name="GR:* Nova Sports 3 HD" tvg-logo="http://ipro.tv/picons/novasports3.png" group-title="VIP | Sports Greece",GR:* Nova Sports 3 HD
+ffmpeg http://localhost/ch/12381_
+#EXTINF:-1 tvg-id="12382" tvg-name="GR:* Nova Sports 4 HD" tvg-logo="http://ipro.tv/picons/novasports4.png" group-title="VIP | Sports Greece",GR:* Nova Sports 4 HD
+ffmpeg http://localhost/ch/12382_
+#EXTINF:-1 tvg-id="17339" tvg-name="GR:* Nova Sports 5 HD" tvg-logo="http://ipro.tv/picons/novasports5.png" group-title="VIP | Sports Greece",GR:* Nova Sports 5 HD
+ffmpeg http://localhost/ch/17339_
+#EXTINF:-1 tvg-id="239449" tvg-name="GR:* Nova Sports 6 HD" tvg-logo="http://ipro.tv/picons/novasports6.png" group-title="VIP | Sports Greece",GR:* Nova Sports 6 HD
+ffmpeg http://localhost/ch/239449_
+#EXTINF:-1 tvg-id="145668" tvg-name="GR:* Nova Sports Start HD" tvg-logo="http://ipro.tv/picons/novasportsstarthd.png" group-title="VIP | Sports Greece",GR:* Nova Sports Start HD
+ffmpeg http://localhost/ch/145668_
+#EXTINF:-1 tvg-id="272248" tvg-name="GR:* Nova Sports Prime FHD" tvg-logo="http://ipro.tv/picons/novasportsprimehd.png" group-title="VIP | Sports Greece",GR:* Nova Sports Prime FHD
+ffmpeg http://localhost/ch/272248_
+#EXTINF:-1 tvg-id="335725" tvg-name="GR: Nova Sports Prime FHD2" tvg-logo="http://ipro.tv/picons/novasportsprimehd.png" group-title="VIP | Sports Greece",GR: Nova Sports Prime FHD2
+ffmpeg http://localhost/ch/335725_
+#EXTINF:-1 tvg-id="343819" tvg-name="GR: Nova Sports Prime HD" tvg-logo="http://ipro.tv/picons/novasportsprimehd.png" group-title="VIP | Sports Greece",GR: Nova Sports Prime HD
+ffmpeg http://localhost/ch/343819_
+#EXTINF:-1 tvg-id="284255" tvg-name="GR:* Nova Sports Premier League HD" tvg-logo="http://ipro.tv/picons/novasportspremierleague.png" group-title="VIP | Sports Greece",GR:* Nova Sports Premier League HD
+ffmpeg http://localhost/ch/284255_
+#EXTINF:-1 tvg-id="287819" tvg-name="GR: Nova Sports Extra 1 HD" tvg-logo="http://ipro.tv/picons/novasportsextra1hd.png" group-title="VIP | Sports Greece",GR: Nova Sports Extra 1 HD
+ffmpeg http://localhost/ch/287819_
+#EXTINF:-1 tvg-id="287820" tvg-name="GR: Nova Sports Extra 2 HD" tvg-logo="http://ipro.tv/picons/novasportsextra2hd.png" group-title="VIP | Sports Greece",GR: Nova Sports Extra 2 HD
+ffmpeg http://localhost/ch/287820_
+#EXTINF:-1 tvg-id="287821" tvg-name="GR: Nova Sports Extra 3 HD" tvg-logo="http://ipro.tv/picons/novasportsextra3hd.png" group-title="VIP | Sports Greece",GR: Nova Sports Extra 3 HD
+ffmpeg http://localhost/ch/287821_
+#EXTINF:-1 tvg-id="27520" tvg-name="GR:* Cosmote Sport Highlights FHD" tvg-logo="http://ipro.tv/picons/cosmotesporthighlightshd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport Highlights FHD
+ffmpeg http://localhost/ch/27520_
+#EXTINF:-1 tvg-id="27521" tvg-name="GR:* Cosmote Sport 1 FHD" tvg-logo="http://ipro.tv/picons/cosmotesport1hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 1 FHD
+ffmpeg http://localhost/ch/27521_
+#EXTINF:-1 tvg-id="27522" tvg-name="GR:* Cosmote Sport 2 FHD" tvg-logo="http://ipro.tv/picons/cosmotesport2hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 2 FHD
+ffmpeg http://localhost/ch/27522_
+#EXTINF:-1 tvg-id="27523" tvg-name="GR:* Cosmote Sport 3 FHD" tvg-logo="http://ipro.tv/picons/cosmotesport3hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 3 FHD
+ffmpeg http://localhost/ch/27523_
+#EXTINF:-1 tvg-id="27524" tvg-name="GR:* Cosmote Sport 4 FHD" tvg-logo="http://ipro.tv/picons/cosmotesport4hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 4 FHD
+ffmpeg http://localhost/ch/27524_
+#EXTINF:-1 tvg-id="27525" tvg-name="GR:* Cosmote Sport 5 FHD" tvg-logo="http://ipro.tv/picons/cosmotesport5hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 5 FHD
+ffmpeg http://localhost/ch/27525_
+#EXTINF:-1 tvg-id="27536" tvg-name="GR:* Cosmote Sport 6 FHD" tvg-logo="http://ipro.tv/picons/cosmotesport6hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 6 FHD
+ffmpeg http://localhost/ch/27536_
+#EXTINF:-1 tvg-id="27537" tvg-name="GR:* Cosmote Sport 7 FHD" tvg-logo="http://ipro.tv/picons/cosmotesport7hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 7 FHD
+ffmpeg http://localhost/ch/27537_
+#EXTINF:-1 tvg-id="27538" tvg-name="GR:* Cosmote Sport 8 FHD" tvg-logo="http://ipro.tv/picons/cosmotesport8hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 8 FHD
+ffmpeg http://localhost/ch/27538_
+#EXTINF:-1 tvg-id="111721" tvg-name="GR:* Cosmote Sport 9 FHD" tvg-logo="http://ipro.tv/picons/cosmotesport9hd.png" group-title="VIP | Sports Greece",GR:* Cosmote Sport 9 FHD
+ffmpeg http://localhost/ch/111721_
+#EXTINF:-1 tvg-id="313094" tvg-name="GR: Cosmote SL Pass AEK FHD" tvg-logo="http://ipro.tv/picons/cosmotetv.png" group-title="VIP | Sports Greece",GR: Cosmote SL Pass AEK FHD
+ffmpeg http://localhost/ch/313094_
+#EXTINF:-1 tvg-id="313095" tvg-name="GR: Cosmote SL Pass Olympiakos FHD" tvg-logo="http://ipro.tv/picons/cosmotetv.png" group-title="VIP | Sports Greece",GR: Cosmote SL Pass Olympiakos FHD
+ffmpeg http://localhost/ch/313095_
+#EXTINF:-1 tvg-id="313096" tvg-name="GR: Cosmote SL Pass Panathenaikos FHD" tvg-logo="http://ipro.tv/picons/cosmotetv.png" group-title="VIP | Sports Greece",GR: Cosmote SL Pass Panathenaikos FHD
+ffmpeg http://localhost/ch/313096_
+#EXTINF:-1 tvg-id="20305" tvg-name="GR:* Motorvision Plus FHD" tvg-logo="http://ipro.tv/picons/motorvisionchannel.png" group-title="VIP | Sports Greece",GR:* Motorvision Plus FHD
+ffmpeg http://localhost/ch/20305_
+#EXTINF:-1 tvg-id="15082" tvg-name="GR:* Combat Ant 1+" tvg-logo="http://ipro.tv/picons/ant1.png" group-title="VIP | Sports Greece",GR:* Combat Ant 1+
+ffmpeg http://localhost/ch/15082_
+#EXTINF:-1 tvg-id="307599" tvg-name="GR: Ant 1+ F1 HD" tvg-logo="http://ipro.tv/picons/f1tv.png" group-title="VIP | Sports Greece",GR: Ant 1+ F1 HD
+ffmpeg http://localhost/ch/307599_
+#EXTINF:-1 tvg-id="335517" tvg-name="GR: Antenna Combat HD" tvg-logo="http://ipro.tv/picons/ant1.png" group-title="VIP | Sports Greece",GR: Antenna Combat HD
+ffmpeg http://localhost/ch/335517_
+#EXTINF:-1 tvg-id="335515" tvg-name="GR: Antenna Fight HD" tvg-logo="http://ipro.tv/picons/ant1.png" group-title="VIP | Sports Greece",GR: Antenna Fight HD
+ffmpeg http://localhost/ch/335515_
+#EXTINF:-1 tvg-id="5842" tvg-name="GR: Sport Plus" tvg-logo="http://ipro.tv/picons/sportplus.png" group-title="VIP | Sports Greece",GR: Sport Plus
+ffmpeg http://localhost/ch/5842_
+#EXTINF:-1 tvg-id="325302" tvg-name="GR: GINX eSports HD" tvg-logo="http://ipro.tv/picons/ginxesportstv.png" group-title="VIP | Sports Greece",GR: GINX eSports HD
+ffmpeg http://localhost/ch/325302_
+#EXTINF:-1 tvg-id="13940" tvg-name="GR:* Eurosport 1 HD" tvg-logo="http://ipro.tv/picons/eurosport1hd.png" group-title="VIP | Sports Greece",GR:* Eurosport 1 HD
+ffmpeg http://localhost/ch/13940_
+#EXTINF:-1 tvg-id="13939" tvg-name="GR:* Eurosport 2 HD" tvg-logo="http://ipro.tv/picons/eurosport2hd.png" group-title="VIP | Sports Greece",GR:* Eurosport 2 HD
+ffmpeg http://localhost/ch/13939_
+#EXTINF:-1 tvg-id="288688" tvg-name="CY: Cytavision Sports 1 HD" tvg-logo="http://ipro.tv/picons/cytavision1.png" group-title="VIP | Sports Cyprus ",CY: Cytavision Sports 1 HD
+ffmpeg http://localhost/ch/288688_
+#EXTINF:-1 tvg-id="346720" tvg-name="CY: Cytavision Sports 1" tvg-logo="http://ipro.tv/picons/cytavision1.png" group-title="VIP | Sports Cyprus ",CY: Cytavision Sports 1
+ffmpeg http://localhost/ch/346720_
+#EXTINF:-1 tvg-id="288687" tvg-name="CY: Cytavision Sports 2 HD" tvg-logo="http://ipro.tv/picons/cytavision2.png" group-title="VIP | Sports Cyprus ",CY: Cytavision Sports 2 HD
+ffmpeg http://localhost/ch/288687_
+#EXTINF:-1 tvg-id="346719" tvg-name="CY: Cytavision Sports 2" tvg-logo="http://ipro.tv/picons/cytavision2.png" group-title="VIP | Sports Cyprus ",CY: Cytavision Sports 2
+ffmpeg http://localhost/ch/346719_
+#EXTINF:-1 tvg-id="288686" tvg-name="CY: Cytavision Sports 3 HD" tvg-logo="http://ipro.tv/picons/cytavision3.png" group-title="VIP | Sports Cyprus ",CY: Cytavision Sports 3 HD
+ffmpeg http://localhost/ch/288686_
+#EXTINF:-1 tvg-id="346718" tvg-name="CY: Cytavision Sports 3" tvg-logo="http://ipro.tv/picons/cytavision3.png" group-title="VIP | Sports Cyprus ",CY: Cytavision Sports 3
+ffmpeg http://localhost/ch/346718_
+#EXTINF:-1 tvg-id="288685" tvg-name="CY: Cytavision Sports 4 HD" tvg-logo="http://ipro.tv/picons/cytavision4.png" group-title="VIP | Sports Cyprus ",CY: Cytavision Sports 4 HD
+ffmpeg http://localhost/ch/288685_
+#EXTINF:-1 tvg-id="346717" tvg-name="CY: Cytavision Sports 4" tvg-logo="http://ipro.tv/picons/cytavision4.png" group-title="VIP | Sports Cyprus ",CY: Cytavision Sports 4
+ffmpeg http://localhost/ch/346717_
+#EXTINF:-1 tvg-id="288684" tvg-name="CY: Cytavision Sports 5 HD" tvg-logo="http://ipro.tv/picons/cytavision5.png" group-title="VIP | Sports Cyprus ",CY: Cytavision Sports 5 HD
+ffmpeg http://localhost/ch/288684_
+#EXTINF:-1 tvg-id="346716" tvg-name="CY: Cytavision Sports 5" tvg-logo="http://ipro.tv/picons/cytavision5.png" group-title="VIP | Sports Cyprus ",CY: Cytavision Sports 5
+ffmpeg http://localhost/ch/346716_
+#EXTINF:-1 tvg-id="288683" tvg-name="CY: Cytavision Sports 6 HD" tvg-logo="http://ipro.tv/picons/cytavision6.png" group-title="VIP | Sports Cyprus ",CY: Cytavision Sports 6 HD
+ffmpeg http://localhost/ch/288683_
+#EXTINF:-1 tvg-id="346715" tvg-name="CY: Cytavision Sports 6" tvg-logo="http://ipro.tv/picons/cytavision6.png" group-title="VIP | Sports Cyprus ",CY: Cytavision Sports 6
+ffmpeg http://localhost/ch/346715_
+#EXTINF:-1 tvg-id="288682" tvg-name="CY: Cytavision Sports 7 HD" tvg-logo="http://ipro.tv/picons/cytavision7.png" group-title="VIP | Sports Cyprus ",CY: Cytavision Sports 7 HD
+ffmpeg http://localhost/ch/288682_
+#EXTINF:-1 tvg-id="346714" tvg-name="CY: Cytavision Sports 7" tvg-logo="http://ipro.tv/picons/cytavision7.png" group-title="VIP | Sports Cyprus ",CY: Cytavision Sports 7
+ffmpeg http://localhost/ch/346714_
+#EXTINF:-1 tvg-id="306334" tvg-name="CY: Cytavision Sports Premier League HD" tvg-logo="http://ipro.tv/picons/cytavisionpl.png" group-title="VIP | Sports Cyprus ",CY: Cytavision Sports Premier League HD
+ffmpeg http://localhost/ch/306334_
+#EXTINF:-1 tvg-id="288681" tvg-name="CY: Cablenet Sports 1 HD" tvg-logo="http://ipro.tv/picons/cablenet1.png" group-title="VIP | Sports Cyprus ",CY: Cablenet Sports 1 HD
+ffmpeg http://localhost/ch/288681_
+#EXTINF:-1 tvg-id="346713" tvg-name="CY: Cablenet Sports 1" tvg-logo="http://ipro.tv/picons/cablenet1.png" group-title="VIP | Sports Cyprus ",CY: Cablenet Sports 1
+ffmpeg http://localhost/ch/346713_
+#EXTINF:-1 tvg-id="288680" tvg-name="CY: Cablenet Sports 2 HD" tvg-logo="http://ipro.tv/picons/cablenet2.png" group-title="VIP | Sports Cyprus ",CY: Cablenet Sports 2 HD
+ffmpeg http://localhost/ch/288680_
+#EXTINF:-1 tvg-id="346712" tvg-name="CY: Cablenet Sports 2" tvg-logo="http://ipro.tv/picons/cablenet2.png" group-title="VIP | Sports Cyprus ",CY: Cablenet Sports 2
+ffmpeg http://localhost/ch/346712_
+#EXTINF:-1 tvg-id="348406" tvg-name="CY: Omonoia TV" tvg-logo="http://ipro.tv/picons/omonoiatv.png" group-title="VIP | Sports Cyprus ",CY: Omonoia TV
+ffmpeg http://localhost/ch/348406_
+#EXTINF:-1 tvg-id="112629" tvg-name="GR: Nova Sports 1 HD (BACKUP)" tvg-logo="http://ipro.tv/picons/novasports1.png" group-title="VIP | Sports Greece",GR: Nova Sports 1 HD (BACKUP)
+ffmpeg http://localhost/ch/112629_
+#EXTINF:-1 tvg-id="113604" tvg-name="GR: Nova Sports 2 HD (BACKUP)" tvg-logo="http://ipro.tv/picons/novasports2.png" group-title="VIP | Sports Greece",GR: Nova Sports 2 HD (BACKUP)
+ffmpeg http://localhost/ch/113604_
+#EXTINF:-1 tvg-id="145666" tvg-name="GR: Nova Sports 3 HD (BACKUP)" tvg-logo="http://ipro.tv/picons/novasports3.png" group-title="VIP | Sports Greece",GR: Nova Sports 3 HD (BACKUP)
+ffmpeg http://localhost/ch/145666_
+#EXTINF:-1 tvg-id="145667" tvg-name="GR: Nova Sports 4 HD (BACKUP)" tvg-logo="http://ipro.tv/picons/novasports4.png" group-title="VIP | Sports Greece",GR: Nova Sports 4 HD (BACKUP)
+ffmpeg http://localhost/ch/145667_
+#EXTINF:-1 tvg-id="112156" tvg-name="GR: Cosmote Sport 1 HD" tvg-logo="http://ipro.tv/picons/cosmotesport1.png" group-title="VIP | Sports Greece",GR: Cosmote Sport 1 HD
+ffmpeg http://localhost/ch/112156_
+#EXTINF:-1 tvg-id="112154" tvg-name="GR: Cosmote Sport 2 HD" tvg-logo="http://ipro.tv/picons/cosmotesport2.png" group-title="VIP | Sports Greece",GR: Cosmote Sport 2 HD
+ffmpeg http://localhost/ch/112154_
+#EXTINF:-1 tvg-id="112152" tvg-name="GR: Cosmote Sport 3 HD" tvg-logo="http://ipro.tv/picons/cosmotesport3.png" group-title="VIP | Sports Greece",GR: Cosmote Sport 3 HD
+ffmpeg http://localhost/ch/112152_
+#EXTINF:-1 tvg-id="112150" tvg-name="GR: Cosmote Sport 4 HD" tvg-logo="http://ipro.tv/picons/cosmotesport4.png" group-title="VIP | Sports Greece",GR: Cosmote Sport 4 HD
+ffmpeg http://localhost/ch/112150_
+#EXTINF:-1 tvg-id="112148" tvg-name="GR: Cosmote Sport 5 HD" tvg-logo="http://ipro.tv/picons/cosmotesport5.png" group-title="VIP | Sports Greece",GR: Cosmote Sport 5 HD
+ffmpeg http://localhost/ch/112148_
+#EXTINF:-1 tvg-id="112147" tvg-name="GR: Cosmote Sport 6 HD" tvg-logo="http://ipro.tv/picons/cosmotesport6.png" group-title="VIP | Sports Greece",GR: Cosmote Sport 6 HD
+ffmpeg http://localhost/ch/112147_
+#EXTINF:-1 tvg-id="112146" tvg-name="GR: Cosmote Sport 7 HD" tvg-logo="http://ipro.tv/picons/cosmotesport7.png" group-title="VIP | Sports Greece",GR: Cosmote Sport 7 HD
+ffmpeg http://localhost/ch/112146_
+#EXTINF:-1 tvg-id="112145" tvg-name="GR: Cosmote Sport 8 HD" tvg-logo="http://ipro.tv/picons/cosmotesport8.png" group-title="VIP | Sports Greece",GR: Cosmote Sport 8 HD
+ffmpeg http://localhost/ch/112145_
+#EXTINF:-1 tvg-id="14052" tvg-name="===== Greek Radios =====" group-title="未分类",===== Greek Radios =====
+ffmpeg http://localhost/ch/14052_
+#EXTINF:-1 tvg-id="346644" tvg-name="FIBA 01:" tvg-logo="http://ipro.tv/picons/fiba.png" group-title="VIP | Sports Basketball",FIBA 01:
+ffmpeg http://localhost/ch/346644_
+#EXTINF:-1 tvg-id="346643" tvg-name="FIBA 02:" tvg-logo="http://ipro.tv/picons/fiba.png" group-title="VIP | Sports Basketball",FIBA 02:
+ffmpeg http://localhost/ch/346643_
+#EXTINF:-1 tvg-id="346642" tvg-name="FIBA 03:" tvg-logo="http://ipro.tv/picons/fiba.png" group-title="VIP | Sports Basketball",FIBA 03:
+ffmpeg http://localhost/ch/346642_
+#EXTINF:-1 tvg-id="346641" tvg-name="FIBA 04:" tvg-logo="http://ipro.tv/picons/fiba.png" group-title="VIP | Sports Basketball",FIBA 04:
+ffmpeg http://localhost/ch/346641_
+#EXTINF:-1 tvg-id="346640" tvg-name="FIBA 05:" tvg-logo="http://ipro.tv/picons/fiba.png" group-title="VIP | Sports Basketball",FIBA 05:
+ffmpeg http://localhost/ch/346640_
+#EXTINF:-1 tvg-id="346639" tvg-name="FIBA 06:" tvg-logo="http://ipro.tv/picons/fiba.png" group-title="VIP | Sports Basketball",FIBA 06:
+ffmpeg http://localhost/ch/346639_
+#EXTINF:-1 tvg-id="346638" tvg-name="FIBA 07:" tvg-logo="http://ipro.tv/picons/fiba.png" group-title="VIP | Sports Basketball",FIBA 07:
+ffmpeg http://localhost/ch/346638_
+#EXTINF:-1 tvg-id="346637" tvg-name="FIBA 08:" tvg-logo="http://ipro.tv/picons/fiba.png" group-title="VIP | Sports Basketball",FIBA 08:
+ffmpeg http://localhost/ch/346637_
+#EXTINF:-1 tvg-id="346636" tvg-name="FIBA 09:" tvg-logo="http://ipro.tv/picons/fiba.png" group-title="VIP | Sports Basketball",FIBA 09:
+ffmpeg http://localhost/ch/346636_
+#EXTINF:-1 tvg-id="346635" tvg-name="FIBA 10:" tvg-logo="http://ipro.tv/picons/fiba.png" group-title="VIP | Sports Basketball",FIBA 10:
+ffmpeg http://localhost/ch/346635_
