@@ -1,1 +1,6 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE stalker
+#EXT-X-SP-URL http://mutant.arrox.top:80?mac=00:1A:79:82:e9:de
+
 
