@@ -2429,3 +2429,66 @@ http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/225388
 http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/225379
 #EXTINF:-1 tvg-id="225378" tvg-name="SKY LAZIO HEVC" tvg-logo="http://h05t.tecnolab.top:8080/images/d0f0f5962808a70851b40a00a6c28e40.jpg" group-title="CANALI HEVC/4K",SKY LAZIO HEVC
 http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/225378
+
+#EXTINF:-1 tvg-id="21047" tvg-name="SUPERSPORTS PREMIER LEAGUE (4K)" tvg-logo="http://ktv.im:8080/images/caafa0c6ebe85f6984aa567650d06aef.png" group-title="DSTV | SUPER SPORTS (4K)",SUPERSPORTS PREMIER LEAGUE (4K)
+http://ktv.im:8080/708970545/364316888/21047
+#EXTINF:-1 tvg-id="21043" tvg-name="SUPERSPORT RUGBY 4K" tvg-logo="http://ktv.im:8080/images/29c757d7d560566541c6267953fb6c6d.png" group-title="DSTV | SUPER SPORTS (4K)",SUPERSPORT RUGBY 4K
+http://ktv.im:8080/708970545/364316888/21043
+#EXTINF:-1 tvg-id="21046" tvg-name="SUPERSPORTS LALIGA (4K)" tvg-logo="http://ktv.im:8080/images/748cdcde07d72a357535cd908fd5f1e3.png" group-title="DSTV | SUPER SPORTS (4K)",SUPERSPORTS LALIGA (4K)
+http://ktv.im:8080/708970545/364316888/21046
+#EXTINF:-1 tvg-id="21044" tvg-name="SUPERSPORT CRICKET 4K" tvg-logo="http://ktv.im:8080/images/336625af1536c1eb7274907a1a201b06.jpg" group-title="DSTV | SUPER SPORTS (4K)",SUPERSPORT CRICKET 4K
+http://ktv.im:8080/708970545/364316888/21044
+#EXTINF:-1 tvg-id="21045" tvg-name="SUPERSPORT GRANDSTAND 4K" tvg-logo="http://ktv.im:8080/images/e98dbb9208c9d396d7cdebeef1b60bb8.png" group-title="DSTV | SUPER SPORTS (4K)",SUPERSPORT GRANDSTAND 4K
+http://ktv.im:8080/708970545/364316888/21045
+#EXTINF:-1 tvg-id="21048" tvg-name="SUPERSPORTS FOOTBALL (4K)" tvg-logo="http://ktv.im:8080/images/c476d22ccfc8987f00750de3d334c748.png" group-title="DSTV | SUPER SPORTS (4K)",SUPERSPORTS FOOTBALL (4K)
+http://ktv.im:8080/708970545/364316888/21048
+#EXTINF:-1 tvg-id="21049" tvg-name="SUPERSPORTS PSL (4K)" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWa2aI_w1k3NIrPPzXE8WCggBnXw-ASoKLVAOszCm8GlENtpWYwg1hzyWa_ZobVa1A8.png" group-title="DSTV | SUPER SPORTS (4K)",SUPERSPORTS PSL (4K)
+http://ktv.im:8080/708970545/364316888/21049
+#EXTINF:-1 tvg-id="21050" tvg-name="SUPERSPORT ACTION 4K" tvg-logo="http://ktv.im:8080/images/65e7ac07473855f984b8e4d96eecbafb.png" group-title="DSTV | SUPER SPORTS (4K)",SUPERSPORT ACTION 4K
+http://ktv.im:8080/708970545/364316888/21050
+#EXTINF:-1 tvg-id="21051" tvg-name="SUPERSPORTS VARIETY 1  4K" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWZg_8yZyipi18i1_BUxxiYaKvA7TiooBtgrtUeqWfaBCndsANp2XHU6g-2dnH-fHcc.png" group-title="DSTV | SUPER SPORTS (4K)",SUPERSPORTS VARIETY 1  4K
+http://ktv.im:8080/708970545/364316888/21051
+#EXTINF:-1 tvg-id="21052" tvg-name="SUPERSPORTS VARIETY 2 4K" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWbv7kjxtzGScfyymaQNKd71GrYiXtBdG5OOteh6WEcYt1ONty6NG8bBfW_XpOEUrqk.png" group-title="DSTV | SUPER SPORTS (4K)",SUPERSPORTS VARIETY 2 4K
+http://ktv.im:8080/708970545/364316888/21052
+#EXTINF:-1 tvg-id="21053" tvg-name="SUPERSPORTS VARIETY 3 4K" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWZXI1KHuJpSSFpRl-K6vvBKkwbniAh82zI3dVNeOz0XK7NqIYxyTX_KwKj86W1r4K0.png" group-title="DSTV | SUPER SPORTS (4K)",SUPERSPORTS VARIETY 3 4K
+http://ktv.im:8080/708970545/364316888/21053
+#EXTINF:-1 tvg-id="21054" tvg-name="SUPERSPORTS VARIETY 4 4K" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWbecedHCCmjkPgewlL87P38BqAFH37HTgPIqJ23ROR065NME9hC_hh_4_J59JsH8GE.png" group-title="DSTV | SUPER SPORTS (4K)",SUPERSPORTS VARIETY 4 4K
+http://ktv.im:8080/708970545/364316888/21054
+#EXTINF:-1 tvg-id="21055" tvg-name="SUPER MOTORSPORT 4K" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWZu1jjmzTYghGky4bKNQ3l4QEZ2XTP4kyk-Vot1NnPEfpprTE-wdkHC6dM63ESW970.png" group-title="DSTV | SUPER SPORTS (4K)",SUPER MOTORSPORT 4K
+http://ktv.im:8080/708970545/364316888/21055
+#EXTINF:-1 tvg-id="21056" tvg-name="SUPERSPORT BLITZ 4K" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWaXo_pmd0OUChgLx1IKHHfQuH2GLIiPOp-zeP_3TnBu1wJCPp5yU8PhGBn8n_zVDeE.png" group-title="DSTV | SUPER SPORTS (4K)",SUPERSPORT BLITZ 4K
+http://ktv.im:8080/708970545/364316888/21056
+#EXTINF:-1 tvg-id="21057" tvg-name="SUPERSPORT MAXIMO 4K" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWaIWV3PjUChl3x71AOI61r_j0nbR5SZewAU8xKJnVchc4HfHSP-qjwoTpkkMSiQFaw.png" group-title="DSTV | SUPER SPORTS (4K)",SUPERSPORT MAXIMO 4K
+http://ktv.im:8080/708970545/364316888/21057
+#EXTINF:-1 tvg-id="21058" tvg-name="SUPERSPORT MÁXIMO 2 4K" group-title="DSTV | SUPER SPORTS (4K)",SUPERSPORT MÁXIMO 2 4K
+http://ktv.im:8080/708970545/364316888/21058
+#EXTINF:-1 tvg-id="21059" tvg-name="GINX ESPORTS TV 4K" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWar20X25R44HityMIt8vlDOz7P8ckF-wcLegXRE0o_x7DRyfI8eHCc9dc4oH0_GLFQ.png" group-title="DSTV | SUPER SPORTS (4K)",GINX ESPORTS TV 4K
+http://ktv.im:8080/708970545/364316888/21059
+#EXTINF:-1 tvg-id="21060" tvg-name="ESPN 4K" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWaGmhzTj8XdljJIh_MiIrvDQ6C0BgST6I9PkDvgFgifVZSnSo1Cp6oKF9hcKzhozeE.png" group-title="DSTV | SUPER SPORTS (4K)",ESPN 4K
+http://ktv.im:8080/708970545/364316888/21060
+#EXTINF:-1 tvg-id="21061" tvg-name="ESPN 2  4K" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWYKsjJolwxm7mlarnmb8ZcP6bl4DvbI6Yv263wInB2B7okWJLMd6BVKXWi_D2VvMvQ.png" group-title="DSTV | SUPER SPORTS (4K)",ESPN 2  4K
+http://ktv.im:8080/708970545/364316888/21061
+#EXTINF:-1 tvg-id="21063" tvg-name="WWE SUPERSLAM 4K" group-title="DSTV | SUPER SPORTS (4K)",WWE SUPERSLAM 4K
+http://ktv.im:8080/708970545/364316888/21063
+#EXTINF:-1 tvg-id="21064" tvg-name="WWE CHANNEL 4K" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWZp6Y7vctCPDL0clkpbkHIJ4N_YlcQQd5GRiwjDNxCWXwyziflvANKZOX9TqNt7OIU.png" group-title="DSTV | SUPER SPORTS (4K)",WWE CHANNEL 4K
+http://ktv.im:8080/708970545/364316888/21064
+#EXTINF:-1 tvg-id="21065" tvg-name="RACING 240 4K" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWZYWDa0e0Apno8djyx7w4TdwvKpzan_OYud8MEXrqO4d4g2y9mwKNRCOD6lwRL4Vf0.png" group-title="DSTV | SUPER SPORTS (4K)",RACING 240 4K
+http://ktv.im:8080/708970545/364316888/21065
+#EXTINF:-1 tvg-id="21066" tvg-name="SUPERSPORT OTT 1 4K" tvg-logo="http://ktv.im:8080/images/d15b263d53249dc4f816ec127d6ff92d.png" group-title="DSTV | SUPER SPORTS (4K)",SUPERSPORT OTT 1 4K
+http://ktv.im:8080/708970545/364316888/21066
+#EXTINF:-1 tvg-id="21067" tvg-name="SUPERSPORT OTT 2 4K" tvg-logo="http://m2e.fun:8080/images/1UHVLidf_rKESMiIuInNJJ_u_Tc23mdD4P38b1EV_Nhl8Yu1D5SeXdFZyvC2lkSXLmYNegaORVr-7ehJ4drvrM6l6ZsoYl4RcSjUcNaISG8.png" group-title="DSTV | SUPER SPORTS (4K)",SUPERSPORT OTT 2 4K
+http://ktv.im:8080/708970545/364316888/21067
+#EXTINF:-1 tvg-id="21068" tvg-name="SUPERSPORT OTT 3 4K" tvg-logo="http://m2e.fun:8080/images/1UHVLidf_rKESMiIuInNJJ_u_Tc23mdD4P38b1EV_Nhl8Yu1D5SeXdFZyvC2lkSXRAArvrYIjDOTZrHslz_vSUuRX3ynomEwp7m8kCB7ZaI.png" group-title="DSTV | SUPER SPORTS (4K)",SUPERSPORT OTT 3 4K
+http://ktv.im:8080/708970545/364316888/21068
+#EXTINF:-1 tvg-id="21069" tvg-name="SUPERSPORT OTT 4 4K" tvg-logo="http://m2e.fun:8080/images/1UHVLidf_rKESMiIuInNJJ_u_Tc23mdD4P38b1EV_Nhl8Yu1D5SeXdFZyvC2lkSXH1E556VvOgQdbCwHvRwN3d2tJZ-xkx1_vecz8ey5-DM.png" group-title="DSTV | SUPER SPORTS (4K)",SUPERSPORT OTT 4 4K
+http://ktv.im:8080/708970545/364316888/21069
+#EXTINF:-1 tvg-id="21070" tvg-name="SUPERSPORT OTT 5 4K" tvg-logo="http://m2e.fun:8080/images/1UHVLidf_rKESMiIuInNJJ_u_Tc23mdD4P38b1EV_Nhl8Yu1D5SeXdFZyvC2lkSX8Rq_66YP0OEtTDtX_f5JFKVeqzISk6MHXtsbpo1ROAY.png" group-title="DSTV | SUPER SPORTS (4K)",SUPERSPORT OTT 5 4K
+http://ktv.im:8080/708970545/364316888/21070
+#EXTINF:-1 tvg-id="21071" tvg-name="SUPERSPORT OTT 6 4K" tvg-logo="http://m2e.fun:8080/images/1UHVLidf_rKESMiIuInNJJ_u_Tc23mdD4P38b1EV_Nhl8Yu1D5SeXdFZyvC2lkSXzvoM7ZiWjdY0mBS6J9xGsrhe898PxYJSQbj5GZk4u2Q.png" group-title="DSTV | SUPER SPORTS (4K)",SUPERSPORT OTT 6 4K
+http://ktv.im:8080/708970545/364316888/21071
+#EXTINF:-1 tvg-id="21072" tvg-name="SUPERSPORT OTT 7 4K" tvg-logo="http://m2e.fun:8080/images/1UHVLidf_rKESMiIuInNJJ_u_Tc23mdD4P38b1EV_Nhl8Yu1D5SeXdFZyvC2lkSXhZxjiOKJEh4dDe6q4lRKywjBcCs5uhwGnBcttn6akNs.png" group-title="DSTV | SUPER SPORTS (4K)",SUPERSPORT OTT 7 4K
+http://ktv.im:8080/708970545/364316888/21072
+#EXTINF:-1 tvg-id="21073" tvg-name="SUPERSPORT OTT 8 4K" tvg-logo="http://m2e.fun:8080/images/1UHVLidf_rKESMiIuInNJJ_u_Tc23mdD4P38b1EV_Nhl8Yu1D5SeXdFZyvC2lkSXeYEONjaBbpMw4rkT22c0XXXWq2OQINeXwI3saboqOWU.png" group-title="DSTV | SUPER SPORTS (4K)",SUPERSPORT OTT 8 4K
+http://ktv.im:8080/708970545/364316888/21073
+#EXTINF:-1 tvg-id="21078" tvg-name="SUPERSPORT TENNIS 4K" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWYn1UQkDeK4t8l_7UZcExxF2b_yg9JR8VaHqDgyfiETzAsS4Euo42dUapjpaKycDAU.png" group-title="DSTV | SUPER SPORTS (4K)",SUPERSPORT TENNIS 4K
+http://ktv.im:8080/708970545/364316888/21078
