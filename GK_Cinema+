@@ -1,0 +1,399 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE xtream
+#EXT-X-XC-URL http://domy1000.bumbleshrimp.com:8080?username=DALTERIO&password=PADRESUO
+
+#EXTINF:-1 tvg-id="159879" tvg-name="====SKY CINEMA====" tvg-logo="https://www.dropbox.com/s/oeo3xyv2el9m0lf/Sky-Cinema.jpg?dl=1" group-title="SKY CINEMA",====SKY CINEMA====
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/159879
+#EXTINF:-1 tvg-id="114068" tvg-name="Sky Cinema Uno FHD" tvg-logo="http://h05t.tecnolab.top:8080/images/5bb6a9f93bd0baa9c0ddf3a23eb5e957.png" group-title="SKY CINEMA",Sky Cinema Uno FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114068
+#EXTINF:-1 tvg-id="114069" tvg-name="Sky Cinema Uno HD" tvg-logo="http://h05t.tecnolab.top:8080/images/5bb6a9f93bd0baa9c0ddf3a23eb5e957.png" group-title="SKY CINEMA",Sky Cinema Uno HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114069
+#EXTINF:-1 tvg-id="114070" tvg-name="Sky Cinema Uno SD" tvg-logo="http://h05t.tecnolab.top:8080/images/5bb6a9f93bd0baa9c0ddf3a23eb5e957.png" group-title="SKY CINEMA",Sky Cinema Uno SD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114070
+#EXTINF:-1 tvg-id="114071" tvg-name="Sky Cinema Uno +24 FHD" tvg-logo="http://h05t.tecnolab.top:8080/images/6e7612eb0c42c758afdcb9b8d194fd7c.png" group-title="SKY CINEMA",Sky Cinema Uno +24 FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114071
+#EXTINF:-1 tvg-id="114072" tvg-name="Sky Cinema Uno +24 HD" tvg-logo="http://h05t.tecnolab.top:8080/images/6e7612eb0c42c758afdcb9b8d194fd7c.png" group-title="SKY CINEMA",Sky Cinema Uno +24 HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114072
+#EXTINF:-1 tvg-id="114073" tvg-name="Sky Cinema Uno +24 SD" tvg-logo="http://h05t.tecnolab.top:8080/images/6e7612eb0c42c758afdcb9b8d194fd7c.png" group-title="SKY CINEMA",Sky Cinema Uno +24 SD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114073
+#EXTINF:-1 tvg-id="114074" tvg-name="Sky Cinema Due FHD" tvg-logo="http://h05t.tecnolab.top:8080/images/590c3f4e41364ff4b1212cc19c7cc7a3.png" group-title="SKY CINEMA",Sky Cinema Due FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114074
+#EXTINF:-1 tvg-id="114075" tvg-name="Sky Cinema Due HD" tvg-logo="http://h05t.tecnolab.top:8080/images/590c3f4e41364ff4b1212cc19c7cc7a3.png" group-title="SKY CINEMA",Sky Cinema Due HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114075
+#EXTINF:-1 tvg-id="114076" tvg-name="Sky cinema Due SD" tvg-logo="http://h05t.tecnolab.top:8080/images/590c3f4e41364ff4b1212cc19c7cc7a3.png" group-title="SKY CINEMA",Sky cinema Due SD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114076
+#EXTINF:-1 tvg-id="114077" tvg-name="Sky Cinema Due +24 FHD" tvg-logo="http://h05t.tecnolab.top:8080/images/bcabc12df76f3e79452b2844fc80ae83.png" group-title="SKY CINEMA",Sky Cinema Due +24 FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114077
+#EXTINF:-1 tvg-id="114078" tvg-name="Sky Cinema Due +24 HD" tvg-logo="http://h05t.tecnolab.top:8080/images/bcabc12df76f3e79452b2844fc80ae83.png" group-title="SKY CINEMA",Sky Cinema Due +24 HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114078
+#EXTINF:-1 tvg-id="114079" tvg-name="Sky Cinema Due +24 SD" tvg-logo="http://h05t.tecnolab.top:8080/images/bcabc12df76f3e79452b2844fc80ae83.png" group-title="SKY CINEMA",Sky Cinema Due +24 SD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114079
+#EXTINF:-1 tvg-id="114080" tvg-name="Sky Cinema Action FHD" tvg-logo="http://h05t.tecnolab.top:8080/images/5739af891d857c0e6ff54d6e8103c09f.png" group-title="SKY CINEMA",Sky Cinema Action FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114080
+#EXTINF:-1 tvg-id="114081" tvg-name="Sky Cinema Action HD" tvg-logo="http://h05t.tecnolab.top:8080/images/5739af891d857c0e6ff54d6e8103c09f.png" group-title="SKY CINEMA",Sky Cinema Action HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114081
+#EXTINF:-1 tvg-id="114082" tvg-name="Sky Cinema Action SD" tvg-logo="http://h05t.tecnolab.top:8080/images/5739af891d857c0e6ff54d6e8103c09f.png" group-title="SKY CINEMA",Sky Cinema Action SD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114082
+#EXTINF:-1 tvg-id="114083" tvg-name="Sky Cinema Collection FHD" tvg-logo="http://h05t.tecnolab.top:8080/images/c16069664354d44e0a056bb3b00a5011.png" group-title="SKY CINEMA",Sky Cinema Collection FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114083
+#EXTINF:-1 tvg-id="114084" tvg-name="Sky Cinema Collection HD" tvg-logo="http://h05t.tecnolab.top:8080/images/c16069664354d44e0a056bb3b00a5011.png" group-title="SKY CINEMA",Sky Cinema Collection HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114084
+#EXTINF:-1 tvg-id="114085" tvg-name="Sky Cinema Collection SD" tvg-logo="http://h05t.tecnolab.top:8080/images/c16069664354d44e0a056bb3b00a5011.png" group-title="SKY CINEMA",Sky Cinema Collection SD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114085
+#EXTINF:-1 tvg-id="114086" tvg-name="Sky Cinema Comedy FHD" tvg-logo="http://h05t.tecnolab.top:8080/images/c47349c02550b669c3df9a3353368293.png" group-title="SKY CINEMA",Sky Cinema Comedy FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114086
+#EXTINF:-1 tvg-id="114087" tvg-name="Sky Cinema Comedy HD" tvg-logo="http://h05t.tecnolab.top:8080/images/c47349c02550b669c3df9a3353368293.png" group-title="SKY CINEMA",Sky Cinema Comedy HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114087
+#EXTINF:-1 tvg-id="114088" tvg-name="Sky cinema Comedy SD" tvg-logo="http://h05t.tecnolab.top:8080/images/c47349c02550b669c3df9a3353368293.png" group-title="SKY CINEMA",Sky cinema Comedy SD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114088
+#EXTINF:-1 tvg-id="114089" tvg-name="Sky Cinema Drama FHD" tvg-logo="http://h05t.tecnolab.top:8080/images/ee2c640004bd3ec707857051209964b4.png" group-title="SKY CINEMA",Sky Cinema Drama FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114089
+#EXTINF:-1 tvg-id="114090" tvg-name="Sky Cinema Drama HD" tvg-logo="http://h05t.tecnolab.top:8080/images/ee2c640004bd3ec707857051209964b4.png" group-title="SKY CINEMA",Sky Cinema Drama HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114090
+#EXTINF:-1 tvg-id="114091" tvg-name="Sky cinema Drama SD" tvg-logo="http://h05t.tecnolab.top:8080/images/ee2c640004bd3ec707857051209964b4.png" group-title="SKY CINEMA",Sky cinema Drama SD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114091
+#EXTINF:-1 tvg-id="114092" tvg-name="Sky Cinema Family FHD" tvg-logo="http://h05t.tecnolab.top:8080/images/e66932b1d19be8eff1318869c1f5c8b3.png" group-title="SKY CINEMA",Sky Cinema Family FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114092
+#EXTINF:-1 tvg-id="114093" tvg-name="Sky Cinema Family HD" tvg-logo="http://h05t.tecnolab.top:8080/images/e66932b1d19be8eff1318869c1f5c8b3.png" group-title="SKY CINEMA",Sky Cinema Family HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114093
+#EXTINF:-1 tvg-id="114094" tvg-name="Sky Cinema Family SD" tvg-logo="http://h05t.tecnolab.top:8080/images/e66932b1d19be8eff1318869c1f5c8b3.png" group-title="SKY CINEMA",Sky Cinema Family SD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114094
+#EXTINF:-1 tvg-id="114095" tvg-name="Sky Cinema Romance FHD" tvg-logo="http://h05t.tecnolab.top:8080/images/b866dd042ddeedf0bcab0fadbdc97eec.png" group-title="SKY CINEMA",Sky Cinema Romance FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114095
+#EXTINF:-1 tvg-id="114096" tvg-name="Sky Cinema Romance HD" tvg-logo="http://h05t.tecnolab.top:8080/images/b866dd042ddeedf0bcab0fadbdc97eec.png" group-title="SKY CINEMA",Sky Cinema Romance HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114096
+#EXTINF:-1 tvg-id="114097" tvg-name="Sky Cinema Romance SD" tvg-logo="http://h05t.tecnolab.top:8080/images/b866dd042ddeedf0bcab0fadbdc97eec.png" group-title="SKY CINEMA",Sky Cinema Romance SD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114097
+#EXTINF:-1 tvg-id="114098" tvg-name="Sky Cinema Suspense FHD" tvg-logo="http://h05t.tecnolab.top:8080/images/77610fedb432ebf847027a2d18d8c60d.png" group-title="SKY CINEMA",Sky Cinema Suspense FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114098
+#EXTINF:-1 tvg-id="114099" tvg-name="Sky Cinema Suspense HD" tvg-logo="http://h05t.tecnolab.top:8080/images/77610fedb432ebf847027a2d18d8c60d.png" group-title="SKY CINEMA",Sky Cinema Suspense HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114099
+#EXTINF:-1 tvg-id="114100" tvg-name="Sky Cinema Suspense SD" tvg-logo="http://h05t.tecnolab.top:8080/images/77610fedb432ebf847027a2d18d8c60d.png" group-title="SKY CINEMA",Sky Cinema Suspense SD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114100
+
+#EXTINF:-1 tvg-id="159877" tvg-name="====PRIMAFILA====" tvg-logo="https://www.dropbox.com/s/o4g8ouvf2nm36ja/sky-primafila.jpg?dl=1" group-title="SKY PRIMAFILA LIVE",====PRIMAFILA====
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/159877
+#EXTINF:-1 tvg-id="153190" tvg-name="Vetrina Primafila" tvg-logo="https://www.dropbox.com/s/j04r9duui09iy2v/primafila-day.jpg?dl=1" group-title="SKY PRIMAFILA LIVE",Vetrina Primafila
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/153190
+#EXTINF:-1 tvg-id="153191" tvg-name="Primafila Live 1" tvg-logo="http://h05t.tecnolab.top:8080/images/6b240988dd913fc8ecc95af6015503f9.png" group-title="SKY PRIMAFILA LIVE",Primafila Live 1
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/153191
+#EXTINF:-1 tvg-id="153192" tvg-name="Primafila Live 2" tvg-logo="http://h05t.tecnolab.top:8080/images/6b240988dd913fc8ecc95af6015503f9.png" group-title="SKY PRIMAFILA LIVE",Primafila Live 2
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/153192
+#EXTINF:-1 tvg-id="153193" tvg-name="Primafila Live 3" tvg-logo="http://h05t.tecnolab.top:8080/images/6b240988dd913fc8ecc95af6015503f9.png" group-title="SKY PRIMAFILA LIVE",Primafila Live 3
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/153193
+#EXTINF:-1 tvg-id="153194" tvg-name="Primafila Live 4" tvg-logo="http://h05t.tecnolab.top:8080/images/6b240988dd913fc8ecc95af6015503f9.png" group-title="SKY PRIMAFILA LIVE",Primafila Live 4
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/153194
+#EXTINF:-1 tvg-id="153195" tvg-name="Primafila Live 5" tvg-logo="http://h05t.tecnolab.top:8080/images/6b240988dd913fc8ecc95af6015503f9.png" group-title="SKY PRIMAFILA LIVE",Primafila Live 5
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/153195
+#EXTINF:-1 tvg-id="153196" tvg-name="Primafila Live 6" tvg-logo="http://h05t.tecnolab.top:8080/images/6b240988dd913fc8ecc95af6015503f9.png" group-title="SKY PRIMAFILA LIVE",Primafila Live 6
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/153196
+#EXTINF:-1 tvg-id="153197" tvg-name="Primafila Live 7" tvg-logo="http://h05t.tecnolab.top:8080/images/6b240988dd913fc8ecc95af6015503f9.png" group-title="SKY PRIMAFILA LIVE",Primafila Live 7
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/153197
+#EXTINF:-1 tvg-id="153198" tvg-name="Primafila Live 8" tvg-logo="http://h05t.tecnolab.top:8080/images/6b240988dd913fc8ecc95af6015503f9.png" group-title="SKY PRIMAFILA LIVE",Primafila Live 8
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/153198
+#EXTINF:-1 tvg-id="153199" tvg-name="Primafila Live 9" tvg-logo="http://h05t.tecnolab.top:8080/images/6b240988dd913fc8ecc95af6015503f9.png" group-title="SKY PRIMAFILA LIVE",Primafila Live 9
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/153199
+#EXTINF:-1 tvg-id="153200" tvg-name="Primafila Live 10" tvg-logo="http://h05t.tecnolab.top:8080/images/6b240988dd913fc8ecc95af6015503f9.png" group-title="SKY PRIMAFILA LIVE",Primafila Live 10
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/153200
+#EXTINF:-1 tvg-id="153201" tvg-name="Primafila Live 11" tvg-logo="http://h05t.tecnolab.top:8080/images/6b240988dd913fc8ecc95af6015503f9.png" group-title="SKY PRIMAFILA LIVE",Primafila Live 11
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/153201
+#EXTINF:-1 tvg-id="153202" tvg-name="Primafila Live 12" tvg-logo="http://h05t.tecnolab.top:8080/images/6b240988dd913fc8ecc95af6015503f9.png" group-title="SKY PRIMAFILA LIVE",Primafila Live 12
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/153202
+#EXTINF:-1 tvg-id="153203" tvg-name="Primafila Live 13" tvg-logo="http://h05t.tecnolab.top:8080/images/6b240988dd913fc8ecc95af6015503f9.png" group-title="SKY PRIMAFILA LIVE",Primafila Live 13
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/153203
+#EXTINF:-1 tvg-id="153204" tvg-name="Primafila Live 14" tvg-logo="http://h05t.tecnolab.top:8080/images/6b240988dd913fc8ecc95af6015503f9.png" group-title="SKY PRIMAFILA LIVE",Primafila Live 14
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/153204
+#EXTINF:-1 tvg-id="153205" tvg-name="Primafila Live 15" tvg-logo="http://h05t.tecnolab.top:8080/images/6b240988dd913fc8ecc95af6015503f9.png" group-title="SKY PRIMAFILA LIVE",Primafila Live 15
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/153205
+#EXTINF:-1 tvg-id="153206" tvg-name="Primafila Live 16" tvg-logo="http://h05t.tecnolab.top:8080/images/6b240988dd913fc8ecc95af6015503f9.png" group-title="SKY PRIMAFILA LIVE",Primafila Live 16
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/153206
+#EXTINF:-1 tvg-id="153207" tvg-name="Primafila Live 17" tvg-logo="http://h05t.tecnolab.top:8080/images/6b240988dd913fc8ecc95af6015503f9.png" group-title="SKY PRIMAFILA LIVE",Primafila Live 17
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/153207
+#EXTINF:-1 tvg-id="153208" tvg-name="Primafila Live 18" tvg-logo="http://h05t.tecnolab.top:8080/images/6b240988dd913fc8ecc95af6015503f9.png" group-title="SKY PRIMAFILA LIVE",Primafila Live 18
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/153208
+
+#EXTINF:-1 tvg-id="159874" tvg-name="====INTRATTENIMENTO====" tvg-logo="https://www.dropbox.com/s/vyu80qly0neuve4/intratten.jpg?dl=1" group-title="SKY INTRATTENIMENTO",====INTRATTENIMENTO====
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/159874
+#EXTINF:-1 tvg-id="269301" tvg-name="GRANDE FRATELLO VIP PARTY" group-title="SKY INTRATTENIMENTO",GRANDE FRATELLO VIP PARTY
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/269301
+#EXTINF:-1 tvg-id="269302" tvg-name="GRANDE FRATELLO REGIA 1" group-title="SKY INTRATTENIMENTO",GRANDE FRATELLO REGIA 1
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/269302
+#EXTINF:-1 tvg-id="269303" tvg-name="GRANDE FRATELLO REGIA 2" group-title="SKY INTRATTENIMENTO",GRANDE FRATELLO REGIA 2
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/269303
+#EXTINF:-1 tvg-id="269304" tvg-name="GRANDE FRATELLO UN'ORA FA" group-title="SKY INTRATTENIMENTO",GRANDE FRATELLO UN'ORA FA
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/269304
+#EXTINF:-1 tvg-id="114124" tvg-name="Sky Uno FHD" tvg-logo="http://h05t.tecnolab.top:8080/images/7ccc2d7620c6b9f88e5f839022f88fc4.png" group-title="SKY INTRATTENIMENTO",Sky Uno FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114124
+#EXTINF:-1 tvg-id="114125" tvg-name="Sky Uno HD" tvg-logo="http://h05t.tecnolab.top:8080/images/b03b7aa8d8658c027fcf95f46f0734b4.png" group-title="SKY INTRATTENIMENTO",Sky Uno HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114125
+#EXTINF:-1 tvg-id="114126" tvg-name="Sky Uno SD" tvg-logo="http://h05t.tecnolab.top:8080/images/b03b7aa8d8658c027fcf95f46f0734b4.png" group-title="SKY INTRATTENIMENTO",Sky Uno SD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114126
+#EXTINF:-1 tvg-id="114128" tvg-name="Sky Atlantic FHD" tvg-logo="http://h05t.tecnolab.top:8080/images/c4bf9d8b14ef0a8b69a36cf65829fe96.png" group-title="SKY INTRATTENIMENTO",Sky Atlantic FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114128
+#EXTINF:-1 tvg-id="114851" tvg-name="Sky Atlantic HD" tvg-logo="http://h05t.tecnolab.top:8080/images/c4bf9d8b14ef0a8b69a36cf65829fe96.png" group-title="SKY INTRATTENIMENTO",Sky Atlantic HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114851
+#EXTINF:-1 tvg-id="114130" tvg-name="Sky Atlantic SD" tvg-logo="http://h05t.tecnolab.top:8080/images/c4bf9d8b14ef0a8b69a36cf65829fe96.png" group-title="SKY INTRATTENIMENTO",Sky Atlantic SD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114130
+#EXTINF:-1 tvg-id="222157" tvg-name="Sky Series FHD" tvg-logo="https://www.dropbox.com/s/4q3jyf1tikv3k3n/download.jpg?dl=1" group-title="SKY INTRATTENIMENTO",Sky Series FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/222157
+#EXTINF:-1 tvg-id="222156" tvg-name="Sky Series HD" tvg-logo="https://www.dropbox.com/s/4q3jyf1tikv3k3n/download.jpg?dl=1" group-title="SKY INTRATTENIMENTO",Sky Series HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/222156
+#EXTINF:-1 tvg-id="114133" tvg-name="Sky Investigation FHD" tvg-logo="http://h05t.tecnolab.top:8080/images/4315fd46f8824b43920e18181719ddf6.png" group-title="SKY INTRATTENIMENTO",Sky Investigation FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114133
+#EXTINF:-1 tvg-id="114134" tvg-name="Sky Investigation HD" tvg-logo="http://h05t.tecnolab.top:8080/images/4315fd46f8824b43920e18181719ddf6.png" group-title="SKY INTRATTENIMENTO",Sky Investigation HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114134
+#EXTINF:-1 tvg-id="114135" tvg-name="Sky Investigation SD" tvg-logo="http://h05t.tecnolab.top:8080/images/4315fd46f8824b43920e18181719ddf6.png" group-title="SKY INTRATTENIMENTO",Sky Investigation SD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114135
+#EXTINF:-1 tvg-id="114139" tvg-name="Comedy Central HD" tvg-logo="http://h05t.tecnolab.top:8080/images/6bbb80a20ed532be57b059d97432ac26.png" group-title="SKY INTRATTENIMENTO",Comedy Central HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114139
+#EXTINF:-1 tvg-id="114140" tvg-name="VH 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/VH1_2013.svg/revision/latest/scale-to-width-down/200?cb=20180509102035" group-title="SKY INTRATTENIMENTO",VH 1
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114140
+#EXTINF:-1 tvg-id="114144" tvg-name="Sky Classica HD" tvg-logo="http://h05t.tecnolab.top:8080/images/3f562178b5544552ae16a74662b1540e.jpg" group-title="SKY INTRATTENIMENTO",Sky Classica HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114144
+#EXTINF:-1 tvg-id="114145" tvg-name="Mtv FHD" tvg-logo="http://h05t.tecnolab.top:8080/images/6d8cd7437f1b0c67c1773c5e44f04cda.png" group-title="SKY INTRATTENIMENTO",Mtv FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114145
+#EXTINF:-1 tvg-id="257628" tvg-name="Mtv SD" tvg-logo="http://h05t.tecnolab.top:8080/images/6d8cd7437f1b0c67c1773c5e44f04cda.png" group-title="SKY INTRATTENIMENTO",Mtv SD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/257628
+#EXTINF:-1 tvg-id="114164" tvg-name="Gambero Rosso FHD" tvg-logo="http://h05t.tecnolab.top:8080/images/0fc971bdfb7100f24ab1e7bc335017f9.png" group-title="SKY INTRATTENIMENTO",Gambero Rosso FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114164
+#EXTINF:-1 tvg-id="114393" tvg-name="Gambero Rosso  HD" tvg-logo="http://h05t.tecnolab.top:8080/images/0fc971bdfb7100f24ab1e7bc335017f9.png" group-title="SKY INTRATTENIMENTO",Gambero Rosso  HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114393
+#EXTINF:-1 tvg-id="114392" tvg-name="Tv2000" tvg-logo="http://h05t.tecnolab.top:8080/images/9b50426692a6ba9352d545628e48de8d.png" group-title="SKY INTRATTENIMENTO",Tv2000
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/114392
+
+#EXTINF:-1 tvg-id="216595" tvg-name="===== EAGLE CINEMA =====" group-title="EAGLE CINEMA",===== EAGLE CINEMA =====
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216595
+#EXTINF:-1 tvg-id="216596" tvg-name="Eagle - Avengers Grimm Channel FHD" group-title="EAGLE CINEMA",Eagle - Avengers Grimm Channel FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216596
+#EXTINF:-1 tvg-id="216597" tvg-name="Eagle - DC's Legends of Tomorrow FHD" group-title="EAGLE CINEMA",Eagle - DC's Legends of Tomorrow FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216597
+#EXTINF:-1 tvg-id="216598" tvg-name="Eagle - Christian De Sica Channel" group-title="EAGLE CINEMA",Eagle - Christian De Sica Channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216598
+#EXTINF:-1 tvg-id="216599" tvg-name="Eagle - Checco Zalone Channel" group-title="EAGLE CINEMA",Eagle - Checco Zalone Channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216599
+#EXTINF:-1 tvg-id="216600" tvg-name="Eagle - Carlo Verdone Channel" group-title="EAGLE CINEMA",Eagle - Carlo Verdone Channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216600
+#EXTINF:-1 tvg-id="216604" tvg-name="Eagle - Disney Plus Film HD" group-title="EAGLE CINEMA",Eagle - Disney Plus Film HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216604
+#EXTINF:-1 tvg-id="216603" tvg-name="Eagle - Disney Plus Film 2 HD" group-title="EAGLE CINEMA",Eagle - Disney Plus Film 2 HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216603
+#EXTINF:-1 tvg-id="216602" tvg-name="Eagle - Disney Plus Animation HD" group-title="EAGLE CINEMA",Eagle - Disney Plus Animation HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216602
+#EXTINF:-1 tvg-id="216605" tvg-name="Eagle - Disney Plus Nature HD" group-title="EAGLE CINEMA",Eagle - Disney Plus Nature HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216605
+#EXTINF:-1 tvg-id="216606" tvg-name="Eagle - 20thCenturyFox FHD" group-title="EAGLE CINEMA",Eagle - 20thCenturyFox FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216606
+#EXTINF:-1 tvg-id="216607" tvg-name="Eagle - 4K (IT-DE-EN-multilanguage)" group-title="EAGLE CINEMA",Eagle - 4K (IT-DE-EN-multilanguage)
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216607
+#EXTINF:-1 tvg-id="216608" tvg-name="Eagle - American Dad 24H" group-title="EAGLE CINEMA",Eagle - American Dad 24H
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216608
+#EXTINF:-1 tvg-id="216609" tvg-name="Eagle - Brickleberry FHD 24H" group-title="EAGLE CINEMA",Eagle - Brickleberry FHD 24H
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216609
+#EXTINF:-1 tvg-id="216610" tvg-name="Eagle - Cinema 007 HD" group-title="EAGLE CINEMA",Eagle - Cinema 007 HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216610
+#EXTINF:-1 tvg-id="216611" tvg-name="Eagle - Cinema Animazione FHD" group-title="EAGLE CINEMA",Eagle - Cinema Animazione FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216611
+#EXTINF:-1 tvg-id="216612" tvg-name="Eagle - Cinema Avventura FHD" group-title="EAGLE CINEMA",Eagle - Cinema Avventura FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216612
+#EXTINF:-1 tvg-id="216613" tvg-name="Eagle - Cinema Azione FHD" group-title="EAGLE CINEMA",Eagle - Cinema Azione FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216613
+#EXTINF:-1 tvg-id="216614" tvg-name="Eagle - Cinema Bing HD" group-title="EAGLE CINEMA",Eagle - Cinema Bing HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216614
+#EXTINF:-1 tvg-id="216615" tvg-name="Eagle - Cinema Biografico FHD" group-title="EAGLE CINEMA",Eagle - Cinema Biografico FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216615
+#EXTINF:-1 tvg-id="216616" tvg-name="Eagle - Cinema Bud Spencer HD" group-title="EAGLE CINEMA",Eagle - Cinema Bud Spencer HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216616
+#EXTINF:-1 tvg-id="216617" tvg-name="Eagle - Cinema Comico Cult FHD" group-title="EAGLE CINEMA",Eagle - Cinema Comico Cult FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216617
+#EXTINF:-1 tvg-id="216618" tvg-name="Eagle - Cinema Commedia FHD" group-title="EAGLE CINEMA",Eagle - Cinema Commedia FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216618
+#EXTINF:-1 tvg-id="216619" tvg-name="Eagle - Cinema Drammatico FHD" group-title="EAGLE CINEMA",Eagle - Cinema Drammatico FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216619
+#EXTINF:-1 tvg-id="216620" tvg-name="Eagle - Cinema Famiglia FHD" group-title="EAGLE CINEMA",Eagle - Cinema Famiglia FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216620
+#EXTINF:-1 tvg-id="216621" tvg-name="Eagle - Cinema Fantascienza FHD" group-title="EAGLE CINEMA",Eagle - Cinema Fantascienza FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216621
+#EXTINF:-1 tvg-id="216622" tvg-name="Eagle - Cinema Fantastico FHD" group-title="EAGLE CINEMA",Eagle - Cinema Fantastico FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216622
+#EXTINF:-1 tvg-id="216623" tvg-name="Eagle - Cinema Film in Sala  HD (qualita camera)" group-title="EAGLE CINEMA",Eagle - Cinema Film in Sala  HD (qualita camera)
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216623
+#EXTINF:-1 tvg-id="216624" tvg-name="Eagle - Cinema Horror FHD" group-title="EAGLE CINEMA",Eagle - Cinema Horror FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216624
+#EXTINF:-1 tvg-id="216625" tvg-name="Eagle - Cinema Mitologia HD" group-title="EAGLE CINEMA",Eagle - Cinema Mitologia HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216625
+#EXTINF:-1 tvg-id="216626" tvg-name="Eagle - Cinema Passione FHD" group-title="EAGLE CINEMA",Eagle - Cinema Passione FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216626
+#EXTINF:-1 tvg-id="216627" tvg-name="Eagle - Cinema Prima Visione FHD" group-title="EAGLE CINEMA",Eagle - Cinema Prima Visione FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216627
+#EXTINF:-1 tvg-id="216628" tvg-name="Eagle - Cinema Religion HD" group-title="EAGLE CINEMA",Eagle - Cinema Religion HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216628
+#EXTINF:-1 tvg-id="216629" tvg-name="Eagle - Cinema Sorriso FHD" group-title="EAGLE CINEMA",Eagle - Cinema Sorriso FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216629
+#EXTINF:-1 tvg-id="216630" tvg-name="Eagle - Cinema Spaghetti Western FHD" group-title="EAGLE CINEMA",Eagle - Cinema Spaghetti Western FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216630
+#EXTINF:-1 tvg-id="216631" tvg-name="Eagle - Cinema Storico FHD" group-title="EAGLE CINEMA",Eagle - Cinema Storico FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216631
+#EXTINF:-1 tvg-id="216632" tvg-name="Eagle - Cinema Thriller FHD" group-title="EAGLE CINEMA",Eagle - Cinema Thriller FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216632
+#EXTINF:-1 tvg-id="216633" tvg-name="Eagle - Cinema Western FHD" group-title="EAGLE CINEMA",Eagle - Cinema Western FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216633
+#EXTINF:-1 tvg-id="216634" tvg-name="Eagle - Cinepanettone HD" group-title="EAGLE CINEMA",Eagle - Cinepanettone HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216634
+#EXTINF:-1 tvg-id="216635" tvg-name="Eagle - Disney Topolino Paperino e Pippo HD" group-title="EAGLE CINEMA",Eagle - Disney Topolino Paperino e Pippo HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216635
+#EXTINF:-1 tvg-id="216636" tvg-name="Eagle - Fiabe Magiche HD" group-title="EAGLE CINEMA",Eagle - Fiabe Magiche HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216636
+#EXTINF:-1 tvg-id="216637" tvg-name="Eagle - Gomorra Stagione 1 FHD HEVC" group-title="EAGLE CINEMA",Eagle - Gomorra Stagione 1 FHD HEVC
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216637
+#EXTINF:-1 tvg-id="216638" tvg-name="Eagle - Gomorra Stagione 2 FHD HEVC" group-title="EAGLE CINEMA",Eagle - Gomorra Stagione 2 FHD HEVC
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216638
+#EXTINF:-1 tvg-id="216639" tvg-name="Eagle - Gomorra Stagione 3 FHD HEVC" group-title="EAGLE CINEMA",Eagle - Gomorra Stagione 3 FHD HEVC
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216639
+#EXTINF:-1 tvg-id="216640" tvg-name="Eagle - Gomorra Stagione 4 FHD HEVC" group-title="EAGLE CINEMA",Eagle - Gomorra Stagione 4 FHD HEVC
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216640
+#EXTINF:-1 tvg-id="216601" tvg-name="Eagle - Gomorra Stagione 5 FHD HEVC" group-title="EAGLE CINEMA",Eagle - Gomorra Stagione 5 FHD HEVC
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216601
+#EXTINF:-1 tvg-id="216641" tvg-name="Eagle - Le Fiabe Disney" group-title="EAGLE CINEMA",Eagle - Le Fiabe Disney
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216641
+#EXTINF:-1 tvg-id="216642" tvg-name="Eagle - Looney Toons HD" group-title="EAGLE CINEMA",Eagle - Looney Toons HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216642
+#EXTINF:-1 tvg-id="216643" tvg-name="Eagle - MARVEL FHD" group-title="EAGLE CINEMA",Eagle - MARVEL FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216643
+#EXTINF:-1 tvg-id="216644" tvg-name="Eagle - Masha e Orso FHD" group-title="EAGLE CINEMA",Eagle - Masha e Orso FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216644
+#EXTINF:-1 tvg-id="216645" tvg-name="Eagle - Nature Discovery 4K (double audio)" group-title="EAGLE CINEMA",Eagle - Nature Discovery 4K (double audio)
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216645
+#EXTINF:-1 tvg-id="216646" tvg-name="Eagle - Nature Explorer FHD" group-title="EAGLE CINEMA",Eagle - Nature Explorer FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216646
+#EXTINF:-1 tvg-id="216647" tvg-name="Eagle - Peppa Pig FHD" group-title="EAGLE CINEMA",Eagle - Peppa Pig FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216647
+#EXTINF:-1 tvg-id="216648" tvg-name="Eagle - Peter Griffin 24H" group-title="EAGLE CINEMA",Eagle - Peter Griffin 24H
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216648
+#EXTINF:-1 tvg-id="216649" tvg-name="Eagle - Scooby-Doo FHD" group-title="EAGLE CINEMA",Eagle - Scooby-Doo FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216649
+#EXTINF:-1 tvg-id="216650" tvg-name="Eagle - Super Pigiamini FHD" group-title="EAGLE CINEMA",Eagle - Super Pigiamini FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216650
+#EXTINF:-1 tvg-id="216651" tvg-name="Eagle - The Cleveland Show 24H" group-title="EAGLE CINEMA",Eagle - The Cleveland Show 24H
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216651
+#EXTINF:-1 tvg-id="216652" tvg-name="Eagle - Fast and Furious Channel FHD" group-title="EAGLE CINEMA",Eagle - Fast and Furious Channel FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216652
+#EXTINF:-1 tvg-id="216653" tvg-name="Eagle - G.I.JOE Channel FHD" group-title="EAGLE CINEMA",Eagle - G.I.JOE Channel FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216653
+#EXTINF:-1 tvg-id="216654" tvg-name="Eagle - Ghost Adventures-Cacciatori di fantasmi channel" group-title="EAGLE CINEMA",Eagle - Ghost Adventures-Cacciatori di fantasmi channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216654
+#EXTINF:-1 tvg-id="216655" tvg-name="Eagle - Harry Potter Channel FHD" group-title="EAGLE CINEMA",Eagle - Harry Potter Channel FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216655
+#EXTINF:-1 tvg-id="216656" tvg-name="Eagle - How i Met You Mother FHD" group-title="EAGLE CINEMA",Eagle - How i Met You Mother FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216656
+#EXTINF:-1 tvg-id="216657" tvg-name="Eagle - Hunger Games Channel FHD" group-title="EAGLE CINEMA",Eagle - Hunger Games Channel FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216657
+#EXTINF:-1 tvg-id="216658" tvg-name="Eagle - I Mercenari-The Expendables Channel 4K" group-title="EAGLE CINEMA",Eagle - I Mercenari-The Expendables Channel 4K
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216658
+#EXTINF:-1 tvg-id="216659" tvg-name="Eagle - I Mercenari-The Expendables Channel FHD" group-title="EAGLE CINEMA",Eagle - I Mercenari-The Expendables Channel FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216659
+#EXTINF:-1 tvg-id="216660" tvg-name="Eagle - Il Re Scorpione Channel FHD" group-title="EAGLE CINEMA",Eagle - Il Re Scorpione Channel FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216660
+#EXTINF:-1 tvg-id="216661" tvg-name="Eagle - IL Signore Degli Anelli Channel FHD" group-title="EAGLE CINEMA",Eagle - IL Signore Degli Anelli Channel FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216661
+#EXTINF:-1 tvg-id="216662" tvg-name="Eagle - Il Trono di Spade stagione 1 FHD" group-title="EAGLE CINEMA",Eagle - Il Trono di Spade stagione 1 FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216662
+#EXTINF:-1 tvg-id="216663" tvg-name="Eagle - Alessandro Siani Channel" group-title="EAGLE CINEMA",Eagle - Alessandro Siani Channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216663
+#EXTINF:-1 tvg-id="216664" tvg-name="Eagle - Alvaro Vitali-Pierino Channel" group-title="EAGLE CINEMA",Eagle - Alvaro Vitali-Pierino Channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216664
+#EXTINF:-1 tvg-id="216665" tvg-name="Eagle - Nino D'Angelo Channel" group-title="EAGLE CINEMA",Eagle - Nino D'Angelo Channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216665
+#EXTINF:-1 tvg-id="216666" tvg-name="Eagle - Paolo Villaggio Channel" group-title="EAGLE CINEMA",Eagle - Paolo Villaggio Channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216666
+#EXTINF:-1 tvg-id="216667" tvg-name="Eagle - Diego Abatantuono Channel" group-title="EAGLE CINEMA",Eagle - Diego Abatantuono Channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216667
+#EXTINF:-1 tvg-id="216668" tvg-name="Eagle - Massimo Troisi Channel" group-title="EAGLE CINEMA",Eagle - Massimo Troisi Channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216668
+#EXTINF:-1 tvg-id="216669" tvg-name="Eagle - Il capo dei capi Channel" group-title="EAGLE CINEMA",Eagle - Il capo dei capi Channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216669
+#EXTINF:-1 tvg-id="216670" tvg-name="Eagle - Indiana Jones Channel FHD" group-title="EAGLE CINEMA",Eagle - Indiana Jones Channel FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216670
+#EXTINF:-1 tvg-id="216671" tvg-name="Eagle - IP MAN Channel FHD" group-title="EAGLE CINEMA",Eagle - IP MAN Channel FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216671
+#EXTINF:-1 tvg-id="216672" tvg-name="Eagle - Lo Hobbit Channel FHD" group-title="EAGLE CINEMA",Eagle - Lo Hobbit Channel FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216672
+#EXTINF:-1 tvg-id="216673" tvg-name="Eagle - Jean Claude Van Damme Channel FHD" group-title="EAGLE CINEMA",Eagle - Jean Claude Van Damme Channel FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216673
+#EXTINF:-1 tvg-id="216674" tvg-name="Eagle - Karate Kid Channel FHD" group-title="EAGLE CINEMA",Eagle - Karate Kid Channel FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216674
+#EXTINF:-1 tvg-id="216675" tvg-name="Eagle - Kung Fu Panda Film Channel FHD" group-title="EAGLE CINEMA",Eagle - Kung Fu Panda Film Channel FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216675
+#EXTINF:-1 tvg-id="216676" tvg-name="Eagle - Kung Fu Panda Series Channel HD" group-title="EAGLE CINEMA",Eagle - Kung Fu Panda Series Channel HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216676
+#EXTINF:-1 tvg-id="216677" tvg-name="Eagle - Me-contro-Te Channel HD" group-title="EAGLE CINEMA",Eagle - Me-contro-Te Channel HD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216677
+#EXTINF:-1 tvg-id="216678" tvg-name="Eagle - Men in Black Channel FHD" group-title="EAGLE CINEMA",Eagle - Men in Black Channel FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216678
+#EXTINF:-1 tvg-id="216679" tvg-name="Eagle - Mission impossible Channel FHD" group-title="EAGLE CINEMA",Eagle - Mission impossible Channel FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216679
+#EXTINF:-1 tvg-id="216680" tvg-name="Eagle - Gigi Proietti Channel" group-title="EAGLE CINEMA",Eagle - Gigi Proietti Channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216680
+#EXTINF:-1 tvg-id="216681" tvg-name="Eagle - Pirati dei Caraibi Channel 4K" group-title="EAGLE CINEMA",Eagle - Pirati dei Caraibi Channel 4K
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216681
+#EXTINF:-1 tvg-id="216682" tvg-name="Eagle - Pirati dei Caraibi Channel FHD" group-title="EAGLE CINEMA",Eagle - Pirati dei Caraibi Channel FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216682
+#EXTINF:-1 tvg-id="216683" tvg-name="Eagle - Rambo Channel FHD" group-title="EAGLE CINEMA",Eagle - Rambo Channel FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216683
+#EXTINF:-1 tvg-id="216684" tvg-name="Eagle - Rocky Channel FHD" group-title="EAGLE CINEMA",Eagle - Rocky Channel FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216684
+#EXTINF:-1 tvg-id="216685" tvg-name="Eagle - Star Wars Channel FHD" group-title="EAGLE CINEMA",Eagle - Star Wars Channel FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216685
+#EXTINF:-1 tvg-id="216686" tvg-name="Eagle - Terminator Channel FHD" group-title="EAGLE CINEMA",Eagle - Terminator Channel FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216686
+#EXTINF:-1 tvg-id="216687" tvg-name="Eagle - The Big Bang Theory FHD" group-title="EAGLE CINEMA",Eagle - The Big Bang Theory FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216687
+#EXTINF:-1 tvg-id="216688" tvg-name="Eagle - The Bourne Channel FHD" group-title="EAGLE CINEMA",Eagle - The Bourne Channel FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216688
+#EXTINF:-1 tvg-id="216689" tvg-name="Eagle - Transformers Channel FHD" group-title="EAGLE CINEMA",Eagle - Transformers Channel FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216689
+#EXTINF:-1 tvg-id="216690" tvg-name="Eagle - Twilight Channel FHD" group-title="EAGLE CINEMA",Eagle - Twilight Channel FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216690
+#EXTINF:-1 tvg-id="216691" tvg-name="Eagle - Underworld  Channel FHD" group-title="EAGLE CINEMA",Eagle - Underworld  Channel FHD
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216691
+#EXTINF:-1 tvg-id="216692" tvg-name="Eagle - Lupin III Channel" group-title="EAGLE CINEMA",Eagle - Lupin III Channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216692
+#EXTINF:-1 tvg-id="216693" tvg-name="Eagle - Dragon Ball Z Channel FHD  (Audio-1.ITA-2.ENG)" group-title="EAGLE CINEMA",Eagle - Dragon Ball Z Channel FHD  (Audio-1.ITA-2.ENG)
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216693
+#EXTINF:-1 tvg-id="216694" tvg-name="Eagle - La Casa di Topolino Channel" group-title="EAGLE CINEMA",Eagle - La Casa di Topolino Channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216694
+#EXTINF:-1 tvg-id="216695" tvg-name="Eagle - Aldo Giovanni e Giacomo Channel" group-title="EAGLE CINEMA",Eagle - Aldo Giovanni e Giacomo Channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216695
+#EXTINF:-1 tvg-id="216696" tvg-name="Eagle - Fantozzi Channel" group-title="EAGLE CINEMA",Eagle - Fantozzi Channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216696
+#EXTINF:-1 tvg-id="216697" tvg-name="Eagle - Totò Channel" group-title="EAGLE CINEMA",Eagle - Totò Channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216697
+#EXTINF:-1 tvg-id="216698" tvg-name="Eagle - Scuola di Polizia Channel" group-title="EAGLE CINEMA",Eagle - Scuola di Polizia Channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/216698
+#EXTINF:-1 tvg-id="274241" tvg-name="Eagle - Adriano Celentano Channel" group-title="EAGLE CINEMA",Eagle - Adriano Celentano Channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/274241
+#EXTINF:-1 tvg-id="274242" tvg-name="Eagle - Alberto Sordi Channel" group-title="EAGLE CINEMA",Eagle - Alberto Sordi Channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/274242
+#EXTINF:-1 tvg-id="274243" tvg-name="Eagle - Barbapapa 1970 channel" group-title="EAGLE CINEMA",Eagle - Barbapapa 1970 channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/274243
+#EXTINF:-1 tvg-id="274244" tvg-name="Eagle - Barbapapa 2018 channel" group-title="EAGLE CINEMA",Eagle - Barbapapa 2018 channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/274244
+#EXTINF:-1 tvg-id="274245" tvg-name="Eagle - Elvis Presley Channel (multi-audio)" group-title="EAGLE CINEMA",Eagle - Elvis Presley Channel (multi-audio)
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/274245
+#EXTINF:-1 tvg-id="274246" tvg-name="Eagle - Franco e Ciccio Channel" group-title="EAGLE CINEMA",Eagle - Franco e Ciccio Channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/274246
+#EXTINF:-1 tvg-id="274247" tvg-name="Eagle - Jason Statham Channel" group-title="EAGLE CINEMA",Eagle - Jason Statham Channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/274247
+#EXTINF:-1 tvg-id="274248" tvg-name="Eagle - Jean Reno Channel" group-title="EAGLE CINEMA",Eagle - Jean Reno Channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/274248
+#EXTINF:-1 tvg-id="274249" tvg-name="Eagle - Leone il Cane Fifone" group-title="EAGLE CINEMA",Eagle - Leone il Cane Fifone
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/274249
+#EXTINF:-1 tvg-id="274250" tvg-name="Eagle - Liam Neeson Channel (multi-audio)" group-title="EAGLE CINEMA",Eagle - Liam Neeson Channel (multi-audio)
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/274250
+#EXTINF:-1 tvg-id="274251" tvg-name="Eagle - Louis De Funes Channel" group-title="EAGLE CINEMA",Eagle - Louis De Funes Channel
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/274251
+#EXTINF:-1 tvg-id="274252" tvg-name="Eagle - Tom e Jerry" group-title="EAGLE CINEMA",Eagle - Tom e Jerry
+http://domy1000.bumbleshrimp.com:8080/DALTERIO/PADRESUO/274252
+
+
+
