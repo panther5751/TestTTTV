@@ -10185,19 +10185,19 @@ http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/304477
 http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/304478
 
 #EXTINF:-1 tvg-id="419552" tvg-name="NOW HK PREMIER SPORTS 1" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW HK PREMIER SPORTS 1
-ffmpeg http://localhost/ch/419552_
+http://localhost/ch/419552_
 #EXTINF:-1 tvg-id="419551" tvg-name="NOW HK PREMIER SPORTS 2" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW HK PREMIER SPORTS 2
-ffmpeg http://localhost/ch/419551_
+http://localhost/ch/419551_
 #EXTINF:-1 tvg-id="419550" tvg-name="NOW HK PREMIER SPORTS 3" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW HK PREMIER SPORTS 3
-ffmpeg http://localhost/ch/419550_
+http://localhost/ch/419550_
 #EXTINF:-1 tvg-id="419549" tvg-name="NOW HK PREMIER SPORTS 4" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW HK PREMIER SPORTS 4
-ffmpeg http://localhost/ch/419549_
+http://localhost/ch/419549_
 #EXTINF:-1 tvg-id="419548" tvg-name="NOW HK PREMIER SPORTS 5" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW HK PREMIER SPORTS 5
-ffmpeg http://localhost/ch/419548_
+http://localhost/ch/419548_
 #EXTINF:-1 tvg-id="419547" tvg-name="NOW HK PREMIER SPORTS 6" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW HK PREMIER SPORTS 6
-ffmpeg http://localhost/ch/419547_
+http://localhost/ch/419547_
 #EXTINF:-1 tvg-id="419546" tvg-name="NOW HK PREMIER SPORTS 7" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW HK PREMIER SPORTS 7
-ffmpeg http://localhost/ch/419546_
+http://localhost/ch/419546_
 
 
 
