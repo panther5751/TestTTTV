@@ -9373,5 +9373,832 @@ http://g-med.xyz:25461/live/@Edin.Pestalic@1753/@W2N@qajdY_MvSa/463.ts
 #EXTINF:-1 tvg-id="" tvg-name="SLO: SPORT TV 3 HD" tvg-logo="https://images.g-med.xyz:8443/images/Logo/sport/slosporttv.jpg" group-title="SPORT",SLO: SPORT TV 3 HD
 http://g-med.xyz:25461/live/@Edin.Pestalic@1753/@W2N@qajdY_MvSa/464.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="|RO|Orange Sport 1 ᵁᴴᴰ RO" tvg-logo="http://103.161.34.238/dreamtv/tv/Orange_Sport.png" group-title="RO SPORTS",|RO|Orange Sport 1 ᵁᴴᴰ RO
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/260881
+#EXTINF:-1 tvg-id="" tvg-name="|RO|Orange Sport 2 RO" tvg-logo="http://103.161.34.238/dreamtv/tv/Orange_Sport.png" group-title="RO SPORTS",|RO|Orange Sport 2 RO
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/260882
+#EXTINF:-1 tvg-id="" tvg-name="|RO|Orange Sport 3 ᵁᴴᴰ RO" tvg-logo="http://103.161.34.238/dreamtv/tv/Orange_Sport.png" group-title="RO SPORTS",|RO|Orange Sport 3 ᵁᴴᴰ RO
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/260883
+#EXTINF:-1 tvg-id="" tvg-name="|RO|Orange Sport 3 RO" tvg-logo="http://103.161.34.238/dreamtv/tv/Orange_Sport.png" group-title="RO SPORTS",|RO|Orange Sport 3 RO
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/260884
+#EXTINF:-1 tvg-id="" tvg-name="|RO|Orange Sport 4 ᴴᴰ RO" tvg-logo="http://103.161.34.238/dreamtv/tv/Orange_Sport.png" group-title="RO SPORTS",|RO|Orange Sport 4 ᴴᴰ RO
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/260885
+#EXTINF:-1 tvg-id="" tvg-name="|RO|Orange Sport 4 RO" tvg-logo="http://103.161.34.238/dreamtv/tv/Orange_Sport.png" group-title="RO SPORTS",|RO|Orange Sport 4 RO
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/260886
+#EXTINF:-1 tvg-id="" tvg-name="|RO| Digi Sport 1 ᵁᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Logo.png" group-title="RO SPORTS",|RO| Digi Sport 1 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/29086
+#EXTINF:-1 tvg-id="" tvg-name="|RO| DIGI SPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Logo.png" group-title="RO SPORTS",|RO| DIGI SPORT 2
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/4504
+#EXTINF:-1 tvg-id="" tvg-name="|RO| DIGI SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Logo.png" group-title="RO SPORTS",|RO| DIGI SPORT 3
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/4503
+#EXTINF:-1 tvg-id="" tvg-name="|RO| DIGI SPORT 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Logo.png" group-title="RO SPORTS",|RO| DIGI SPORT 4
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/4502
+#EXTINF:-1 tvg-id="" tvg-name="|RO| EUROSPORT 2." tvg-logo="http://138.199.27.237:8080/UK/EUROSPORTS2.png" group-title="RO SPORTS",|RO| EUROSPORT 2.
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/4497
+#EXTINF:-1 tvg-id="" tvg-name="|RO| EUROSPORT." tvg-logo="http://138.199.27.237:8080/UK/EUROSPORTS1.png" group-title="RO SPORTS",|RO| EUROSPORT.
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/4498
+#EXTINF:-1 tvg-id="" tvg-name="|RO| Telekom Sport 1 ᵁᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_Telekom_Sport_%282017%29.svg/1280px-Logo_Telekom_Sport_%282017%29.svg.png" group-title="RO SPORTS",|RO| Telekom Sport 1 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/29000
+#EXTINF:-1 tvg-id="" tvg-name="|RO| Telekom Sport 2 ᵁᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_Telekom_Sport_%282017%29.svg/1280px-Logo_Telekom_Sport_%282017%29.svg.png" group-title="RO SPORTS",|RO| Telekom Sport 2 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/28999
+#EXTINF:-1 tvg-id="" tvg-name="|RO| Telekom Sport 3 ᵁᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_Telekom_Sport_%282017%29.svg/1280px-Logo_Telekom_Sport_%282017%29.svg.png" group-title="RO SPORTS",|RO| Telekom Sport 3 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/28998
+#EXTINF:-1 tvg-id="" tvg-name="|RO| Telekom Sport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_Telekom_Sport_%282017%29.svg/1280px-Logo_Telekom_Sport_%282017%29.svg.png" group-title="RO SPORTS",|RO| Telekom Sport 4
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/28996
+#EXTINF:-1 tvg-id="" tvg-name="|RO| Telekom Sport 4 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_Telekom_Sport_%282017%29.svg/1280px-Logo_Telekom_Sport_%282017%29.svg.png" group-title="RO SPORTS",|RO| Telekom Sport 4 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/28997
+#EXTINF:-1 tvg-id="" tvg-name="|RO| Eurosport 1" tvg-logo="http://138.199.27.237:8080/UK/EUROSPORTS1.png" group-title="RO SPORTS",|RO| Eurosport 1
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/29069
+#EXTINF:-1 tvg-id="" tvg-name="|RO| Eurosport 2" tvg-logo="http://138.199.27.237:8080/UK/EUROSPORTS2.png" group-title="RO SPORTS",|RO| Eurosport 2
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/29068
+#EXTINF:-1 tvg-id="" tvg-name="|RO| FightBox" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png" group-title="RO SPORTS",|RO| FightBox
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/29066
+#EXTINF:-1 tvg-id="" tvg-name="|RO| Look Sport ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ROMANIA/LOOKTV.png" group-title="RO SPORTS",|RO| Look Sport ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/29041
+
+EXTINF:-1 tvg-id="" tvg-name="beIN Sports News HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/110.png" group-title="BEIN SPORT HD",beIN Sports News HD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/28939
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports News UHD" tvg-logo="http://138.199.27.237:8080/0tv_logo/110.png" group-title="BEIN SPORT HD",beIN Sports News UHD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/44
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Global HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png" group-title="BEIN SPORT HD",beIN Sports Global HD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/28938
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Global UHD" tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png" group-title="BEIN SPORT HD",beIN Sports Global UHD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/43
+#EXTINF:-1 tvg-id="" tvg-name="beIN. ULTRA UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BIN4K.png" group-title="BEIN SPORT HD",beIN. ULTRA UHD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/312095
+#EXTINF:-1 tvg-id="" tvg-name="beIN REPLAY FINAL UCL" tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png" group-title="BEIN SPORT HD",beIN REPLAY FINAL UCL
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/235750
+#EXTINF:-1 tvg-id="" tvg-name="beIN REPLAY FINAL FA CUP" tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png" group-title="BEIN SPORT HD",beIN REPLAY FINAL FA CUP
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/235755
+#EXTINF:-1 tvg-id="" tvg-name="TOD 360 HD" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN.TOD/tod360.png" group-title="BEIN SPORT HD",TOD 360 HD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/341757
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT HD",beIN Sports 1 HD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT HD",beIN Sports 1 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/534831
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT HD",BEIN SPORTS 1 TOD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/272468
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD (G)" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT HD",beIN Sports 1 HD (G)
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/108161
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT HD",beIN Sports 2 HD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/2
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT HD",beIN Sports 2 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/534830
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT HD",BEIN SPORTS 2 TOD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/272467
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD (G)" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT HD",beIN Sports 2 HD (G)
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/108162
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT HD",beIN Sports 3 HD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/4
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT HD",beIN Sports 3 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/534829
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT HD",BEIN SPORTS 3 TOD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/272465
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD (G)" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT HD",beIN Sports 3 HD (G)
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/108164
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="BEIN SPORT HD",beIN Sports 4 HD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/5
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT HD",beIN Sports 4 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/534828
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="BEIN SPORT HD",BEIN SPORTS 4 TOD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/272464
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 HD (G)" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="BEIN SPORT HD",beIN Sports 4 HD (G)
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/108165
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT HD",beIN Sports 5 HD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/6
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT HD",beIN Sports 5 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/534827
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT HD",BEIN SPORTS 5 TOD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/272463
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 HD (G)" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT HD",beIN Sports 5 HD (G)
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/108166
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT HD",beIN Sports 6 HD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/7
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT HD",beIN Sports 6 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/534826
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT HD",BEIN SPORTS 6 TOD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/272462
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 HD (G)" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT HD",beIN Sports 6 HD (G)
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/108167
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT HD",beIN Sports 7 HD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT HD",beIN Sports 7 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/578834
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT HD",BEIN SPORTS 7 TOD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/272461
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 HD (G)" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT HD",beIN Sports 7 HD (G)
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/108168
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 8 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT HD",beIN Sports 8 HD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/9
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 8 ᵁᴴᴰ" tvg-logo="" group-title="BEIN SPORT HD",beIN Sports 8 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/578835
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT HD",BEIN SPORTS 8 TOD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/272460
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 8 HD (G)" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT HD",beIN Sports 8 HD (G)
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/108169
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 9 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT HD",beIN Sports 9 HD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/10
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 9 ᵁᴴᴰ" tvg-logo="" group-title="BEIN SPORT HD",beIN Sports 9 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/578836
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT HD",BEIN SPORTS 9 TOD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/272459
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 9 HD (G)" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT HD",beIN Sports 9 HD (G)
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/108170
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports XTRA 1 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png" group-title="BEIN SPORT HD",beIN Sports XTRA 1 HD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/117124
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports XTRA 1 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png" group-title="BEIN SPORT HD",beIN Sports XTRA 1 HD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/117125
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports XTRA 2 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png" group-title="BEIN SPORT HD",beIN Sports XTRA 2 HD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/117129
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports XTRA 2 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png" group-title="BEIN SPORT HD",beIN Sports XTRA 2 HD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/117130
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports XTRA 3 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="BEIN SPORT HD",beIN Sports XTRA 3 HD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/3
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XSTRA 3 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="BEIN SPORT HD",BEIN SPORTS XSTRA 3 TOD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/272466
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports XSTRA 3 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="BEIN SPORT HD",beIN Sports XSTRA 3 HD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/108163
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 EN HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-1HDENG.png" group-title="BEIN SPORT HD",beIN Sports 1 EN HD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/2531
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 EN HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-2HDENG.png" group-title="BEIN SPORT HD",beIN Sports 2 EN HD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/10369
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 UHD FR" tvg-logo="http://138.199.27.237:8080/0tv_logo/119.png" group-title="BEIN SPORT HD",beIN Sports 1 UHD FR
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/14
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD FR" tvg-logo="http://138.199.27.237:8080/0tv_logo/119.png" group-title="BEIN SPORT HD",beIN Sports 1 HD FR
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/11016
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 UHD FR" tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png" group-title="BEIN SPORT HD",beIN Sports 2 UHD FR
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/15
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD FR" tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png" group-title="BEIN SPORT HD",beIN Sports 2 HD FR
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/11017
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Nba HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEINNBA-HD.png" group-title="BEIN SPORT HD",beIN Sports Nba HD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/3845
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS NEWS UHD" tvg-logo="http://138.199.27.237:8080/0tv_logo/110.png" group-title="BEIN SPORT 4K",beIN SPORTS NEWS UHD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/22198
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS GLOBAL UHD" tvg-logo="http://138.199.27.237:8080/0tv_logo/3529.png" group-title="BEIN SPORT 4K",beIN SPORTS GLOBAL UHD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/22199
+#EXTINF:-1 tvg-id="" tvg-name="beIN UHD 2160P" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BIN4K.png" group-title="BEIN SPORT 4K",beIN UHD 2160P
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/190369
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT 4K",beIN Sports 1 4K
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/114053
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT 4K",beIN Sports 1 UHD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/3854
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT 4K",beIN Sports 2 4K
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/114052
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT 4K",beIN Sports 2 UHD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/3853
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT 4K",beIN Sports 3 4K
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/114050
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT 4K",beIN Sports 3 UHD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/3851
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="BEIN SPORT 4K",beIN Sports 4 4K
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/114049
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="BEIN SPORT 4K",beIN Sports 4 UHD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/3850
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT 4K",beIN Sports 5 4K
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/114048
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT 4K",beIN Sports 5 UHD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/3849
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT 4K",beIN Sports 6 4K
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/114047
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT 4K",beIN Sports 6 UHD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/3848
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT 4K",beIN Sports 7 4K
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/114046
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT 4K",beIN Sports 7 UHD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/3847
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 8 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT 4K",beIN Sports 8 4K
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/114045
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 8 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT 4K",beIN Sports 8 UHD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/10361
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 9 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT 4K",beIN Sports 9 4K
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/114044
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 9 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT 4K",beIN Sports 9 UHD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/10362
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports XTRA 1 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png" group-title="BEIN SPORT 4K",beIN Sports XTRA 1 UHD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/117123
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports XTRA 2 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png" group-title="BEIN SPORT 4K",beIN Sports XTRA 2 UHD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/117128
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 XTRA UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="BEIN SPORT 4K",beIN Sports 3 XTRA UHD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/114051
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports XTRA 3 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="BEIN SPORT 4K",beIN Sports XTRA 3 UHD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/3852
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 EN HEVC" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-1UHDENG.png" group-title="BEIN SPORT 4K",beIN Sports 1 EN HEVC
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/22195
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 EN HEVC" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-2UHDENG.png" group-title="BEIN SPORT 4K",beIN Sports 2 EN HEVC
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/22196
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 FR UHD" tvg-logo="http://138.199.27.237:8080/0tv_logo/119.png" group-title="BEIN SPORT 4K",beIN Sports 1 FR UHD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/149600
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 FR UHD" tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png" group-title="BEIN SPORT 4K",beIN Sports 2 FR UHD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/149601
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports NBA UHD" tvg-logo="http://138.199.27.237:8080/BEIN/BEINSPORTNBA.png" group-title="BEIN SPORT 4K",beIN Sports NBA UHD
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/149602
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSx2dupH6jGxsLFyFB9RC_ul6qAiRLG0imIKufrPHzJQ&s" group-title="BEIN SPORT AFC",BEIN SPORTS AFC ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/214381
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN.AFC/BEIN AFC 1 HD.png" group-title="BEIN SPORT AFC",BEIN SPORTS AFC 1 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/214378
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN.AFC/BEIN AFC 2 HD.png" group-title="BEIN SPORT AFC",BEIN SPORTS AFC 2 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/214379
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 3 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN.AFC/BEIN AFC 3 HD.png" group-title="BEIN SPORT AFC",BEIN SPORTS AFC 3 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/215746
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 4 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein.afc/bein.afc4.png" group-title="BEIN SPORT AFC",BEIN SPORTS AFC 4 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/328523
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC ᵁᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSx2dupH6jGxsLFyFB9RC_ul6qAiRLG0imIKufrPHzJQ&s" group-title="BEIN SPORT AFC",BEIN SPORTS AFC ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/214382
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN.AFC/BEIN AFC 1 FHD.png" group-title="BEIN SPORT AFC",BEIN SPORTS AFC 1 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/214377
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 2 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN.AFC/BEIN AFC 2 FHD.png" group-title="BEIN SPORT AFC",BEIN SPORTS AFC 2 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/214380
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 3 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN.AFC/BEIN AFC 3 FHD.png" group-title="BEIN SPORT AFC",BEIN SPORTS AFC 3 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/215745
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 4 HEVh" tvg-logo="http://138.199.27.237:8080/BEIN/bein.afc/bein.afc4.png" group-title="BEIN SPORT AFC",BEIN SPORTS AFC 4 HEVh
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/328521
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC ˢᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSx2dupH6jGxsLFyFB9RC_ul6qAiRLG0imIKufrPHzJQ&s" group-title="BEIN SPORT AFC",BEIN SPORTS AFC ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/217422
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 1 ˢᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN.AFC/BEIN AFC 1.png" group-title="BEIN SPORT AFC",BEIN SPORTS AFC 1 ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/217421
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 2 ˢᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN.AFC/BEIN AFC 2.png" group-title="BEIN SPORT AFC",BEIN SPORTS AFC 2 ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/217420
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 3 ˢᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN.AFC/BEIN AFC 3.png" group-title="BEIN SPORT AFC",BEIN SPORTS AFC 3 ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/217419
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 4 ˢᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein.afc/bein.afc4.png" group-title="BEIN SPORT AFC",BEIN SPORTS AFC 4 ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/328522
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 1ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png" group-title="BEIN Sport Max",beIN Sports MAX 1ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/146122
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 1 ᴴᴰ°" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png" group-title="BEIN Sport Max",beIN Sports MAX 1 ᴴᴰ°
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/106199
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 1ˢᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX1-SD.png" group-title="BEIN Sport Max",beIN Sports MAX 1ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/146118
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 1 ˢᴰ°" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX1-SD.png" group-title="BEIN Sport Max",beIN Sports MAX 1 ˢᴰ°
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/196473
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 1⁴ᴷ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX1-4K.png" group-title="BEIN Sport Max",beIN Sports MAX 1⁴ᴷ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/146126
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 2ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-HD.png" group-title="BEIN Sport Max",beIN Sports MAX 2ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/146123
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 2 ᴴᴰ°" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-HD.png" group-title="BEIN Sport Max",beIN Sports MAX 2 ᴴᴰ°
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/106200
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 2ˢᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-SD.png" group-title="BEIN Sport Max",beIN Sports MAX 2ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/146119
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 2 ˢᴰ°" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-SD.png" group-title="BEIN Sport Max",beIN Sports MAX 2 ˢᴰ°
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/196472
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 2⁴ᴷ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-4K.png" group-title="BEIN Sport Max",beIN Sports MAX 2⁴ᴷ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/146127
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 3 ENᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX3-HD.png" group-title="BEIN Sport Max",beIN Sports MAX 3 ENᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/146124
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 3 EN ᴴᴰ°" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX3-HD.png" group-title="BEIN Sport Max",beIN Sports MAX 3 EN ᴴᴰ°
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/106201
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 3 ENˢᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX3-SD.png" group-title="BEIN Sport Max",beIN Sports MAX 3 ENˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/146120
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 3 EN ⁴ᴷ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX3-4K.png" group-title="BEIN Sport Max",beIN Sports MAX 3 EN ⁴ᴷ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/146128
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 4 FRᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX4-HD.png" group-title="BEIN Sport Max",beIN Sports MAX 4 FRᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/146125
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 4 FR ᴴᴰ°" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX4-HD.png" group-title="BEIN Sport Max",beIN Sports MAX 4 FR ᴴᴰ°
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/146062
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 4 FRˢᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX4-SD.png" group-title="BEIN Sport Max",beIN Sports MAX 4 FRˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/146121
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 4 FR ⁴ᴷ" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX4-4K.png" group-title="BEIN Sport Max",beIN Sports MAX 4 FR ⁴ᴷ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/146129
+
+#EXTINF:-1 tvg-id="" tvg-name="|AR| StarzPlay / Rugby WorldCup" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/StarzPlay sport icon.png" group-title="AR| STARZPLAY SPORT | EVENT PPV",|AR| StarzPlay / Rugby WorldCup
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/320263
+#EXTINF:-1 tvg-id="" tvg-name="|AR| StarzPlay / AD SPORTS 1 SERIA A" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM1.png" group-title="AR| STARZPLAY SPORT | EVENT PPV",|AR| StarzPlay / AD SPORTS 1 SERIA A
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/254310
+#EXTINF:-1 tvg-id="" tvg-name="|AR| StarzPlay /AD PREMIER 1 ᵁᴴᴰ  SERIA A" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM2.png" group-title="AR| STARZPLAY SPORT | EVENT PPV",|AR| StarzPlay /AD PREMIER 1 ᵁᴴᴰ  SERIA A
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/314104
+#EXTINF:-1 tvg-id="" tvg-name="|AR| StarzPlay / AD SPORTS 1 SERIA A ˢᴰ" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM1.png" group-title="AR| STARZPLAY SPORT | EVENT PPV",|AR| StarzPlay / AD SPORTS 1 SERIA A ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/254169
+#EXTINF:-1 tvg-id="" tvg-name="|AR| StarzPlay / AD SPORTS 2 SERIA A" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM2.png" group-title="AR| STARZPLAY SPORT | EVENT PPV",|AR| StarzPlay / AD SPORTS 2 SERIA A
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/254309
+#EXTINF:-1 tvg-id="" tvg-name="|AR| StarzPlay /AD PREMIER 2 ᵁᴴᴰ SERIA A" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM2.png" group-title="AR| STARZPLAY SPORT | EVENT PPV",|AR| StarzPlay /AD PREMIER 2 ᵁᴴᴰ SERIA A
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/314103
+#EXTINF:-1 tvg-id="" tvg-name="|AR| StarzPlay / AD SPORTS 2 SERIA A ˢᴰ" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM2.png" group-title="AR| STARZPLAY SPORT | EVENT PPV",|AR| StarzPlay / AD SPORTS 2 SERIA A ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/254168
+#EXTINF:-1 tvg-id="" tvg-name="|AR| StarzPlay / AD SPORTS 3 ᵁᴴᴰ SERIA A" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/StarzPlay sport icon.png" group-title="AR| STARZPLAY SPORT | EVENT PPV",|AR| StarzPlay / AD SPORTS 3 ᵁᴴᴰ SERIA A
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/255758
+#EXTINF:-1 tvg-id="" tvg-name="|AR| StarzPlay /AD PREMIER 3 ᵁᴴᴰ SERIA A" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM2.png" group-title="AR| STARZPLAY SPORT | EVENT PPV",|AR| StarzPlay /AD PREMIER 3 ᵁᴴᴰ SERIA A
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/314102
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AD Sports Asia Live Event1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS1.png" group-title="AR| STARZPLAY SPORT | EVENT PPV",|AR| AD Sports Asia Live Event1 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/160258
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AD Sports Asia Live Event 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS1.png" group-title="AR| STARZPLAY SPORT | EVENT PPV",|AR| AD Sports Asia Live Event 1 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/160259
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AD Sports Asia Live Event 2 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS2.png" group-title="AR| STARZPLAY SPORT | EVENT PPV",|AR| AD Sports Asia Live Event 2 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/160260
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AD Sports Asia Live Event 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS2.png" group-title="AR| STARZPLAY SPORT | EVENT PPV",|AR| AD Sports Asia Live Event 2 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/160261
+#EXTINF:-1 tvg-id="" tvg-name="|AR| StarzPlay / AD SPORTS 1 ᴴᴰ SERIA A" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM1.png" group-title="AR| STARZPLAY SPORT | EVENT PPV",|AR| StarzPlay / AD SPORTS 1 ᴴᴰ SERIA A
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/252864
+#EXTINF:-1 tvg-id="" tvg-name="|AR| StarzPlay / AD SPORTS 1 + SERIA A" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM1.png" group-title="AR| STARZPLAY SPORT | EVENT PPV",|AR| StarzPlay / AD SPORTS 1 + SERIA A
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/252722
+#EXTINF:-1 tvg-id="" tvg-name="|AR| StarzPlay / AD SPORTS 2 ᴴᴰ SERIA A" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM2.png" group-title="AR| STARZPLAY SPORT | EVENT PPV",|AR| StarzPlay / AD SPORTS 2 ᴴᴰ SERIA A
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/252863
+#EXTINF:-1 tvg-id="" tvg-name="|AR| StarzPlay / AD SPORTS 2 + SERIA A" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM2.png" group-title="AR| STARZPLAY SPORT | EVENT PPV",|AR| StarzPlay / AD SPORTS 2 + SERIA A
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/252721
+#EXTINF:-1 tvg-id="" tvg-name="|AR| StarzPlay / AD SPORTS 3 ᴴᴰ SERIA A" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/StarzPlay sport icon.png" group-title="AR| STARZPLAY SPORT | EVENT PPV",|AR| StarzPlay / AD SPORTS 3 ᴴᴰ SERIA A
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/252862
+#EXTINF:-1 tvg-id="" tvg-name="|AR| StarzPlay / AD SPORTS 3+" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/StarzPlay sport icon.png" group-title="AR| STARZPLAY SPORT | EVENT PPV",|AR| StarzPlay / AD SPORTS 3+
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/252720
+#EXTINF:-1 tvg-id="" tvg-name="|AR| LIVE EVENT 01" tvg-logo="http://138.199.27.237:8080/USA/UFCFIGHTPASS.png" group-title="AR| STARZPLAY SPORT | EVENT PPV",|AR| LIVE EVENT 01
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/156428
+#EXTINF:-1 tvg-id="" tvg-name="|AR| LIVE EVENT 2 UFC  6/8PM Paul v Diaz" tvg-logo="http://138.199.27.237:8080/USA/UFCFIGHTPASS.png" group-title="AR| STARZPLAY SPORT | EVENT PPV",|AR| LIVE EVENT 2 UFC  6/8PM Paul v Diaz
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/156429
+#EXTINF:-1 tvg-id="" tvg-name="|AR| LIVE EVENT 3 UFC" tvg-logo="http://138.199.27.237:8080/USA/UFCFIGHTPASS.png" group-title="AR| STARZPLAY SPORT | EVENT PPV",|AR| LIVE EVENT 3 UFC
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/156430
+
+#EXTINF:-1 tvg-id="" tvg-name="|NO| V ULTRA ᴴᴰ" tvg-logo="https://lo1.in/sw/viasspul.png" group-title="NO SPORTS",|NO| V ULTRA ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/263069
+#EXTINF:-1 tvg-id="" tvg-name="|NO| V SPORT PREMIER LEAGUE ᵁᴴᴰ" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png" group-title="NO SPORTS",|NO| V SPORT PREMIER LEAGUE ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/312137
+#EXTINF:-1 tvg-id="" tvg-name="|NO|V Sport Premier League 1 ᵁᴴᴰ" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png" group-title="NO SPORTS",|NO|V Sport Premier League 1 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/312138
+#EXTINF:-1 tvg-id="" tvg-name="|NO| V SPORT PREMIER LEAGUE 2 ᵁᴴᴰ" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png" group-title="NO SPORTS",|NO| V SPORT PREMIER LEAGUE 2 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/312139
+#EXTINF:-1 tvg-id="" tvg-name="|NO| V SPORT PREMIER LEAGUE 3 ᵁᴴᴰ" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png" group-title="NO SPORTS",|NO| V SPORT PREMIER LEAGUE 3 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/312140
+#EXTINF:-1 tvg-id="" tvg-name="|NO| V SPORT PREMIER LEAGUE 4 ᵁᴴᴰ" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png" group-title="NO SPORTS",|NO| V SPORT PREMIER LEAGUE 4 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/312141
+#EXTINF:-1 tvg-id="" tvg-name="|NO| V SPORT LIVE 1 ᵁᴴᴰ" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png" group-title="NO SPORTS",|NO| V SPORT LIVE 1 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/312142
+#EXTINF:-1 tvg-id="" tvg-name="|NO| V SPORT LIVE 2 ᵁᴴᴰ" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png" group-title="NO SPORTS",|NO| V SPORT LIVE 2 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/312143
+#EXTINF:-1 tvg-id="" tvg-name="|NO| V SPORT LIVE 3 ᵁᴴᴰ" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png" group-title="NO SPORTS",|NO| V SPORT LIVE 3 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/312144
+#EXTINF:-1 tvg-id="" tvg-name="|NO| V SPORT LIVE 4 ᵁᴴᴰ" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png" group-title="NO SPORTS",|NO| V SPORT LIVE 4 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/312145
+#EXTINF:-1 tvg-id="" tvg-name="|NO| V SPORT LIVE 5 ᵁᴴᴰ" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png" group-title="NO SPORTS",|NO| V SPORT LIVE 5 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/312146
+#EXTINF:-1 tvg-id="" tvg-name="|NO| V SPORT 1" tvg-logo="https://res.cloudinary.com/dnaoyj/image/upload/c_pad,dpr_auto,f_auto,h_500,q_auto,w_500/v1/Assets/KLT/DNA%20TV/Kanavapaketit/ohjelmakirjastot/V%20kanavat/VSport_football" group-title="NO SPORTS",|NO| V SPORT 1
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/230894
+#EXTINF:-1 tvg-id="" tvg-name="|NO|  V SPORT 1" tvg-logo="https://res.cloudinary.com/dnaoyj/image/upload/c_pad,dpr_auto,f_auto,h_500,q_auto,w_500/v1/Assets/KLT/DNA%20TV/Kanavapaketit/ohjelmakirjastot/V%20kanavat/VSport_football" group-title="NO SPORTS",|NO|  V SPORT 1
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/263081
+#EXTINF:-1 tvg-id="" tvg-name="|NO|  V SPORT 2" tvg-logo="https://res.cloudinary.com/dnaoyj/image/upload/c_pad,dpr_auto,f_auto,h_500,q_auto,w_500/v1/Assets/KLT/DNA%20TV/Kanavapaketit/ohjelmakirjastot/V%20kanavat/VSport_football" group-title="NO SPORTS",|NO|  V SPORT 2
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/263082
+#EXTINF:-1 tvg-id="" tvg-name="|NO| V SPORT 2" tvg-logo="https://res.cloudinary.com/dnaoyj/image/upload/c_pad,dpr_auto,f_auto,h_500,q_auto,w_500/v1/Assets/KLT/DNA%20TV/Kanavapaketit/ohjelmakirjastot/V%20kanavat/VSport_football" group-title="NO SPORTS",|NO| V SPORT 2
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/230893
+#EXTINF:-1 tvg-id="" tvg-name="|NO| V SPORT 3" tvg-logo="https://res.cloudinary.com/dnaoyj/image/upload/c_pad,dpr_auto,f_auto,h_500,q_auto,w_500/v1/Assets/KLT/DNA%20TV/Kanavapaketit/ohjelmakirjastot/V%20kanavat/VSport_football" group-title="NO SPORTS",|NO| V SPORT 3
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/230892
+#EXTINF:-1 tvg-id="" tvg-name="|NO|  V SPORT 3" tvg-logo="https://res.cloudinary.com/dnaoyj/image/upload/c_pad,dpr_auto,f_auto,h_500,q_auto,w_500/v1/Assets/KLT/DNA%20TV/Kanavapaketit/ohjelmakirjastot/V%20kanavat/VSport_football" group-title="NO SPORTS",|NO|  V SPORT 3
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/263083
+#EXTINF:-1 tvg-id="" tvg-name="|NO| V SPORT GOLF" tvg-logo="https://res.cloudinary.com/dnaoyj/image/upload/c_pad,dpr_auto,f_auto,h_500,q_auto,w_500/v1/Assets/KLT/DNA%20TV/Kanavapaketit/ohjelmakirjastot/V%20kanavat/VSport_football" group-title="NO SPORTS",|NO| V SPORT GOLF
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/230888
+#EXTINF:-1 tvg-id="" tvg-name="|NO| V SPORT ULTRA ULTRA ᵁᴴᴰ" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png" group-title="NO SPORTS",|NO| V SPORT ULTRA ULTRA ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/230896
+#EXTINF:-1 tvg-id="" tvg-name="|NO| V SPORT +" tvg-logo="https://res.cloudinary.com/dnaoyj/image/upload/c_pad,dpr_auto,f_auto,h_500,q_auto,w_500/v1/Assets/KLT/DNA%20TV/Kanavapaketit/ohjelmakirjastot/V%20kanavat/VSport_football" group-title="NO SPORTS",|NO| V SPORT +
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/263080
+#EXTINF:-1 tvg-id="" tvg-name="|NO| EUROSPORT 1 NO" tvg-logo="http://138.199.27.237:8080/SCANDINAVIAN/EUROSPORT1HD.png" group-title="NO SPORTS",|NO| EUROSPORT 1 NO
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/22528
+#EXTINF:-1 tvg-id="" tvg-name="|NO| EUROSPORT N ᵁᴴᴰ NO" tvg-logo="http://138.199.27.237:8080/SCANDINAVIAN/EUROSPORT1HD.png" group-title="NO SPORTS",|NO| EUROSPORT N ᵁᴴᴰ NO
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/22525
+#EXTINF:-1 tvg-id="" tvg-name="|NO|TV2 SPORT 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/SCANDINAVIAN/TV3SPORT2HD.png" group-title="NO SPORTS",|NO|TV2 SPORT 1 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/22532
+#EXTINF:-1 tvg-id="" tvg-name="|NO|TV2 SPORT PREMIUM 1 ᴴᴰ NO" tvg-logo="http://138.199.27.237:8080/SCANDINAVIAN/TV2SPORT.png" group-title="NO SPORTS",|NO|TV2 SPORT PREMIUM 1 ᴴᴰ NO
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/79748
+#EXTINF:-1 tvg-id="" tvg-name="|NO|TV2 SPORT PREMIUM 2 ᴴᴰ NO" tvg-logo="http://138.199.27.237:8080/SCANDINAVIAN/TV2SPORT.png" group-title="NO SPORTS",|NO|TV2 SPORT PREMIUM 2 ᴴᴰ NO
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/79749
+#EXTINF:-1 tvg-id="" tvg-name="|NO| BILKANALEN AUTO MOTOR OG SPORT TV" tvg-logo="" group-title="NO SPORTS",|NO| BILKANALEN AUTO MOTOR OG SPORT TV
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/312210
+
+#EXTINF:-1 tvg-id="" tvg-name="|FI| C MORE SPORT 2 ᴴᴰ FI" tvg-logo="http://138.199.27.237:8080/SCANDINAVIAN/CMORESPORT2.png" group-title="FI SPORTS",|FI| C MORE SPORT 2 ᴴᴰ FI
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/22432
+#EXTINF:-1 tvg-id="" tvg-name="|FI| TV3 SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/TV3_Sport_logo_2018.png" group-title="FI SPORTS",|FI| TV3 SPORT
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/230897
+#EXTINF:-1 tvg-id="" tvg-name="|FI| V SPORT PREMIUM ᴴᴰ" tvg-logo="https://res.cloudinary.com/dnaoyj/image/upload/c_pad,dpr_auto,f_auto,h_500,q_auto,w_500/v1/Assets/KLT/DNA%20TV/Kanavapaketit/ohjelmakirjastot/V%20kanavat/VSport_premium" group-title="FI SPORTS",|FI| V SPORT PREMIUM ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/265978
+#EXTINF:-1 tvg-id="" tvg-name="|FI| C MORE SPORT 1 FI" tvg-logo="https://imgur.com/kpk9fM1.png" group-title="FI SPORTS",|FI| C MORE SPORT 1 FI
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/230100
+#EXTINF:-1 tvg-id="" tvg-name="|FI| C MORE SPORT 1 ᴴᴰ FI" tvg-logo="https://imgur.com/kpk9fM1.png" group-title="FI SPORTS",|FI| C MORE SPORT 1 ᴴᴰ FI
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/230101
+#EXTINF:-1 tvg-id="" tvg-name="|FI| C MORE SPORT 2 FI" tvg-logo="https://imgur.com/xxY382i.png" group-title="FI SPORTS",|FI| C MORE SPORT 2 FI
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/230103
+#EXTINF:-1 tvg-id="" tvg-name="|FI| C MORE SPORT 2 ᴴᴰ FI" tvg-logo="https://imgur.com/xxY382i.png" group-title="FI SPORTS",|FI| C MORE SPORT 2 ᴴᴰ FI
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/230104
+#EXTINF:-1 tvg-id="" tvg-name="|FI| C MORE SPORT 2 ᵁᴴᴰ FI" tvg-logo="https://imgur.com/xxY382i.png" group-title="FI SPORTS",|FI| C MORE SPORT 2 ᵁᴴᴰ FI
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/230105
+#EXTINF:-1 tvg-id="" tvg-name="|FI| EUROSPORT 1 ᴴᴰ FI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="FI SPORTS",|FI| EUROSPORT 1 ᴴᴰ FI
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/230106
+#EXTINF:-1 tvg-id="" tvg-name="|FI| EUROSPORT 1 ᵁᴴᴰ FI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="FI SPORTS",|FI| EUROSPORT 1 ᵁᴴᴰ FI
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/230107
+#EXTINF:-1 tvg-id="" tvg-name="|FI| EUROSPORT 2 ᵁᴴᴰ FI [MULTI-AUDIO]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="FI SPORTS",|FI| EUROSPORT 2 ᵁᴴᴰ FI [MULTI-AUDIO]
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/230110
+
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SPORT ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5028.png" group-title="FR SPORT",|FR| CANAL+ SPORT ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/250679
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Canal+ Sport ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5028.png" group-title="FR SPORT",|FR| Canal+ Sport ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/250
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  SPORT ˢᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCESD/CANALSPORT.png" group-title="FR SPORT",|FR| CANAL  SPORT ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/12885
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  CANAL+ SPORT 360 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="FR SPORT",|FR|  CANAL+ SPORT 360 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/256628
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ FOOT 4K." tvg-logo="http://138.199.27.237:8080/FRANCE/CANAL+FOOT.png" group-title="FR SPORT",|FR| CANAL+ FOOT 4K.
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/256629
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AB MOTEURS ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/ABMOTEURHD.png" group-title="FR SPORT",|FR| AB MOTEURS ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/274847
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ GRAND ECRAN ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Logo_Canal+_Grand_Écran_2022.png" group-title="FR SPORT",|FR| CANAL+ GRAND ECRAN ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/274712
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ Ligue 1 ᴴᴰ" tvg-logo="https://www.sportsmarketing.fr/wp-content/uploads/2021/02/canal-ligue-1-678x381.jpg" group-title="FR SPORT",|FR| CANAL+ Ligue 1 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/403766
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ELEVEN PRO LEAGUE 1 FR" tvg-logo="" group-title="FR SPORT",|FR| ELEVEN PRO LEAGUE 1 FR
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/403767
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ PREMIER LEAGUE ᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Canal_PremierLeague.svg/revision/latest/scale-to-width-down/340?cb=20200906183946" group-title="FR SPORT",|FR| CANAL+ PREMIER LEAGUE ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/114146
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  CANAL+ PREMIER LEAGUE ᵁᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Canal_PremierLeague.svg/revision/latest/scale-to-width-down/340?cb=20200906183946" group-title="FR SPORT",|FR|  CANAL+ PREMIER LEAGUE ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/115870
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ PREMIER LEAGUE ˢᴰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Canal_PremierLeague.svg/revision/latest/scale-to-width-down/340?cb=20200906183946" group-title="FR SPORT",|FR| CANAL+ PREMIER LEAGUE ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/115874
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Sport en France" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCEFHD/SPORTENFRANCE.png" group-title="FR SPORT",|FR| Sport en France
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/92503
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MY ZEN TV ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/My_Zen_Tv_LOGO_Couleur_vide.jpg" group-title="FR SPORT",|FR| MY ZEN TV ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/146157
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MY ZEN FIT TV ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/My_Zen_Tv_LOGO_Couleur_vide.jpg" group-title="FR SPORT",|FR| MY ZEN FIT TV ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/264409
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Trace Sport Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TRACE_Sport_Stars.jpg/150px-TRACE_Sport_Stars.jpg" group-title="FR SPORT",|FR| Trace Sport Stars
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/92494
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TRACE SPORT STARS ˢᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TRACE_Sport_Stars.jpg/150px-TRACE_Sport_Stars.jpg" group-title="FR SPORT",|FR| TRACE SPORT STARS ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/88767
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Rakuten TV Spotlight" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/RAKUTEN.png" group-title="FR SPORT",|FR| Rakuten TV Spotlight
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/123119
+#EXTINF:-1 tvg-id="" tvg-name="|FR| GOURMAND TV ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/GOURMAND.png" group-title="FR SPORT",|FR| GOURMAND TV ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/150427
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Winamax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1a/Logo_Winamax.svg/langfr-1024px-Logo_Winamax.svg.png" group-title="FR SPORT",|FR| Winamax TV
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/92493
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ FOOT ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CANAL+FOOT.png" group-title="FR SPORT",|FR| CANAL+ FOOT ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/256123
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL FOOT ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CANAL+FOOT.png" group-title="FR SPORT",|FR| CANAL FOOT ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/256631
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ FOOT ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CANAL+FOOT.png" group-title="FR SPORT",|FR| CANAL+ FOOT ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/256121
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ Sport 360 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="FR SPORT",|FR| CANAL+ Sport 360 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/256124
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SPORT360 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="FR SPORT",|FR| CANAL+ SPORT360 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/256630
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ Sport 360 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="FR SPORT",|FR| CANAL+ Sport 360 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/256122
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS ᵁᴴᴰ 1" tvg-logo="http://138.199.27.237:8080/0tv_logo/119.png" group-title="FR SPORT",|FR| BEIN SPORTS ᵁᴴᴰ 1
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/146116
+#EXTINF:-1 tvg-id="" tvg-name="|FR| beIN Sports 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="FR SPORT",|FR| beIN Sports 1 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/228
+#EXTINF:-1 tvg-id="" tvg-name="|FR| beIN Sports 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="FR SPORT",|FR| beIN Sports 1 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/50148
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS 1 4K" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="FR SPORT",|FR| BEIN SPORTS 1 4K
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/35522
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT 1 ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/119.png" group-title="FR SPORT",|FR| BEIN SPORT 1 ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/12900
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS ᵁᴴᴰ 2" tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png" group-title="FR SPORT",|FR| BEIN SPORTS ᵁᴴᴰ 2
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/149773
+#EXTINF:-1 tvg-id="" tvg-name="|FR| beIN Sports 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png" group-title="FR SPORT",|FR| beIN Sports 2 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/227
+#EXTINF:-1 tvg-id="" tvg-name="|FR| beIN Sports 2 ᴴᴰ FR" tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png" group-title="FR SPORT",|FR| beIN Sports 2 ᴴᴰ FR
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/50149
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS 2 4K" tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png" group-title="FR SPORT",|FR| BEIN SPORTS 2 4K
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/35523
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT 2ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png" group-title="FR SPORT",|FR| BEIN SPORT 2ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/12899
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS 3 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5082.png" group-title="FR SPORT",|FR| BEIN SPORTS 3 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/250663
+#EXTINF:-1 tvg-id="" tvg-name="|FR| beIN Sports 3 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5082.png" group-title="FR SPORT",|FR| beIN Sports 3 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/226
+#EXTINF:-1 tvg-id="" tvg-name="|FR| beIN Sports 3 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="FR SPORT",|FR| beIN Sports 3 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/50150
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS 3 4K" tvg-logo="http://138.199.27.237:8080/0tv_logo/5082.png" group-title="FR SPORT",|FR| BEIN SPORTS 3 4K
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/35524
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT 3 ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5082.png" group-title="FR SPORT",|FR| BEIN SPORT 3 ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/12898
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BeIN Sport Max 4 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="FR SPORT",|FR| BeIN Sport Max 4 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/229
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS MAX 4 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="FR SPORT",|FR| BEIN SPORTS MAX 4 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/274848
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS MAX 4 ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="FR SPORT",|FR| BEIN SPORTS MAX 4 ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/212588
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BeIN Sport Max 5 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="FR SPORT",|FR| BeIN Sport Max 5 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/230
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  beIN SPORT MAX 5 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="FR SPORT",|FR|  beIN SPORT MAX 5 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/63426
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS MAX 5 ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="FR SPORT",|FR| BEIN SPORTS MAX 5 ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/212587
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BeIN Sport Max 6 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="FR SPORT",|FR| BeIN Sport Max 6 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/231
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  beIN SPORT MAX 6 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="FR SPORT",|FR|  beIN SPORT MAX 6 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/63427
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS MAX 6 ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="FR SPORT",|FR| BEIN SPORTS MAX 6 ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/212586
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BeIN Sport Max 7 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="FR SPORT",|FR| BeIN Sport Max 7 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/232
+#EXTINF:-1 tvg-id="" tvg-name="|FR| beIN SPORT MAX 7 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="FR SPORT",|FR| beIN SPORT MAX 7 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/63428
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS MAX 7 ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="FR SPORT",|FR| BEIN SPORTS MAX 7 ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/212585
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  BeIN Sport Max 8 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="FR SPORT",|FR|  BeIN Sport Max 8 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/233
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  beIN SPORT MAX 8 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="FR SPORT",|FR|  beIN SPORT MAX 8 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/63429
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS MAX 8 ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="FR SPORT",|FR| BEIN SPORTS MAX 8 ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/212584
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BeIN Sport Max 9 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="FR SPORT",|FR| BeIN Sport Max 9 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/6582
+#EXTINF:-1 tvg-id="" tvg-name="|FR| beIN SPORT MAX 9 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="FR SPORT",|FR| beIN SPORT MAX 9 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/63430
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS MAX 9 ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="FR SPORT",|FR| BEIN SPORTS MAX 9 ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/212583
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BeIN Sport Max 10 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="FR SPORT",|FR| BeIN Sport Max 10 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/6583
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  beIN SPORT MAX 10 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="FR SPORT",|FR|  beIN SPORT MAX 10 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/63431
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS MAX 10 ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="FR SPORT",|FR| BEIN SPORTS MAX 10 ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/212582
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Infosport+ ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/INFOSPORT+HD.png" group-title="FR SPORT",|FR| Infosport+ ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/240
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  INFOSPORT+ ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/INFOSPORT+HD.png" group-title="FR SPORT",|FR|  INFOSPORT+ ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/32840
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  INFOSPORTS+ ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/INFOSPORT+HD.png" group-title="FR SPORT",|FR|  INFOSPORTS+ ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/274704
+#EXTINF:-1 tvg-id="" tvg-name="|FR| INFOSPORT  ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/INFOSPORT+HD.png" group-title="FR SPORT",|FR| INFOSPORT  ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/12834
+#EXTINF:-1 tvg-id="" tvg-name="|FR| L\'EQUIPE ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/LEQUIPE21HD.png" group-title="FR SPORT",|FR| L\'EQUIPE ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/250661
+#EXTINF:-1 tvg-id="" tvg-name="|FR| L Equipe 21 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/LEQUIPE21HD.png" group-title="FR SPORT",|FR| L Equipe 21 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/237
+#EXTINF:-1 tvg-id="" tvg-name="|FR| L EQUIPE TV ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/LEQUIPE21HD.png" group-title="FR SPORT",|FR| L EQUIPE TV ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/32841
+#EXTINF:-1 tvg-id="" tvg-name="|FR| L EQUIPE 21 ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5095.png" group-title="FR SPORT",|FR| L EQUIPE 21 ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/12832
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Equidia Live ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EQUIDIAHD.png" group-title="FR SPORT",|FR| Equidia Live ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/243
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Equidia Life ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EQUIDIAHD.png" group-title="FR SPORT",|FR| Equidia Life ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/244
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EQUIDIA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EQUIDIAHD.png" group-title="FR SPORT",|FR| EQUIDIA ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/35526
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EQUIDIA LIVE ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EQUIDIAHD.png" group-title="FR SPORT",|FR| EQUIDIA LIVE ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/12857
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AUTOMOTO" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/AUTOMOTO.png" group-title="FR SPORT",|FR| AUTOMOTO
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/10173
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TV MONACO" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/AUTOMOTO.png" group-title="FR SPORT",|FR| TV MONACO
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/12905
+#EXTINF:-1 tvg-id="" tvg-name="|FR| OL TV ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/OL-TV.png" group-title="FR SPORT",|FR| OL TV ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/8200
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Sport En France ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCEFHD/SPORTENFRANCE.png" group-title="FR SPORT",|FR| Sport En France ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/50401
+#EXTINF:-1 tvg-id="" tvg-name="|FR| GOLF+ ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/GOLF+.png" group-title="FR SPORT",|FR| GOLF+ ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/250662
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Golf+ ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/GOLF+.png" group-title="FR SPORT",|FR| Golf+ ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/242
+#EXTINF:-1 tvg-id="" tvg-name="|FR| GOLF+ ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/GOLF+.png" group-title="FR SPORT",|FR| GOLF+ ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/32844
+#EXTINF:-1 tvg-id="" tvg-name="|FR| GOLF+  ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/GOLF+.png" group-title="FR SPORT",|FR| GOLF+  ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/12841
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Golf Channel ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/GOLFCHANNELHD.png" group-title="FR SPORT",|FR| Golf Channel ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/274850
+#EXTINF:-1 tvg-id="" tvg-name="|FR| L Equipe 21 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5095.png" group-title="FR SPORT",|FR| L Equipe 21 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1241
+
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT1HD.png" group-title="FR EUROSPORT",|FR| EUROSPORT 1 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/250665
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Eurosport 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT1HD.png" group-title="FR EUROSPORT",|FR| Eurosport 1 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/238
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  EUROSPORT 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT1HD.png" group-title="FR EUROSPORT",|FR|  EUROSPORT 1 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/32842
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 1 ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT1HD.png" group-title="FR EUROSPORT",|FR| EUROSPORT 1 ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/12855
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 2 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT2HD.png" group-title="FR EUROSPORT",|FR| EUROSPORT 2 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/250664
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Eurosport 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT2HD.png" group-title="FR EUROSPORT",|FR| Eurosport 2 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/239
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 2 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT2HD.png" group-title="FR EUROSPORT",|FR| EUROSPORT 2 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/32843
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 2 ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT2HD.png" group-title="FR EUROSPORT",|FR| EUROSPORT 2 ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/12854
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="FR EUROSPORT 360",|FR| EUROSPORT 360 1 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/116970
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 1 ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="FR EUROSPORT 360",|FR| EUROSPORT 360 1 ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/212596
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="FR EUROSPORT 360",|FR| EUROSPORT 360 2 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/116971
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 2 ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="FR EUROSPORT 360",|FR| EUROSPORT 360 2 ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/212595
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 3 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="FR EUROSPORT 360",|FR| EUROSPORT 360 3 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/116972
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 3 ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="FR EUROSPORT 360",|FR| EUROSPORT 360 3 ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/212594
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 4 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="FR EUROSPORT 360",|FR| EUROSPORT 360 4 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/116973
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 4 ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="FR EUROSPORT 360",|FR| EUROSPORT 360 4 ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/212593
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 5 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="FR EUROSPORT 360",|FR| EUROSPORT 360 5 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/116974
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 5 ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="FR EUROSPORT 360",|FR| EUROSPORT 360 5 ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/212592
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 6 ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="FR EUROSPORT 360",|FR| EUROSPORT 360 6 ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/212591
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 7 ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="FR EUROSPORT 360",|FR| EUROSPORT 360 7 ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/212590
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 360 8 ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT360.png" group-title="FR EUROSPORT 360",|FR| EUROSPORT 360 8 ˢᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/212589
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 9" tvg-logo="" group-title="FR EUROSPORT 360",FR| EUROSPORT 360 9
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1083409
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 10" tvg-logo="" group-title="FR EUROSPORT 360",FR| EUROSPORT 360 10
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1083408
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 11" tvg-logo="" group-title="FR EUROSPORT 360",FR| EUROSPORT 360 11
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1083407
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 12" tvg-logo="" group-title="FR EUROSPORT 360",FR| EUROSPORT 360 12
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1083406
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 13" tvg-logo="" group-title="FR EUROSPORT 360",FR| EUROSPORT 360 13
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1083405
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 14" tvg-logo="" group-title="FR EUROSPORT 360",FR| EUROSPORT 360 14
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1083404
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 15" tvg-logo="" group-title="FR EUROSPORT 360",FR| EUROSPORT 360 15
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1083403
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 16" tvg-logo="" group-title="FR EUROSPORT 360",FR| EUROSPORT 360 16
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1083402
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 17" tvg-logo="" group-title="FR EUROSPORT 360",FR| EUROSPORT 360 17
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1083401
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 18" tvg-logo="" group-title="FR EUROSPORT 360",FR| EUROSPORT 360 18
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1083400
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 19" tvg-logo="" group-title="FR EUROSPORT 360",FR| EUROSPORT 360 19
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1083399
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 20" tvg-logo="" group-title="FR EUROSPORT 360",FR| EUROSPORT 360 20
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1083398
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 21" tvg-logo="" group-title="FR EUROSPORT 360",FR| EUROSPORT 360 21
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1083397
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 22" tvg-logo="" group-title="FR EUROSPORT 360",FR| EUROSPORT 360 22
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1083396
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 23" tvg-logo="" group-title="FR EUROSPORT 360",FR| EUROSPORT 360 23
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1083395
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 24" tvg-logo="" group-title="FR EUROSPORT 360",FR| EUROSPORT 360 24
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1083394
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 25" tvg-logo="" group-title="FR EUROSPORT 360",FR| EUROSPORT 360 25
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1083393
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 26" tvg-logo="" group-title="FR EUROSPORT 360",FR| EUROSPORT 360 26
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1083392
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 27" tvg-logo="" group-title="FR EUROSPORT 360",FR| EUROSPORT 360 27
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1083391
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 28" tvg-logo="" group-title="FR EUROSPORT 360",FR| EUROSPORT 360 28
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1083390
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 29" tvg-logo="" group-title="FR EUROSPORT 360",FR| EUROSPORT 360 29
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1083389
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 30" tvg-logo="" group-title="FR EUROSPORT 360",FR| EUROSPORT 360 30
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1083388
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 31" tvg-logo="" group-title="FR EUROSPORT 360",FR| EUROSPORT 360 31
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1083387
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 32" tvg-logo="" group-title="FR EUROSPORT 360",FR| EUROSPORT 360 32
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/1083386
+
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport News ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="DE SKY SPORT",|DE| Sky Sport News ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/8271
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Golf ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTGOLF.png" group-title="DE SKY SPORT",|DE| Sky Sport Golf ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/268065
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Golf ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTGOLF.png" group-title="DE SKY SPORT",|DE| Sky Sport Golf ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/257386
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Mix ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTMIX.png" group-title="DE SKY SPORT",|DE| Sky Sport Mix ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/268064
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Mix ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTMIX.png" group-title="DE SKY SPORT",|DE| Sky Sport Mix ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/257387
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Premier League ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORT%20PREMIERLEAGUE.png" group-title="DE SKY SPORT",|DE| Sky Sport Premier League ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/268067
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Premier League ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORT%20PREMIERLEAGUE.png" group-title="DE SKY SPORT",|DE| Sky Sport Premier League ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/257388
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Tennis ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTTENNIS.png" group-title="DE SKY SPORT",|DE| Sky Sport Tennis ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/268062
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Tennis ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTTENNIS.png" group-title="DE SKY SPORT",|DE| Sky Sport Tennis ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/257389
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Top Event ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="DE SKY SPORT",|DE| Sky Sport Top Event ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/268061
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport TOP Event ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="DE SKY SPORT",|DE| Sky Sport TOP Event ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/257391
+#EXTINF:-1 tvg-id="" tvg-name="|DE|SKY SPORT F1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHDF1.png" group-title="DE SKY SPORT",|DE|SKY SPORT F1 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/122888
+#EXTINF:-1 tvg-id="" tvg-name="|DE|SKY SPORT F1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHDF1.png" group-title="DE SKY SPORT",|DE|SKY SPORT F1 ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/122887
+#EXTINF:-1 tvg-id="" tvg-name="|DE|Sky Sport News ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="DE SKY SPORT",|DE|Sky Sport News ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/78472
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="DE SKY SPORT EVENT",|DE| Sky Sport 2 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/628
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport 1 50FPS" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="DE SKY SPORT EVENT",|DE| Sky Sport 1 50FPS
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/268020
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="DE SKY SPORT EVENT",|DE| Sky Sport 1 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/627
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport 2 50FPS" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="DE SKY SPORT EVENT",|DE| Sky Sport 2 50FPS
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/268021
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport 3 50FPS" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="DE SKY SPORT EVENT",|DE| Sky Sport 3 50FPS
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/268022
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport 3 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="DE SKY SPORT EVENT",|DE| Sky Sport 3 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/8278
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport 4 50FPS" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="DE SKY SPORT EVENT",|DE| Sky Sport 4 50FPS
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/268023
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport 4 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="DE SKY SPORT EVENT",|DE| Sky Sport 4 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/8277
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport 5 50FPS" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="DE SKY SPORT EVENT",|DE| Sky Sport 5 50FPS
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/268024
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport 5 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="DE SKY SPORT EVENT",|DE| Sky Sport 5 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/8276
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport 6 50FPS" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="DE SKY SPORT EVENT",|DE| Sky Sport 6 50FPS
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/268025
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport 6 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="DE SKY SPORT EVENT",|DE| Sky Sport 6 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/8275
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport 7 50FPS" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="DE SKY SPORT EVENT",|DE| Sky Sport 7 50FPS
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/268026
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport 7 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="DE SKY SPORT EVENT",|DE| Sky Sport 7 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/8274
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport 8 50FPS" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="DE SKY SPORT EVENT",|DE| Sky Sport 8 50FPS
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/268027
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport 8 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="DE SKY SPORT EVENT",|DE| Sky Sport 8 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/8273
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport 9 50FPS" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="DE SKY SPORT EVENT",|DE| Sky Sport 9 50FPS
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/268028
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport 10 50FPS" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="DE SKY SPORT EVENT",|DE| Sky Sport 10 50FPS
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/268029
+
+EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Bundesliga ULTRA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="DE SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga ULTRA ᵁᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/268066
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Bundesliga" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="DE SPORT BUNDESLIGA",|DE| Sky Bundesliga
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/78464
+#EXTINF:-1 tvg-id="" tvg-name="|DE|  Sky Bundesliga 50FPS" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="DE SPORT BUNDESLIGA",|DE|  Sky Bundesliga 50FPS
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/630
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport  Bundesliga 1 50FPS" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="DE SPORT BUNDESLIGA",|DE| Sky Sport  Bundesliga 1 50FPS
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/631
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Bundesliga 2  50FPS" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="DE SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 2  50FPS
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/2633
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Bundesliga 3 50FPS" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="DE SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 3 50FPS
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/2634
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Bundesliga 4 50FPS" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="DE SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 4 50FPS
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/2635
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Bundesliga 5 50FPS" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="DE SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 5 50FPS
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/2636
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Bundesliga 6 50FPS" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="DE SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 6 50FPS
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/2637
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Bundesliga 7 50FPS" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="DE SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 7 50FPS
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/2638
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Bundesliga 8 50FPS" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="DE SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 8 50FPS
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/2639
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Bundesliga 9 50FPS" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="DE SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 9 50FPS
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/9165
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Bundesliga 10 50FPS" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="DE SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 10 50FPS
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/9166
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Bundesliga 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="DE SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 1 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/90525
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Bundesliga 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="DE SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 2 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/90526
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Bundesliga 3 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="DE SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 3 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/90527
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Bundesliga 4 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="DE SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 4 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/90528
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Bundesliga 5 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="DE SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 5 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/90529
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Bundesliga 6 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="DE SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 6 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/90530
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Bundesliga 7 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="DE SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 7 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/90531
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Bundesliga 8 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="DE SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 8 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/90532
+
+#EXTINF:-1 tvg-id="" tvg-name="|UK| HUB SPORTS 1" tvg-logo="http://138.199.27.237:8080/UK/HUBSPORTS.png" group-title="UK Hub SPORTS",|UK| HUB SPORTS 1
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/280827
+#EXTINF:-1 tvg-id="" tvg-name="|UK| HUB SPORTS 2" tvg-logo="http://138.199.27.237:8080/UK/HUBSPORTS.png" group-title="UK Hub SPORTS",|UK| HUB SPORTS 2
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/280828
+#EXTINF:-1 tvg-id="" tvg-name="|UK| HUB SPORTS 3" tvg-logo="http://138.199.27.237:8080/UK/HUBSPORTS.png" group-title="UK Hub SPORTS",|UK| HUB SPORTS 3
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/280829
+#EXTINF:-1 tvg-id="" tvg-name="|UK| HUB SPORTS 4" tvg-logo="http://138.199.27.237:8080/UK/HUBSPORTS.png" group-title="UK Hub SPORTS",|UK| HUB SPORTS 4
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/280830
+#EXTINF:-1 tvg-id="" tvg-name="|UK| HUB SPORTS 5" tvg-logo="http://138.199.27.237:8080/UK/HUBSPORTS.png" group-title="UK Hub SPORTS",|UK| HUB SPORTS 5
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/280831
+#EXTINF:-1 tvg-id="" tvg-name="OPTUS SPORT 1 ᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="UK Hub SPORTS",OPTUS SPORT 1 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/304468
+#EXTINF:-1 tvg-id="" tvg-name="OPTUS SPORT 2 ᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="UK Hub SPORTS",OPTUS SPORT 2 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/304469
+#EXTINF:-1 tvg-id="" tvg-name="OPTUS SPORT 3 ᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="UK Hub SPORTS",OPTUS SPORT 3 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/304470
+#EXTINF:-1 tvg-id="" tvg-name="OPTUS SPORT 4 ᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="UK Hub SPORTS",OPTUS SPORT 4 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/304471
+#EXTINF:-1 tvg-id="" tvg-name="OPTUS SPORT 5 ᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="UK Hub SPORTS",OPTUS SPORT 5 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/304472
+#EXTINF:-1 tvg-id="" tvg-name="OPTUS SPORT 6 ᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="UK Hub SPORTS",OPTUS SPORT 6 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/304473
+#EXTINF:-1 tvg-id="" tvg-name="OPTUS SPORT 7 ᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="UK Hub SPORTS",OPTUS SPORT 7 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/304474
+#EXTINF:-1 tvg-id="" tvg-name="OPTUS SPORT 8 ᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="UK Hub SPORTS",OPTUS SPORT 8 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/304475
+#EXTINF:-1 tvg-id="" tvg-name="OPTUS SPORT 9 ᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="UK Hub SPORTS",OPTUS SPORT 9 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/304476
+#EXTINF:-1 tvg-id="" tvg-name="OPTUS SPORT 10 ᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="UK Hub SPORTS",OPTUS SPORT 10 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/304477
+#EXTINF:-1 tvg-id="" tvg-name="OPTUS SPORT 11 ᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="UK Hub SPORTS",OPTUS SPORT 11 ᴴᴰ
+http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/304478
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
