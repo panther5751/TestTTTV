@@ -10184,20 +10184,22 @@ http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/304477
 #EXTINF:-1 tvg-id="" tvg-name="OPTUS SPORT 11 ᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="UK Hub SPORTS",OPTUS SPORT 11 ᴴᴰ
 http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/304478
 
-#EXTINF:-1 tvg-id="419552" tvg-name="NOW HK PREMIER SPORTS 1" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW HK PREMIER SPORTS 1
-http://localhost/ch/419552_
-#EXTINF:-1 tvg-id="419551" tvg-name="NOW HK PREMIER SPORTS 2" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW HK PREMIER SPORTS 2
-http://localhost/ch/419551_
-#EXTINF:-1 tvg-id="419550" tvg-name="NOW HK PREMIER SPORTS 3" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW HK PREMIER SPORTS 3
-http://localhost/ch/419550_
-#EXTINF:-1 tvg-id="419549" tvg-name="NOW HK PREMIER SPORTS 4" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW HK PREMIER SPORTS 4
-http://localhost/ch/419549_
-#EXTINF:-1 tvg-id="419548" tvg-name="NOW HK PREMIER SPORTS 5" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW HK PREMIER SPORTS 5
-http://localhost/ch/419548_
-#EXTINF:-1 tvg-id="419547" tvg-name="NOW HK PREMIER SPORTS 6" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW HK PREMIER SPORTS 6
-http://localhost/ch/419547_
-#EXTINF:-1 tvg-id="419546" tvg-name="NOW HK PREMIER SPORTS 7" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW HK PREMIER SPORTS 7
-http://localhost/ch/419546_
+#EXTINF:-1 tvg-id="116706" tvg-name="Now HK Sports 4K 2 UHD VIP SPORTS" group-title="VIP Sports",Now HK Sports 4K 2 UHD VIP SPORTS
+http://185.11.145.27:8080/nderimberishaleutrim/pXKHNBCsim/116706
+#EXTINF:-1 tvg-id="116707" tvg-name="Now HK Sports 4K 3 UHD VIP SPORTS" group-title="VIP Sports",Now HK Sports 4K 3 UHD VIP SPORTS
+http://185.11.145.27:8080/nderimberishaleutrim/pXKHNBCsim/116707
+#EXTINF:-1 tvg-id="116708" tvg-name="Now HK SPOTV VIP SPORTS" group-title="VIP Sports",Now HK SPOTV VIP SPORTS
+http://185.11.145.27:8080/nderimberishaleutrim/pXKHNBCsim/116708
+#EXTINF:-1 tvg-id="116709" tvg-name="NowHK SPOTV 2 VIP SPORTS" group-title="VIP Sports",NowHK SPOTV 2 VIP SPORTS
+http://185.11.145.27:8080/nderimberishaleutrim/pXKHNBCsim/116709
+#EXTINF:-1 tvg-id="116710" tvg-name="Now HK Sports Plus FHD VIP SPORTS" group-title="VIP Sports",Now HK Sports Plus FHD VIP SPORTS
+http://185.11.145.27:8080/nderimberishaleutrim/pXKHNBCsim/116710
+#EXTINF:-1 tvg-id="116711" tvg-name="NowHK Sports 681 FHD VIP SPORTS" group-title="VIP Sports",NowHK Sports 681 FHD VIP SPORTS
+http://185.11.145.27:8080/nderimberishaleutrim/pXKHNBCsim/116711
+#EXTINF:-1 tvg-id="116712" tvg-name="Now HK Golf 2 HD VIP SPORTS" group-title="VIP Sports",Now HK Golf 2 HD VIP SPORTS
+http://185.11.145.27:8080/nderimberishaleutrim/pXKHNBCsim/116712
+#EXTINF:-1 tvg-id="116713" tvg-name="Now HK Golf 3 HD VIP SPORTS" group-title="VIP Sports",Now HK Golf 3 HD VIP SPORTS
+http://185.11.145.27:8080/nderimberishaleutrim/pXKHNBCsim/116713
 
 
 
