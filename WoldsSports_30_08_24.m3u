@@ -137,50 +137,50 @@ http://4kplusmini.com:80/0e087716b5/ec031f9618df/828054
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828055
 #EXTINF:-1 tvg-name="UK - PEACOCK 1" group-title="UK PEACKOCK SPORTS",UK - PEACOCK 1
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828053
-#EXTINF:-1,tvg-name="UK - PEACOCK 2" group-title="UK PEACKOCK SPORTS",UK - PEACOCK 2
+#EXTINF:-1 tvg-name="UK - PEACOCK 2" group-title="UK PEACKOCK SPORTS",UK - PEACOCK 2
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828052
-#EXTINF:-1,tvg-name="UK - PEACOCK 3" group-title="UK PEACKOCK SPORTS",UK - PEACOCK 3
+#EXTINF:-1 tvg-name="UK - PEACOCK 3" group-title="UK PEACKOCK SPORTS",UK - PEACOCK 3
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828051
-#EXTINF:-1,tvg-name="UK - PEACOCK 4" group-title="UK PEACKOCK SPORTS",UK - PEACOCK 4
+#EXTINF:-1 tvg-name="UK - PEACOCK 4" group-title="UK PEACKOCK SPORTS",UK - PEACOCK 4
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828050
-#EXTINF:-1,tvg-name="UK - PEACOCK 5" group-title="UK PEACKOCK SPORTS",UK - PEACOCK 5
+#EXTINF:-1 tvg-name="UK - PEACOCK 5" group-title="UK PEACKOCK SPORTS",UK - PEACOCK 5
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828049
-#EXTINF:-1,tvg-name="UK - PEACOCK 6" group-title="UK PEACKOCK SPORTS",UK - PEACOCK 6
+#EXTINF:-1 tvg-name="UK - PEACOCK 6" group-title="UK PEACKOCK SPORTS",UK - PEACOCK 6
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828048
-#EXTINF:-1,tvg-name="UK - PEACOCK 7" group-title="UK PEACKOCK SPORTS",UK - PEACOCK 7
+#EXTINF:-1 tvg-name="UK - PEACOCK 7" group-title="UK PEACKOCK SPORTS",UK - PEACOCK 7
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828047
-#EXTINF:-1,tvg-name="UK - PEACOCK 8" group-title="UK PEACKOCK SPORTS",UK - PEACOCK 8
+#EXTINF:-1 tvg-name="UK - PEACOCK 8" group-title="UK PEACKOCK SPORTS",UK - PEACOCK 8
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828046
-#EXTINF:-1,tvg-name="UK - PEACOCK 9" group-title="UK PEACKOCK SPORTS",UK - PEACOCK 9
+#EXTINF:-1 tvg-name="UK - PEACOCK 9" group-title="UK PEACKOCK SPORTS",UK - PEACOCK 9
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828045
-#EXTINF:-1,tvg-name="UK - PEACOCK 10" group-title="UK PEACKOCK SPORTS",UK - PEACOCK 10
+#EXTINF:-1 tvg-name="UK - PEACOCK 10" group-title="UK PEACKOCK SPORTS",UK - PEACOCK 10
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828044
-#EXTINF:-1,tvg-name="UK PEACKOCK 11" group-title="UK PEACKOCK SPORTS",UK - PEACOCK 11
+#EXTINF:-1 tvg-name="UK PEACKOCK 11" group-title="UK PEACKOCK SPORTS",UK - PEACOCK 11
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828043
-#EXTINF:-1,tvg-name="UK PEACKOCK 12" group-title="UK PEACKOCK SPORTS",UK - PEACOCK 12
+#EXTINF:-1 tvg-name="UK PEACKOCK 12" group-title="UK PEACKOCK SPORTS",UK - PEACOCK 12
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828042
-#EXTINF:-1,tvg-name="UK PEACKOCK 13" group-title="UK PEACKOCK SPORTS",UK - PEACOCK 13
+#EXTINF:-1 tvg-name="UK PEACKOCK 13" group-title="UK PEACKOCK SPORTS",UK - PEACOCK 13
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828041
 
-#EXTINF:-1,tvg-name="BEIN SPORTS ASIA" group-title="BEIN SPORTS ASIA",##### BEIN SPORTS ASIA #####
+#EXTINF:-1 tvg-name="BEIN SPORTS ASIA" group-title="BEIN SPORTS ASIA",##### BEIN SPORTS ASIA #####
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828073
-#EXTINF:-1,tvg-name="BEIN SPORTS ASIA" group-title="BEIN SPORTS ASIA",UK - BEIN SPORTS 1 HD
+#EXTINF:-1 tvg-name="UK - BEIN SPORTS 1 HD" group-title="BEIN SPORTS ASIA",UK - BEIN SPORTS 1 HD
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828072
-#EXTINF:-1,tvg-name="BEIN SPORTS ASIA" group-title="BEIN SPORTS ASIA",UK - BEIN SPORTS 2 HD
+#EXTINF:-1 tvg-name="UK - BEIN SPORTS 2 HD" group-title="BEIN SPORTS ASIA",UK - BEIN SPORTS 2 HD
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828071
-#EXTINF:-1,tvg-name="BEIN SPORTS ASIA" group-title="BEIN SPORTS ASIA",UK - BEIN SPORTS 3 HD
+#EXTINF:-1 tvg-name="UK - BEIN SPORTS 3 HD" group-title="BEIN SPORTS ASIA",UK - BEIN SPORTS 3 HD
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828070
-#EXTINF:-1,tvg-name="BEIN SPORTS ASIA" group-title="BEIN SPORTS ASIA",UK - BEIN SPORTS 3 EN SD
+#EXTINF:-1 tvg-name="UK - BEIN SPORTS 3 EN SD" group-title="BEIN SPORTS ASIA",UK - BEIN SPORTS 3 EN SD
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828074
-#EXTINF:-1,tvg-name="BEIN SPORTS ASIA" group-title="BEIN SPORTS ASIA",UK - BEIN SPORTS 2 EN SD
+#EXTINF:-1 tvg-name="UK - BEIN SPORTS 2 EN SD" group-title="BEIN SPORTS ASIA",UK - BEIN SPORTS 2 EN SD
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828075
-#EXTINF:-1,tvg-name="BEIN SPORTS ASIA" group-title="BEIN SPORTS ASIA",UK - BEIN SPORTS 1 EN SD
+#EXTINF:-1 tvg-name="UK - BEIN SPORTS 1 EN SD" group-title="BEIN SPORTS ASIA",UK - BEIN SPORTS 1 EN SD
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828076
-#EXTINF:-1,tvg-name="BEIN SPORTS ASIA" group-title="BEIN SPORTS ASIA",UK - BEIN SPORT 3 EN FHD
+#EXTINF:-1 tvg-name="UK - BEIN SPORT 3 EN FHD" group-title="BEIN SPORTS ASIA",UK - BEIN SPORT 3 EN FHD
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828090
-#EXTINF:-1,tvg-name="BEIN SPORTS ASIA" group-title="BEIN SPORTS ASIA",UK - BEIN SPORT 2 EN FHD
+#EXTINF:-1 " group-title="BEIN SPORTS ASIA",UK - BEIN SPORT 2 EN FHD
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828091
-#EXTINF:-1,tvg-name="BEIN SPORTS ASIA" group-title="BEIN SPORTS ASIA",UK - BEIN SPORT 1 EN FHD
+#EXTINF:-1 " group-title="BEIN SPORTS ASIA",UK - BEIN SPORT 1 EN FHD
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828092
 
 #EXTINF:-1,tvg-name="UK ASTRO SPORTS" group-title="UK ASTRO SPORTS",##### UK ASTRO SPORTS #####
