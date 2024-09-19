@@ -271,7 +271,7 @@ http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/309073
 #EXTINF:-1 tvg-id="" tvg-name="|CY| CYTAVISION SPORTS 7 ᵁᴴᴰ" tvg-logo="" group-title="NOVA PreCYPRUS",|CY| CYTAVISION SPORTS 7 ᵁᴴᴰ
 http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/309074
 
-#EXTINF:-1,##### " tvg-name="UK DAZN SPORTS #####" "group-title="UK DAZN SPORTS",
+#EXTINF:-1 tvg-id="227386" tvg-name="UK DAZN SPORTS" group-title="UK DAZN SPORTS ",UK DAZN SPORTS
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828005
 #EXTINF:-1," tvg-name="UK - DAZN EVENT 1" "group-title="UK DAZN SPORTS",
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828004
