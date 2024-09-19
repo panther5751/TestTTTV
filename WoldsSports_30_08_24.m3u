@@ -271,21 +271,21 @@ http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/309073
 #EXTINF:-1 tvg-id="" tvg-name="|CY| CYTAVISION SPORTS 7 ᵁᴴᴰ" tvg-logo="" group-title="NOVA PreCYPRUS",|CY| CYTAVISION SPORTS 7 ᵁᴴᴰ
 http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/309074
 
-#EXTINF:-1,##### UK DAZN SPORTS #####" group-title="UK DAZN SPORTS",
+#EXTINF:-1,##### " tvg-name="UK DAZN SPORTS #####" "group-title="UK DAZN SPORTS",
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828005
-#EXTINF:-1,UK - DAZN EVENT 1" group-title="UK DAZN SPORTS",
+#EXTINF:-1," tvg-name="UK - DAZN EVENT 1" "group-title="UK DAZN SPORTS",
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828004
-#EXTINF:-1,UK - DAZN EVENT 2" group-title="UK DAZN SPORTS",
+#EXTINF:-1," tvg-name="UK - DAZN EVENT 2" "group-title="UK DAZN SPORTS",
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828003
-#EXTINF:-1,UK - DAZN EVENT 3" group-title="UK DAZN SPORTS",
+#EXTINF:-1," tvg-name="UK - DAZN EVENT 3" "group-title="UK DAZN SPORTS",
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828002
-#EXTINF:-1,UK - DAZN EVENT 4" group-title="UK DAZN SPORTS",
+#EXTINF:-1," tvg-name="UK - DAZN EVENT 4" "group-title="UK DAZN SPORTS",
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828001
-#EXTINF:-1,UK - DAZN EVENT 5" group-title="UK DAZN SPORTS",
+#EXTINF:-1," tvg-name="UK - DAZN EVENT 5" "group-title="UK DAZN SPORTS",
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828000
-#EXTINF:-1,UK - DAZN EVENT 6" group-title="UK DAZN SPORTS",
+#EXTINF:-1," tvg-name="UK - DAZN EVENT 6" "group-title="UK DAZN SPORTS",
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/827999
-#EXTINF:-1,UK - DAZN EVENT 7" group-title="UK DAZN SPORTS",
+#EXTINF:-1," tvg-name="UK - DAZN EVENT 7" "group-title="UK DAZN SPORTS",
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/827998
 
 #EXTINF:-1 tvg-id="227386" tvg-name="====SKY SPORT====" tvg-logo="https://www.dropbox.com/s/f87sotamw8ko6zh/Sky_Sports_PRIMARY_RGB.jpg?dl=1" group-title="SKY SPORT ",====SKY SPORT====
