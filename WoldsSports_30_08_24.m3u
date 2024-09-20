@@ -3,106 +3,109 @@
 #EXT-X-APTV-TYPE xtream
 #EXT-X-XC-URL http://domy1000.bumbleshrimp.com:8080?username=DALTERIO&password=PADRESUO
 
-#EXTINF:-1 tvg-id="NowSportsPremierLeagueTV.hk" tvg-name="4K HK Now Sports (EPL)" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER",4K HK Now Sports (EPL)
+#EXTINF:-1 tvg-id="425322" tvg-name="4K HK Now Sports (EPL)" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER def",4K HK Now Sports (EPL)
+http://defaultgen.com:3050/jdbell2377@gmail.com/hdDWFvbiqc/425322
+#EXTINF:-1 tvg-id="425332" tvg-name="HK Now Premier Sports 1" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER def",HK Now Premier Sports 1
+http://defaultgen.com:3050/jdbell2377@gmail.com/hdDWFvbiqc/425332
+#EXTINF:-1 tvg-id="425333" tvg-name="HK Now Premier Sports 2" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER def",HK Now Premier Sports 2
+http://defaultgen.com:3050/jdbell2377@gmail.com/hdDWFvbiqc/425333
+#EXTINF:-1 tvg-id="425334" tvg-name="HK Now Premier Sports 3" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER def",HK Now Premier Sports 3
+http://defaultgen.com:3050/jdbell2377@gmail.com/hdDWFvbiqc/425334
+#EXTINF:-1 tvg-id="425335" tvg-name="HK Now Premier Sports 4" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER def",HK Now Premier Sports 4
+http://defaultgen.com:3050/jdbell2377@gmail.com/hdDWFvbiqc/425335
+#EXTINF:-1 tvg-id="425336" tvg-name="HK Now Premier Sports 5" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER def",HK Now Premier Sports 5
+http://defaultgen.com:3050/jdbell2377@gmail.com/hdDWFvbiqc/425336
+#EXTINF:-1 tvg-id="425337" tvg-name="HK Now Premier Sports 6" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER def",HK Now Premier Sports 6
+http://defaultgen.com:3050/jdbell2377@gmail.com/hdDWFvbiqc/425337
+#EXTINF:-1 tvg-id="425331" tvg-name="HK Now Premier Sports 7" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER def",HK Now Premier Sports 7
+http://defaultgen.com:3050/jdbell2377@gmail.com/hdDWFvbiqc/425331
+#EXTINF:-1 tvg-id="425330" tvg-name="HK Now Premier Sports 8" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER def",HK Now Premier Sports 8
+http://defaultgen.com:3050/jdbell2377@gmail.com/hdDWFvbiqc/425330
+#EXTINF:-1 tvg-id="425329" tvg-name="HK Now Sports 1" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER def",HK Now Sports 1
+http://defaultgen.com:3050/jdbell2377@gmail.com/hdDWFvbiqc/425329
+#EXTINF:-1 tvg-id="425328" tvg-name="HK Now Sports 2" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER def",HK Now Sports 2
+http://defaultgen.com:3050/jdbell2377@gmail.com/hdDWFvbiqc/425328
+#EXTINF:-1 tvg-id="425327" tvg-name="HK Now Sports 3" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER def",HK Now Sports 3
+http://defaultgen.com:3050/jdbell2377@gmail.com/hdDWFvbiqc/425327
+#EXTINF:-1 tvg-id="425326" tvg-name="HK Now Sports 4" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER def",HK Now Sports 4
+http://defaultgen.com:3050/jdbell2377@gmail.com/hdDWFvbiqc/425326
+#EXTINF:-1 tvg-id="425325" tvg-name="HK Now Sports 5" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER def",HK Now Sports 5
+http://defaultgen.com:3050/jdbell2377@gmail.com/hdDWFvbiqc/425325
+#EXTINF:-1 tvg-id="425324" tvg-name="HK Now Sports 6" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER def",HK Now Sports 6
+http://defaultgen.com:3050/jdbell2377@gmail.com/hdDWFvbiqc/425324
+#EXTINF:-1 tvg-id="425323" tvg-name="HK Now Sports 7" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER def",HK Now Sports 7
+http://defaultgen.com:3050/jdbell2377@gmail.com/hdDWFvbiqc/425323
+
+
+#EXTINF:-1 tvg-id="NowSportsPremierLeagueTV.hk" tvg-name="4K HK Now Sports (EPL)" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER you",4K HK Now Sports (EPL)
 http://yourservpan.com:3050/Lopezfam/vipBFjKLaY/425322
-#EXTINF:-1 tvg-id="NowSportsPremierLeague1.hk" tvg-name="HK Now Premier Sports 1" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER",HK Now Premier Sports 1
+#EXTINF:-1 tvg-id="NowSportsPremierLeague1.hk" tvg-name="HK Now Premier Sports 1" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER you",HK Now Premier Sports 1
 http://yourservpan.com:3050/Lopezfam/vipBFjKLaY/425332
-#EXTINF:-1 tvg-id="NowSportsPremierLeague2.hk" tvg-name="HK Now Premier Sports 2" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER",HK Now Premier Sports 2
+#EXTINF:-1 tvg-id="NowSportsPremierLeague2.hk" tvg-name="HK Now Premier Sports 2" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER you",HK Now Premier Sports 2
 http://yourservpan.com:3050/Lopezfam/vipBFjKLaY/425333
-#EXTINF:-1 tvg-id="NowSportsPremierLeague3.hk" tvg-name="HK Now Premier Sports 3" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER",HK Now Premier Sports 3
+#EXTINF:-1 tvg-id="NowSportsPremierLeague3.hk" tvg-name="HK Now Premier Sports 3" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER you",HK Now Premier Sports 3
 http://yourservpan.com:3050/Lopezfam/vipBFjKLaY/425334
-#EXTINF:-1 tvg-id="NowSportsPremierLeague4.hk" tvg-name="HK Now Premier Sports 4" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER",HK Now Premier Sports 4
+#EXTINF:-1 tvg-id="NowSportsPremierLeague4.hk" tvg-name="HK Now Premier Sports 4" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER you",HK Now Premier Sports 4
 http://yourservpan.com:3050/Lopezfam/vipBFjKLaY/425335
-#EXTINF:-1 tvg-id="NowSportsPremierLeague5.hk" tvg-name="HK Now Premier Sports 5" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER",HK Now Premier Sports 5
+#EXTINF:-1 tvg-id="NowSportsPremierLeague5.hk" tvg-name="HK Now Premier Sports 5" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER you",HK Now Premier Sports 5
 http://yourservpan.com:3050/Lopezfam/vipBFjKLaY/425336
-#EXTINF:-1 tvg-id="NowSportsPremierLeague6.hk" tvg-name="HK Now Premier Sports 6" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER",HK Now Premier Sports 6
+#EXTINF:-1 tvg-id="NowSportsPremierLeague6.hk" tvg-name="HK Now Premier Sports 6" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER you",HK Now Premier Sports 6
 http://yourservpan.com:3050/Lopezfam/vipBFjKLaY/425337
-#EXTINF:-1 tvg-id="" tvg-name="HK Now Premier Sports 7" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER",HK Now Premier Sports 7
+#EXTINF:-1 tvg-id="" tvg-name="HK Now Premier Sports 7" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER you",HK Now Premier Sports 7
 http://yourservpan.com:3050/Lopezfam/vipBFjKLaY/425331
-#EXTINF:-1 tvg-id="" tvg-name="HK Now Premier Sports 8" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER",HK Now Premier Sports 8
+#EXTINF:-1 tvg-id="" tvg-name="HK Now Premier Sports 8" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER you",HK Now Premier Sports 8
 http://yourservpan.com:3050/Lopezfam/vipBFjKLaY/425330
-#EXTINF:-1 tvg-id="NowSports1.hk" tvg-name="HK Now Sports 1" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER",HK Now Sports 1
+#EXTINF:-1 tvg-id="NowSports1.hk" tvg-name="HK Now Sports 1" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER you",HK Now Sports 1
 http://yourservpan.com:3050/Lopezfam/vipBFjKLaY/425329
-#EXTINF:-1 tvg-id="beINNowSports2.hk" tvg-name="HK Now Sports 2" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER",HK Now Sports 2
+#EXTINF:-1 tvg-id="beINNowSports2.hk" tvg-name="HK Now Sports 2" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER you",HK Now Sports 2
 http://yourservpan.com:3050/Lopezfam/vipBFjKLaY/425328
-#EXTINF:-1 tvg-id="NowSports3.hk" tvg-name="HK Now Sports 3" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER",HK Now Sports 3
+#EXTINF:-1 tvg-id="NowSports3.hk" tvg-name="HK Now Sports 3" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER you",HK Now Sports 3
 http://yourservpan.com:3050/Lopezfam/vipBFjKLaY/425327
-#EXTINF:-1 tvg-id="NowSports4.hk" tvg-name="HK Now Sports 4" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER",HK Now Sports 4
+#EXTINF:-1 tvg-id="NowSports4.hk" tvg-name="HK Now Sports 4" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER you",HK Now Sports 4
 http://yourservpan.com:3050/Lopezfam/vipBFjKLaY/425326
-#EXTINF:-1 tvg-id="NowSports5.hk" tvg-name="HK Now Sports 5" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER",HK Now Sports 5
+#EXTINF:-1 tvg-id="NowSports5.hk" tvg-name="HK Now Sports 5" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER you",HK Now Sports 5
 http://yourservpan.com:3050/Lopezfam/vipBFjKLaY/425325
-#EXTINF:-1 tvg-id="NowSports6.hk" tvg-name="HK Now Sports 6" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER",HK Now Sports 6
+#EXTINF:-1 tvg-id="NowSports6.hk" tvg-name="HK Now Sports 6" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER you",HK Now Sports 6
 http://yourservpan.com:3050/Lopezfam/vipBFjKLaY/425324
-#EXTINF:-1 tvg-id="NowSports7.hk" tvg-name="HK Now Sports 7" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER",HK Now Sports 7
+#EXTINF:-1 tvg-id="NowSports7.hk" tvg-name="HK Now Sports 7" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW PREMIER you",HK Now Sports 7
 http://yourservpan.com:3050/Lopezfam/vipBFjKLaY/425323
 
-#EXTINF:-1 tvg-name="UK NOW SPORTS" group-title="UK NOW SPORTS",UK NOW SPORTS
+#EXTINF:-1 tvg-name="UK NOW SPORTS" group-title="UK NOW SPORTS 4kp",UK NOW SPORTS
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/827943
-#EXTINF:-1 tvg-name="NOW HK SPORTS 4K 617" group-title="UK NOW SPORTS",NOW HK SPORTS 4K 617
+#EXTINF:-1 tvg-name="NOW HK SPORTS 4K 617" group-title="UK NOW SPORTS 4kp",NOW HK SPORTS 4K 617
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/827941
-#EXTINF:-1 tvg-name="NOW HK NOW SPORTS 4K 616" group-title="UK NOW SPORTS",NOW HK NOW SPORTS 4K 616
+#EXTINF:-1 tvg-name="NOW HK NOW SPORTS 4K 616" group-title="UK NOW SPORTS 4kp",NOW HK NOW SPORTS 4K 616
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/827942
-#EXTINF:-1 tvg-name="NOW HK NOW SPORTS 1" group-title="UK NOW SPORTS",NOW HK NOW SPORTS 1
+#EXTINF:-1 tvg-name="NOW HK NOW SPORTS 1" group-title="UK NOW SPORTS 4kp",NOW HK NOW SPORTS 1
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/827932
-#EXTINF:-1 tvg-name="NOW HK NOW SPORTS 2" group-title="UK NOW SPORTS",NOW HK NOW SPORTS 2
+#EXTINF:-1 tvg-name="NOW HK NOW SPORTS 2" group-title="UK NOW SPORTS 4kp",NOW HK NOW SPORTS 2
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/827931
-#EXTINF:-1 tvg-name="NOW HK NOW SPORTS 3" group-title="UK NOW SPORTS",NOW HK NOW SPORTS 3
+#EXTINF:-1 tvg-name="NOW HK NOW SPORTS 3" group-title="UK NOW SPORTS 4kp",NOW HK NOW SPORTS 3
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/827930
-#EXTINF:-1 tvg-name="NOW HK NOW SPORTS 4" group-title="UK NOW SPORTS",NOW HK NOW SPORTS 4
+#EXTINF:-1 tvg-name="NOW HK NOW SPORTS 4" group-title="UK NOW SPORTS 4kp",NOW HK NOW SPORTS 4
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/827929
-#EXTINF:-1 tvg-name="NOW HK NOW SPORTS 5" group-title="UK NOW SPORTS",NOW HK NOW SPORTS 5
+#EXTINF:-1 tvg-name="NOW HK NOW SPORTS 5" group-title="UK NOW SPORTS 4kp",NOW HK NOW SPORTS 5
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/827928
-#EXTINF:-1 tvg-name="NOW HK NOW SPORTS 6" group-title="UK NOW SPORTS",NOW HK NOW SPORTS 6
+#EXTINF:-1 tvg-name="NOW HK NOW SPORTS 6" group-title="UK NOW SPORTS 4kp",NOW HK NOW SPORTS 6
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/827927
-#EXTINF:-1 tvg-name="NOW HK NOW SPORTS 7" group-title="UK NOW SPORTS",NOW HK NOW SPORTS 7
+#EXTINF:-1 tvg-name="NOW HK NOW SPORTS 7" group-title="UK NOW SPORTS 4kp",NOW HK NOW SPORTS 7
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/827926
-#EXTINF:-1 tvg-name="NOW HK PREMIER SPORTS 1" group-title="UK NOW SPORTS",NOW HK PREMIER SPORTS 1
+#EXTINF:-1 tvg-name="NOW HK PREMIER SPORTS 1" group-title="UK NOW SPORTS 4kp",NOW HK PREMIER SPORTS 1
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/827940
-#EXTINF:-1 tvg-name="NOW HK PREMIER SPORTS 2" group-title="UK NOW SPORTS",NOW HK PREMIER SPORTS 2
+#EXTINF:-1 tvg-name="NOW HK PREMIER SPORTS 2" group-title="UK NOW SPORTS 4kp",NOW HK PREMIER SPORTS 2
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/827939
-#EXTINF:-1 tvg-name="NOW HK PREMIER SPORTS 3" group-title="UK NOW SPORTS",NOW HK PREMIER SPORTS 3
+#EXTINF:-1 tvg-name="NOW HK PREMIER SPORTS 3" group-title="UK NOW SPORTS 4kp",NOW HK PREMIER SPORTS 3
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/827938
-#EXTINF:-1 tvg-name="NOW HK PREMIER SPORTS 4" group-title="UK NOW SPORTS",NOW HK PREMIER SPORTS 4
+#EXTINF:-1 tvg-name="NOW HK PREMIER SPORTS 4" group-title="UK NOW SPORTS 4kp",NOW HK PREMIER SPORTS 4
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/827937
-#EXTINF:-1 tvg-name="NOW HK PREMIER SPORTS 5" group-title="UK NOW SPORTS",NOW HK PREMIER SPORTS 5
+#EXTINF:-1 tvg-name="NOW HK PREMIER SPORTS 5" group-title="UK NOW SPORTS 4kp",NOW HK PREMIER SPORTS 5
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/827936
-#EXTINF:-1 tvg-name="NOW HK PREMIER SPORTS 6" group-title="UK NOW SPORTS",NOW HK PREMIER SPORTS 6
+#EXTINF:-1 tvg-name="NOW HK PREMIER SPORTS 6" group-title="UK NOW SPORTS 4kp",NOW HK PREMIER SPORTS 6
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/827935
-#EXTINF:-1 tvg-name="NOW HK PREMIER SPORTS 7" group-title="UK NOW SPORTS",NOW HK PREMIER SPORTS 7
+#EXTINF:-1 tvg-name="NOW HK PREMIER SPORTS 7" group-title="UK NOW SPORTS 4kp",NOW HK PREMIER SPORTS 7
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/827934
-#EXTINF:-1 tvg-name="NOW HK PREMIER SPORTS 8" group-title="UK NOW SPORTS",NOW HK PREMIER SPORTS 8
+#EXTINF:-1 tvg-name="NOW HK PREMIER SPORTS 8" group-title="UK NOW SPORTS 4kp",NOW HK PREMIER SPORTS 8
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/827933
-
-#EXTINF:-1 tvg-id="419537" tvg-name="NOW SPORTS 4K HDR" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW SPORTS 4K HDR
-ffmpeg http://localhost/ch/419537_
-#EXTINF:-1 tvg-id="419538" tvg-name="NOW SPORTS 1" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW SPORTS 1
-http://yourservpan.com:3050/Lopezfam/vipBFjKLaY/425329
-#EXTINF:-1 tvg-id="419539" tvg-name="NOW SPORTS 2" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW SPORTS 2
-http://yourservpan.com:3050/Lopezfam/vipBFjKLaY/425328
-#EXTINF:-1 tvg-id="419540" tvg-name="NOW SPORTS 3" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW SPORTS 3
-http://yourservpan.com:3050/Lopezfam/vipBFjKLaY/425327
-#EXTINF:-1 tvg-id="419541" tvg-name="NOW SPORTS 4" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW SPORTS 4
-http://yourservpan.com:3050/Lopezfam/vipBFjKLaY/425327
-#EXTINF:-1 tvg-id="419542" tvg-name="NOW SPORTS 5" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW SPORTS 5
-http://yourservpan.com:3050/Lopezfam/vipBFjKLaY/425325
-#EXTINF:-1 tvg-id="419543" tvg-name="NOW SPORTS 6" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW SPORTS 6
-http://yourservpan.com:3050/Lopezfam/vipBFjKLaY/425324
-#EXTINF:-1 tvg-id="419544" tvg-name="NOW SPORTS 7" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW SPORTS 7
-http://yourservpan.com:3050/Lopezfam/vipBFjKLaY/425323
-#EXTINF:-1 tvg-id="419552" tvg-name="NOW HK PREMIER SPORTS 1" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW HK PREMIER SPORTS 1
-ffmpeg http://localhost/ch/419552_
-#EXTINF:-1 tvg-id="419551" tvg-name="NOW HK PREMIER SPORTS 2" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW HK PREMIER SPORTS 2
-ffmpeg http://localhost/ch/419551_
-#EXTINF:-1 tvg-id="419550" tvg-name="NOW HK PREMIER SPORTS 3" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW HK PREMIER SPORTS 3
-ffmpeg http://localhost/ch/419550_
-#EXTINF:-1 tvg-id="419549" tvg-name="NOW HK PREMIER SPORTS 4" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW HK PREMIER SPORTS 4
-ffmpeg http://localhost/ch/419549_
-#EXTINF:-1 tvg-id="419548" tvg-name="NOW HK PREMIER SPORTS 5" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW HK PREMIER SPORTS 5
-ffmpeg http://localhost/ch/419548_
-#EXTINF:-1 tvg-id="419547" tvg-name="NOW HK PREMIER SPORTS 6" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW HK PREMIER SPORTS 6
-ffmpeg http://localhost/ch/419547_
-#EXTINF:-1 tvg-id="419546" tvg-name="NOW HK PREMIER SPORTS 7" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW HK PREMIER SPORTS 7
-ffmpeg http://localhost/ch/419546_
 
 #EXTINF:-1 tvg-name="##### UK BEIN SPORTS #####" group-title="UK BEIN SPORTS",##### UK BEIN SPORTS #####
 http://4kplusmini.com:80/0e087716b5/ec031f9618df/828093
