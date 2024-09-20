@@ -76,9 +76,9 @@ http://4kplusmini.com:80/0e087716b5/ec031f9618df/827933
 #EXTINF:-1 tvg-id="419537" tvg-name="NOW SPORTS 4K HDR" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW SPORTS 4K HDR
 ffmpeg http://localhost/ch/419537_
 #EXTINF:-1 tvg-id="419538" tvg-name="NOW SPORTS 1" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW SPORTS 1
-ffmpeg http://localhost/ch/419538_
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/76437
 #EXTINF:-1 tvg-id="419539" tvg-name="NOW SPORTS 2" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW SPORTS 2
-ffmpeg http://localhost/ch/419539_
+http://client.newborntv.xyz:80/burimdzeladini123321/f3sfkw9h3xtQkUea/76366
 #EXTINF:-1 tvg-id="419540" tvg-name="NOW SPORTS 3" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW SPORTS 3
 ffmpeg http://localhost/ch/419540_
 #EXTINF:-1 tvg-id="419541" tvg-name="NOW SPORTS 4" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW SPORTS 4
