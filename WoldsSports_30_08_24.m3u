@@ -75,8 +75,6 @@ http://4kplusmini.com:80/0e087716b5/ec031f9618df/827933
 
 #EXTINF:-1 tvg-id="419537" tvg-name="NOW SPORTS 4K HDR" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW SPORTS 4K HDR
 ffmpeg http://localhost/ch/419537_
-#EXTINF:-1 tvg-id="419552" tvg-name="Now Sports (EPL) UHD/4K" tvg-logo="http://www.ass-security.fr/blog/wp-content/uploads/2015/07/4K-Ultra-HD_logo_Full-Color1.png" group-title="UK | NOW SPORTS",Now Sports (EPL) UHD/4K
-http://ursaiptv.xyz:8080/gbx0195/cucHYFhd9UaP/843222
 #EXTINF:-1 tvg-id="419538" tvg-name="NOW SPORTS 1" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW SPORTS 1
 http://yourservpan.com:3050/Lopezfam/vipBFjKLaY/425329
 #EXTINF:-1 tvg-id="419539" tvg-name="NOW SPORTS 2" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="UK | NOW SPORTS",NOW SPORTS 2
