@@ -436,6 +436,25 @@ http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/29278
 #EXTINF:-1 tvg-id="" tvg-name="|GR| NOVA PREMIERE 4 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/Nova%20Premiere.png" group-title="GR ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",|GR| NOVA PREMIERE 4 ᴴᴰ
 http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/29279
 
+#EXTINF:-1 tvg-ID="" tvg-name="NL ▎CANAL+ HD 8ᴋ" tvg-logo="https://img.logo-cdn.cc/leschainescanalplus.png" group-title="NL ▎FILMS EN SERIES",NL ▎CANAL+ HD 8ᴋ
+http://line.4k-beast.co:80/c0:23:8d:96:15:22/44D11F/1285211
+#EXTINF:-1 tvg-ID="film1premiere.nl" tvg-name="NL ▎FILM1 PREMIERE HD 8ᴋ ◉ rec" tvg-logo="https://img.logo-cdn.cc/film1action.png" group-title="NL ▎FILMS EN SERIES",NL ▎FILM1 PREMIERE HD 8ᴋ ◉ rec
+http://line.4k-beast.co:80/c0:23:8d:96:15:22/44D11F/311491
+#EXTINF:-1 tvg-ID="film1action.nl" tvg-name="NL ▎FILM1 ACTION HD 8ᴋ ◉ rec" tvg-logo="http://img.logo-cdn.cc/film1action.png" group-title="NL ▎FILMS EN SERIES",NL ▎FILM1 ACTION HD 8ᴋ ◉ rec
+http://line.4k-beast.co:80/c0:23:8d:96:15:22/44D11F/311490
+#EXTINF:-1 tvg-ID="film1family.nl" tvg-name="NL ▎FILM1 FAMILY HD 8ᴋ ◉ rec" tvg-logo="http://img.logo-cdn.cc/film1family.png" group-title="NL ▎FILMS EN SERIES",NL ▎FILM1 FAMILY HD 8ᴋ ◉ rec
+http://line.4k-beast.co:80/c0:23:8d:96:15:22/44D11F/311493
+#EXTINF:-1 tvg-ID="film1drama.nl" tvg-name="NL ▎FILM1 DRAMA HD 8ᴋ ◉ rec" tvg-logo="http://img.logo-cdn.cc/film1drama.png" group-title="NL ▎FILMS EN SERIES",NL ▎FILM1 DRAMA HD 8ᴋ ◉ rec
+http://line.4k-beast.co:80/c0:23:8d:96:15:22/44D11F/311492
+#EXTINF:-1 tvg-ID="" tvg-name="NL ▎HBO HD 8ᴋ" tvg-logo="http://img.logo-cdn.cc/hbo.png" group-title="NL ▎FILMS EN SERIES",NL ▎HBO HD 8ᴋ
+http://line.4k-beast.co:80/c0:23:8d:96:15:22/44D11F/671616
+#EXTINF:-1 tvg-ID="" tvg-name="NL ▎HBO 2 HD 8ᴋ" tvg-logo="http://img.logo-cdn.cc/hbo2.png" group-title="NL ▎FILMS EN SERIES",NL ▎HBO 2 HD 8ᴋ
+http://line.4k-beast.co:80/c0:23:8d:96:15:22/44D11F/671617
+#EXTINF:-1 tvg-ID="" tvg-name="NL ▎HBO 3 HD 8ᴋ" tvg-logo="http://img.logo-cdn.cc/hbo3.png" group-title="NL ▎FILMS EN SERIES",NL ▎HBO 3 HD 8ᴋ
+http://line.4k-beast.co:80/c0:23:8d:96:15:22/44D11F/671618
+#EXTINF:-1 tvg-ID="" tvg-name="NL ▎FILMBOX HD 8ᴋ" tvg-logo="http://img.logo-cdn.cc/filmbox.png" group-title="NL ▎FILMS EN SERIES",NL ▎FILMBOX HD 8ᴋ
+http://line.4k-beast.co:80/c0:23:8d:96:15:22/44D11F/428881
+
 #EXTINF:-1 tvg-id="" tvg-name="|beIN| ON DEMAND 1 ᵁᴴᴰ" tvg-logo="https://i.ytimg.com/vi/72Bo0Qhc35M/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNRxvx5G0BkpxSBK2_tBdY74NAxg" group-title="AR| BEIN ENTERTAINMENT",|beIN| ON DEMAND 1 ᵁᴴᴰ
 http://tsold.tryv24.shop:8080/ELBAKKALI_145947/TlGgjsl5/142519
 #EXTINF:-1 tvg-id="" tvg-name="|beIN| ON DEMAND 2 ᵁᴴᴰ" tvg-logo="https://i.ytimg.com/vi/72Bo0Qhc35M/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNRxvx5G0BkpxSBK2_tBdY74NAxg" group-title="AR| BEIN ENTERTAINMENT",|beIN| ON DEMAND 2 ᵁᴴᴰ
