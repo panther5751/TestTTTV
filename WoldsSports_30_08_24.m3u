@@ -152,6 +152,36 @@ http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV/439044
 #EXTINF:-1 tvg-id="" tvg-name="|HK| Now Sports 7 HD (EVENTS ONLY)" tvg-logo="http://logo.ottcst.info/NOWSPORTS7.png" group-title="HK| NOW SPORTS lineP",|HK| Now Sports 7 HD (EVENTS ONLY)
 http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV/439043
 
+#EXTINF:-1 tvg-id="200230" tvg-name="HK: Now Premier Sports 1 FHD" group-title="VIP | Sports HK/Taiwan NoWisePlay",HK: Now Premier Sports 1 FHD
+ffmpeg http://localhost/ch/200230_
+#EXTINF:-1 tvg-id="200229" tvg-name="HK: Now Premier Sports 2 FHD" group-title="VIP | Sports HK/Taiwan NoWisePlay",HK: Now Premier Sports 2 FHD
+ffmpeg http://localhost/ch/200229_
+#EXTINF:-1 tvg-id="200228" tvg-name="HK: Now Premier Sports 3 FHD" group-title="VIP | Sports HK/Taiwan NoWisePlay",HK: Now Premier Sports 3 FHD
+ffmpeg http://localhost/ch/200228_
+#EXTINF:-1 tvg-id="200227" tvg-name="HK: Now Premier Sports 4 FHD" group-title="VIP | Sports HK/Taiwan NoWisePlay",HK: Now Premier Sports 4 FHD
+ffmpeg http://localhost/ch/200227_
+#EXTINF:-1 tvg-id="200226" tvg-name="HK: Now Premier Sports 5 FHD" group-title="VIP | Sports HK/Taiwan NoWisePlay",HK: Now Premier Sports 5 FHD
+ffmpeg http://localhost/ch/200226_
+#EXTINF:-1 tvg-id="200225" tvg-name="HK: Now Premier Sports 6 FHD" group-title="VIP | Sports HK/Taiwan NoWisePlay",HK: Now Premier Sports 6 FHD
+ffmpeg http://localhost/ch/200225_
+#EXTINF:-1 tvg-id="246329" tvg-name="HK: Now Premier Sports 7 FHD" group-title="VIP | Sports HK/Taiwan NoWisePlay",HK: Now Premier Sports 7 FHD
+ffmpeg http://localhost/ch/246329_
+#EXTINF:-1 tvg-id="246323" tvg-name="HK: Now Sports 1 FHD" group-title="VIP | Sports HK/Taiwan NoWisePlay",HK: Now Sports 1 FHD
+ffmpeg http://localhost/ch/246323_
+#EXTINF:-1 tvg-id="246324" tvg-name="HK: Now Sports 2 FHD" group-title="VIP | Sports HK/Taiwan NoWisePlay",HK: Now Sports 2 FHD
+ffmpeg http://localhost/ch/246324_
+#EXTINF:-1 tvg-id="200224" tvg-name="HK: Now Sports 3 FHD" group-title="VIP | Sports HK/Taiwan NoWisePlay",HK: Now Sports 3 FHD
+ffmpeg http://localhost/ch/200224_
+#EXTINF:-1 tvg-id="246325" tvg-name="HK: Now Sports 4 FHD" group-title="VIP | Sports HK/Taiwan NoWisePlay",HK: Now Sports 4 FHD
+ffmpeg http://localhost/ch/246325_
+#EXTINF:-1 tvg-id="246326" tvg-name="HK: Now Sports 5 FHD" group-title="VIP | Sports HK/Taiwan NoWisePlay",HK: Now Sports 5 FHD
+ffmpeg http://localhost/ch/246326_
+#EXTINF:-1 tvg-id="246327" tvg-name="HK: Now Sports 6 FHD" group-title="VIP | Sports HK/Taiwan NoWisePlay",HK: Now Sports 6 FHD
+ffmpeg http://localhost/ch/246327_
+#EXTINF:-1 tvg-id="246328" tvg-name="HK: Now Sports 7 FHD" group-title="VIP | Sports HK/Taiwan NoWisePlay",HK: Now Sports 7 FHD
+ffmpeg http://localhost/ch/246328_
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|8ᴋ| BEIN SPORTS AR" tvg-logo="http://logo.ottcst.info/BEINSPORTS4K.png" group-title="UHD CHANNELS ●",|8ᴋ| BEIN SPORTS AR
 http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV/1127989
 #EXTINF:-1 tvg-id="" tvg-name="|8ᴋ| TF1 FR" tvg-logo="http://logo.ottcst.info/TF1.png" group-title="UHD CHANNELS ●",|8ᴋ| TF1 FR
