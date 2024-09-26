@@ -6176,6 +6176,35 @@ http://mnbgy.com//fZSmjCyB/c63a9DA1CnZWgFahMA7jpRn4T86Hhyqa4/288
 #EXTINF:-1 tvg-id="287" tvg-name="EUROSPORT 2 | ES" group-title="SPORT | ALL",EUROSPORT 2 | ES
 http://mnbgy.com//fZSmjCyB/c63a9DA1CnZWgFahMA7jpRn4T86Hhyqa4/287
 
+#EXTINF:-1 tvg-id="SPORTING TV FHD" tvg-name="PT (VF) Sporting TV (FHD)" tvg-logo="https://dns.painel.wtf/pt/sportingtv.png" group-title="SPORTS PT(ncw)",PT (VF) Sporting TV (FHD)
+http://ncw.one:80/15/15/244174
+#EXTINF:-1 tvg-id="SPORT TV 6 FHD" tvg-name="PT (MEO) SPORT TV6 (FHD)" tvg-logo="https://dns.painel.wtf/pt/sporttv6.png" group-title="SPORTS PT(ncw)",PT (MEO) SPORT TV6 (FHD)
+http://ncw.one:80/15/15/244172
+#EXTINF:-1 tvg-id="SPORT TV 6" tvg-name="PT (MEO) SPORT TV6" tvg-logo="https://dns.painel.wtf/pt/sporttv6.png" group-title="SPORTS PT(ncw)",PT (MEO) SPORT TV6
+http://ncw.one:80/15/15/244171
+#EXTINF:-1 tvg-id="SPORT TV 5 FHD" tvg-name="PT (MEO) SPORT TV5 (FHD)" tvg-logo="https://dns.painel.wtf/pt/spottv5.png" group-title="SPORTS PT(ncw)",PT (MEO) SPORT TV5 (FHD)
+http://ncw.one:80/15/15/244170
+#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="PT (MEO) SPORT TV5" tvg-logo="https://dns.painel.wtf/pt/spottv5.png" group-title="SPORTS PT(ncw)",PT (MEO) SPORT TV5
+http://ncw.one:80/15/15/244169
+#EXTINF:-1 tvg-id="SPORT TV 4 FHD" tvg-name="PT (MEO) SPORT TV4 (FHD)" tvg-logo="https://dns.painel.wtf/pt/sporttv4.png" group-title="SPORTS PT(ncw)",PT (MEO) SPORT TV4 (FHD)
+http://ncw.one:80/15/15/244168
+#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="PT (MEO) SPORT TV4" tvg-logo="https://dns.painel.wtf/pt/sporttv4.png" group-title="SPORTS PT(ncw)",PT (MEO) SPORT TV4
+http://ncw.one:80/15/15/244167
+#EXTINF:-1 tvg-id="SPORT TV 3 FHD" tvg-name="PT (MEO) SPORT TV3 (FHD)" tvg-logo="https://dns.painel.wtf/pt/sporttv3.png" group-title="SPORTS PT(ncw)",PT (MEO) SPORT TV3 (FHD)
+http://ncw.one:80/15/15/244166
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="PT (MEO) SPORT TV3" tvg-logo="https://dns.painel.wtf/pt/sporttv3.png" group-title="SPORTS PT(ncw)",PT (MEO) SPORT TV3
+http://ncw.one:80/15/15/244165
+#EXTINF:-1 tvg-id="SPORT TV 2 FHD" tvg-name="PT (MEO) SPORT TV2 (FHD)" tvg-logo="https://dns.painel.wtf/pt/sporttv2.png" group-title="SPORTS PT(ncw)",PT (MEO) SPORT TV2 (FHD)
+http://ncw.one:80/15/15/244164
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="PT (MEO) SPORT TV2" tvg-logo="https://dns.painel.wtf/pt/sporttv2.png" group-title="SPORTS PT(ncw)",PT (MEO) SPORT TV2
+http://ncw.one:80/15/15/244163
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="PT (MEO) SPORT TV1 (SD)" tvg-logo="https://dns.painel.wtf/pt/sporttv1.png" group-title="SPORTS PT(ncw)",PT (MEO) SPORT TV1 (SD)
+http://ncw.one:80/15/15/244162
+#EXTINF:-1 tvg-id="SPORT TV 1 FHD" tvg-name="PT (MEO) SPORT TV1 (FHD)" tvg-logo="https://dns.painel.wtf/pt/sporttv1.png" group-title="SPORTS PT(ncw)",PT (MEO) SPORT TV1 (FHD)
+http://ncw.one:80/15/15/244161
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="PT (MEO) SPORT TV1" tvg-logo="https://dns.painel.wtf/pt/sporttv1.png" group-title="SPORTS PT(ncw)",PT (MEO) SPORT TV1
+http://ncw.one:80/15/15/244160
+
 
 
 
