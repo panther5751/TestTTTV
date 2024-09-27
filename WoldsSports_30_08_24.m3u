@@ -331,6 +331,29 @@ http://b1g.pw:80/street/street/619983
 #EXTINF:-1 tvg-id="619982" tvg-name="HK Now Sports 7" group-title="Chinese Sport(b1g)",HK Now Sports 7
 http://b1g.pw:80/street/street/619982
 
+#EXTINF:-1 tvg-id="" tvg-name="EPL10: Liverpool 16:30 Brentford 25/08" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Premier League (Live Events)XSt",EPL10: Liverpool 16:30 Brentford 25/08
+http://xsmarters.top:8080/42468901/29864326/381743
+#EXTINF:-1 tvg-id="" tvg-name="EPL09: Wolves 14:00 Chelsea 25/08" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Premier League (Live Events)XSt",EPL09: Wolves 14:00 Chelsea 25/08
+http://xsmarters.top:8080/42468901/29864326/381742
+#EXTINF:-1 tvg-id="" tvg-name="EPL08: Bournemouth 14:00 Newcastle Utd 25/08" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Premier League (Live Events)XSt",EPL08: Bournemouth 14:00 Newcastle Utd 25/08
+http://xsmarters.top:8080/42468901/29864326/381741
+#EXTINF:-1 tvg-id="" tvg-name="EPL07: Aston Villa 17:30 Arsenal 24/08" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Premier League (Live Events)XSt",EPL07: Aston Villa 17:30 Arsenal 24/08
+http://xsmarters.top:8080/42468901/29864326/381740
+#EXTINF:-1 tvg-id="" tvg-name="EPL06: Spurs 15:00 Everton 24/08" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Premier League (Live Events)XSt",EPL06: Spurs 15:00 Everton 24/08
+http://xsmarters.top:8080/42468901/29864326/381739
+#EXTINF:-1 tvg-id="" tvg-name="EPL05: Southampton 15:00 Notts Forest 24/08" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Premier League (Live Events)XSt",EPL05: Southampton 15:00 Notts Forest 24/08
+http://xsmarters.top:8080/42468901/29864326/381738
+#EXTINF:-1 tvg-id="" tvg-name="EPL04: Man City 15:00 Ipswich Town 24/08" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Premier League (Live Events)XSt",EPL04: Man City 15:00 Ipswich Town 24/08
+http://xsmarters.top:8080/42468901/29864326/381737
+#EXTINF:-1 tvg-id="" tvg-name="EPL03: Fulham 15:00 Leicester City 24/08" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Premier League (Live Events)XSt",EPL03: Fulham 15:00 Leicester City 24/08
+http://xsmarters.top:8080/42468901/29864326/381736
+#EXTINF:-1 tvg-id="" tvg-name="EPL02: Crystal Palace 15:00 West Ham 24/08" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Premier League (Live Events)XSt",EPL02: Crystal Palace 15:00 West Ham 24/08
+http://xsmarters.top:8080/42468901/29864326/381735
+#EXTINF:-1 tvg-id="" tvg-name="EPL01: Brighton 12:30 Man Utd 24/08" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Premier League (Live Events)XSt",EPL01: Brighton 12:30 Man Utd 24/08
+http://xsmarters.top:8080/42468901/29864326/381734
+#EXTINF:-1 tvg-id="" tvg-name="EPL Goal Rush: Multi View" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Premier League (Live Events)XSt",EPL Goal Rush: Multi View
+http://xsmarters.top:8080/42468901/29864326/381733
+
 #EXTINF:-1 tvg-id="" tvg-name="|UK| Premier Sports 1 ᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-sports-1-ie.png" group-title="PREMIERE⚽️RTS ⁴ᴷ",|UK| Premier Sports 1 ᴴᴰ
 http://clicktv1.live:80/live/SamehMounir/78139498/185942.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|UK| Premier Sports 2 ᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-sports-1-ie.png" group-title="PREMIERE⚽️RTS ⁴ᴷ",|UK| Premier Sports 2 ᴴᴰ
