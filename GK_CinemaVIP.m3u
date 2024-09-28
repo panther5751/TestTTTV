@@ -46,6 +46,49 @@ http://line.zee-ott.xyz:80/24:FC:E5:AA:BB:49/1DA34F/1448303
 #EXTINF:-1," tvg-name="RL ▎RELAXTIME THE ALPS UHD" group-title="RELAXTIME",RL ▎RELAXTIME THE ALPS UHD
 http://line.zee-ott.xyz:80/24:FC:E5:AA:BB:49/1DA34F/1448306
 
+#EXTINF:-1 tvg-ID="" tvg-name="RL ▎RELAXTIME SAFARI UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="RELAX TIME(m1Max)",RL ▎RELAXTIME SAFARI UHD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1444571.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RL ▎RELAXTIME JUNGLE UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="RELAX TIME(m1Max)",RL ▎RELAXTIME JUNGLE UHD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1444570.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RL ▎RELAXTIME FOREST UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="RELAX TIME(m1Max)",RL ▎RELAXTIME FOREST UHD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1444572.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RL ▎RELAXTIME OCEAN UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="RELAX TIME(m1Max)",RL ▎RELAXTIME OCEAN UHD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1444575.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RL ▎RELAXTIME EARTH UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="RELAX TIME(m1Max)",RL ▎RELAXTIME EARTH UHD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1448304.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RL ▎ RELAXTIME BEACH UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="RELAX TIME(m1Max)",RL ▎ RELAXTIME BEACH UHD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1448305.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RL ▎RELAXTIME CAMPFIRE UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="RELAX TIME(m1Max)",RL ▎RELAXTIME CAMPFIRE UHD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1444574.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RL ▎RELAXTIME MOUNTAIN UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="RELAX TIME(m1Max)",RL ▎RELAXTIME MOUNTAIN UHD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1448302.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RL ▎RELAXTIME VOLCANO UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="RELAX TIME(m1Max)",RL ▎RELAXTIME VOLCANO UHD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1444577.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RL ▎RELAXTIME TROPICAL ISLAND UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="RELAX TIME(m1Max)",RL ▎RELAXTIME TROPICAL ISLAND UHD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1444576.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RL ▎RELAXTIME NORWAY UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="RELAX TIME(m1Max)",RL ▎RELAXTIME NORWAY UHD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1448295.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RL ▎RELAXTIME TURKEY UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="RELAX TIME",RL ▎RELAXTIME TURKEY UHD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1448296.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RL ▎RELAXTIME BALI UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="RELAX TIME(m1Max)",RL ▎RELAXTIME BALI UHD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1448297.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RL ▎RELAXTIME GREECE UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="RELAX TIME(m1Max)",RL ▎RELAXTIME GREECE UHD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1448298.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RL ▎RELAXTIME MOROCCO UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="RELAX TIME(m1Max)",RL ▎RELAXTIME MOROCCO UHD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1448299.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RL ▎RELAXTIME CHINA UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="RELAX TIME(m1Max)",RL ▎RELAXTIME CHINA UHD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1448300.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RL ▎RELAXTIME SPAIN UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="RELAX TIME(m1Max)",RL ▎RELAXTIME SPAIN UHD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1456227.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RL ▎RELAXTIME FRANCE UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="RELAX TIME(m1Max)",RL ▎RELAXTIME FRANCE UHD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1456226.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RL ▎RELAXTIME DUBAI UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="RELAX TIME(m1Max)",RL ▎RELAXTIME DUBAI UHD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1448301.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RL ▎RELAXTIME ICELAND UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="RELAX TIME(m1Max)",RL ▎RELAXTIME ICELAND UHD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1448303.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RL ▎RELAXTIME THE ALPS UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="RELAX TIME(m1Max)",RL ▎RELAXTIME THE ALPS UHD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1448306.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="***IND: DRAMA (4K ULTRA HD)***" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",***IND: DRAMA (4K ULTRA HD)***
 http://xsmarters.top:8080/42468901/29864326/109946
 #EXTINF:-1 tvg-id="colorshd.in" tvg-name="Colors (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",Colors (4K)
