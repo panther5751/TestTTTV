@@ -3,6 +3,63 @@
 #EXT-X-APTV-TYPE xtream
 #EXT-X-XC-URL http://domy1000.bumbleshrimp.com:8080?username=DALTERIO&password=PADRESUO
 
+#EXTINF:-1 tvg-id="" tvg-name="•●★--- HK | NOW SPORTS (VIP_XTvo) ----★●•" tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK | NOW SPORTS (VIP_XTvo)",•●★--- HK | NOW SPORTS (VIP_XTvo) ----★●•
+http://xtv.ooo:8080/live/kamran800/800kamran/223053.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports PL 1 HD" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: NOW Sports PL 1 HD
+http://xtv.ooo:8080/live/kamran800/800kamran/223056.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports PL 2 HD" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: NOW Sports PL 2 HD
+http://xtv.ooo:8080/live/kamran800/800kamran/223057.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports PL 3 HD" tvg-logo="https://www.nowtv.now.com/media/logo/623-wbg-e.png" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: NOW Sports PL 3 HD
+http://xtv.ooo:8080/live/kamran800/800kamran/223058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports PL 4 HD" tvg-logo="https://www.nowtv.now.com/media/logo/624-wbg-e.png" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: NOW Sports PL 4 HD
+http://xtv.ooo:8080/live/kamran800/800kamran/223059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports PL 5 HD" tvg-logo="https://www.nowtv.now.com/media/logo/625-wbg-e.png" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: NOW Sports PL 5 HD
+http://xtv.ooo:8080/live/kamran800/800kamran/223060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports PL 6 HD" tvg-logo="https://www.nowtv.now.com/media/logo/626-wbg-e.png" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: NOW Sports PL 6 HD
+http://xtv.ooo:8080/live/kamran800/800kamran/223061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Golf 3 HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch684_110_80" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: NOW Golf 3 HD
+http://xtv.ooo:8080/live/kamran800/800kamran/381416.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Golf 2 HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch683_110_80" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: NOW Golf 2 HD
+http://xtv.ooo:8080/live/kamran800/800kamran/381415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Astro Cricket HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch674_110_80" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: NOW Astro Cricket HD
+http://xtv.ooo:8080/live/kamran800/800kamran/381414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: BeIN Sports 6 HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch646_110_80" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: BeIN Sports 6 HD
+http://xtv.ooo:8080/live/kamran800/800kamran/381413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: BeIN Sports 5 HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch645_110_80" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: BeIN Sports 5 HD
+http://xtv.ooo:8080/live/kamran800/800kamran/381412.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: BeIN Sports 4 HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch644_110_80" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: BeIN Sports 4 HD
+http://xtv.ooo:8080/live/kamran800/800kamran/381411.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: BeIN Sports 3 HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_110_80" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: BeIN Sports 3 HD
+http://xtv.ooo:8080/live/kamran800/800kamran/381410.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: BeIN Sports 2 HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_110_80" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: BeIN Sports 2 HD
+http://xtv.ooo:8080/live/kamran800/800kamran/381409.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: BeIN Sports 1 HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_110_80" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: BeIN Sports 1 HD
+http://xtv.ooo:8080/live/kamran800/800kamran/381408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports 7 HD" tvg-logo="https://www.nowtv.now.com/media/logo/637-wbg-e.png" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: NOW Sports 7 HD
+http://xtv.ooo:8080/live/kamran800/800kamran/381407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports 6 HD" tvg-logo="https://www.nowtv.now.com/media/logo/636-wbg-e.png" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: NOW Sports 6 HD
+http://xtv.ooo:8080/live/kamran800/800kamran/381406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports 5 HD" tvg-logo="https://www.nowtv.now.com/media/logo/635-wbg-e.png" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: NOW Sports 5 HD
+http://xtv.ooo:8080/live/kamran800/800kamran/381405.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports 4 HD" tvg-logo="https://www.nowtv.now.com/media/logo/634-wbg-e.png" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: NOW Sports 4 HD
+http://xtv.ooo:8080/live/kamran800/800kamran/381404.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports 3 HD" tvg-logo="https://www.nowtv.now.com/media/logo/633-wbg-e.png" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: NOW Sports 3 HD
+http://xtv.ooo:8080/live/kamran800/800kamran/381403.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports 2 HD" tvg-logo="https://www.nowtv.now.com/media/logo/632-wbg-e.png" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: NOW Sports 2 HD
+http://xtv.ooo:8080/live/kamran800/800kamran/381402.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports 1 HD" tvg-logo="https://www.nowtv.now.com/media/logo/631-wbg-e.png" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: NOW Sports 1 HD
+http://xtv.ooo:8080/live/kamran800/800kamran/381401.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports Plus HD" tvg-logo="https://www.nowtv.now.com/media/s-logo/680_e.png" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: NOW Sports Plus HD
+http://xtv.ooo:8080/live/kamran800/800kamran/381400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports Prime HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_425_305" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: NOW Sports Prime HD
+http://xtv.ooo:8080/live/kamran800/800kamran/381399.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports 4K 3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch613_300_216" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: NOW Sports 4K 3
+http://xtv.ooo:8080/live/kamran800/800kamran/381398.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports 4K 2" tvg-logo="https://www.nowtv.now.com/media/s-logo/612_e.png" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: NOW Sports 4K 2
+http://xtv.ooo:8080/live/kamran800/800kamran/381397.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK: NOW Sports 4K 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_425_305" group-title="HK | NOW SPORTS (VIP_XTvo)",HK: NOW Sports 4K 1
+http://xtv.ooo:8080/live/kamran800/800kamran/381396.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="•●★--- Welcome ----★●•" tvg-logo="" group-title="HK | NOW SPORTS (VIP)Xst",•●★--- Welcome ----★●•
 #EXTINF:-1 tvg-id="" tvg-name="HK: NOW Golf 3 HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch684_110_80" group-title="HK | NOW SPORTS (VIP)Xst",HK: NOW Golf 3 HD
 http://xsmarters.top:8080/42468901/29864326/381416
