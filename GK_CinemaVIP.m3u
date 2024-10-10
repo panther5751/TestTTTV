@@ -89,6 +89,27 @@ http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1448303.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="RL ▎RELAXTIME THE ALPS UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="RELAX TIME(m1Max)",RL ▎RELAXTIME THE ALPS UHD
 http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1448306.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Vetrina S Primafila UHD 4K" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-primafila-it.png" group-title="PrimafilaUHD 4K",Vetrina S Primafila UHD 4K
+http://fastopen.live:8080/MuharemMena/iFbz2EUXcW/97271
+#EXTINF:-1 tvg-id="" tvg-name="S PRIMAFILA 8 UHD 4K" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-primafila-it.png" group-title="PrimafilaUHD 4K",S PRIMAFILA 8 UHD 4K
+http://fastopen.live:8080/MuharemMena/iFbz2EUXcW/97263
+#EXTINF:-1 tvg-id="" tvg-name="S PRIMAFILA 9 UHD 4K" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-primafila-it.png" group-title="PrimafilaUHD 4K",S PRIMAFILA 9 UHD 4K
+http://fastopen.live:8080/MuharemMena/iFbz2EUXcW/97262
+#EXTINF:-1 tvg-id="" tvg-name="S PrimaFila 7 UHD 4K" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-primafila-it.png" group-title="PrimafilaUHD 4K",S PrimaFila 7 UHD 4K
+http://fastopen.live:8080/MuharemMena/iFbz2EUXcW/75397
+#EXTINF:-1 tvg-id="" tvg-name="S PrimaFila 6 UHD 4K" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-primafila-it.png" group-title="PrimafilaUHD 4K",S PrimaFila 6 UHD 4K
+http://fastopen.live:8080/MuharemMena/iFbz2EUXcW/75398
+#EXTINF:-1 tvg-id="" tvg-name="S PrimaFila 5 UHD 4K" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-primafila-it.png" group-title="PrimafilaUHD 4K",S PrimaFila 5 UHD 4K
+http://fastopen.live:8080/MuharemMena/iFbz2EUXcW/75399
+#EXTINF:-1 tvg-id="" tvg-name="S PrimaFila 4 UHD 4K" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-primafila-it.png" group-title="PrimafilaUHD 4K",S PrimaFila 4 UHD 4K
+http://fastopen.live:8080/MuharemMena/iFbz2EUXcW/75400
+#EXTINF:-1 tvg-id="" tvg-name="S PrimaFila 3 UHD 4K" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-primafila-it.png" group-title="PrimafilaUHD 4K",S PrimaFila 3 UHD 4K
+http://fastopen.live:8080/MuharemMena/iFbz2EUXcW/75401
+#EXTINF:-1 tvg-id="" tvg-name="S PrimaFila 2 UHD 4K" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-primafila-it.png" group-title="PrimafilaUHD 4K",S PrimaFila 2 UHD 4K
+http://fastopen.live:8080/MuharemMena/iFbz2EUXcW/75402
+#EXTINF:-1 tvg-id="" tvg-name="S PrimaFila 1 UHD 4K" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/italy/sky-primafila-it.png" group-title="PrimafilaUHD 4K",S PrimaFila 1 UHD 4K
+http://fastopen.live:8080/MuharemMena/iFbz2EUXcW/75403
+
 #EXTINF:-1 tvg-id="" tvg-name="***IND: DRAMA (4K ULTRA HD)***" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",***IND: DRAMA (4K ULTRA HD)***
 http://xsmarters.top:8080/42468901/29864326/109946
 #EXTINF:-1 tvg-id="colorshd.in" tvg-name="Colors (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",Colors (4K)
