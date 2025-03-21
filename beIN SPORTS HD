@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/227.png", AR: Bein Sports 1 HD
+http://10.troya.info:34000/ch227/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2dblCCLH7OHVcTZqZThDpFm3P2sLjNSAZKaKaZmpZ2g7
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/228.png", AR: Bein Sports 2 HD
+http://10.troya.info:34000/ch228/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2buVUwVylT6g_zDFH1zqo3UK0RSm09XqZTbvc0F_FVAr
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/229.png", AR: Bein Sports 3 HD
+http://10.troya.info:34000/ch229/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2YtHxiK3aFxQvjxhFDbJYmARsfSR-KA8DagiF5EJROJT
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/230.png", AR: Bein Sports 4 HD
+http://10.troya.info:34000/ch230/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2UoaoDmpaMUlYgjOlWcTRlubKOOev5PhWmFwu_HaZ6KM
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/231.png", AR: Bein Sports 5 HD
+http://10.troya.info:34000/ch231/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2dRi5vyxeF1bZe1o34sjw2Kp8pUw3P1pmL96vEcXUxLV
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/232.png", AR: Bein Sports 6 HD
+http://10.troya.info:34000/ch232/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2WQ5dQ_Spy45aB1vEdw9r2iWsXq3XyPadGjDr4zPawyI
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1062.png", AR: Bein Sports 7 HD
+http://10.troya.info:34000/ch1062/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2f-JH727eixDJpUc7qDhgxt0aScba63kz1PRy9r3XTYD
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1424.png", TR: Bein Sports 1 HD
+http://10.troya.info:34000/ch1424/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2fcPBd7Ej4zjsJEYhdArtacU4vkZ7Qo0QT90EpZuob_5
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1425.png", TR: Bein Sports 2 HD
+http://10.troya.info:34000/ch1425/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2ehIyJsn-4e0ROzDe09Q7I_jL9iL00PKmMAcVr8HACcs
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1426.png", TR: Bein Sports 3 HD
+http://10.troya.info:34000/ch1426/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2XTtwXnHe70Wce_ocvqB4JVSpI1uqhCLTBAB1ymsVnEr
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1448.png", TR: Bein Sports 4 HD
+http://10.troya.info:34000/ch1448/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2QZjbBLWx6qlRuh9J6YBegiRKryw3_OYSv169LbFNM4j
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1449.png", TR: Bein Sports MAX 1 HD
+http://10.troya.info:34000/ch1449/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2Y3sJrOwJYflL0Wl1KtlTa1Evrbyx4rTyOP6-PlQRdYm
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1450.png", TR: Bein Sports MAX 2 HD
+http://10.troya.info:34000/ch1450/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2c8AQC9FV0UqVRpLjcqJxJsknn79lJ28t-yfDmIBVqxO
