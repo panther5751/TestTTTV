@@ -1,0 +1,149 @@
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="Спортивные",beIN SPORTS XTRA
+http://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Dubai Sports 1.png" group-title="Спортивные",Dubai Sports 1
+http://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Motorvision TV.png" group-title="Спортивные",Motorvision TV
+http://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Игра.png" group-title="Спортивные",Игра
+http://31.148.48.15:80/Match_Igra/index.m3u8?token=test
+#EXTINF:-1,BEK TV Sports West
+http://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Dubai Sports 2.png" group-title="Спортивные",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Dubai Sports 3.png" group-title="Спортивные",Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MadeinBO TV.png" group-title="Спортивные",MadeinBO TV
+http://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+#EXTINF:-1,More Than Sports TV
+http://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1,Oman Sports TV
+http://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1,One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1,Sharjah Sports TV
+http://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1,Sports Connect
+http://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
+#EXTINF:-1,SSC Action Waleed
+http://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
+#EXTINF:-1,Teledeporte
+http://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
+#EXTINF:-1,Teletrak
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1,TR Sport
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1,Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MAX Sport 1 HD.png" group-title="Спортивные",MAX Sport 1 HD
+http://213.91.178.133:8000/play/a0as
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MAX Sport 2 HD.png" group-title="Спортивные",MAX Sport 2 HD
+http://213.91.178.133:8000/play/a0at
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MAX Sport 3 HD.png" group-title="Спортивные",MAX Sport 3 HD
+http://213.91.178.133:8000/play/a0ar
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/MAX Sport 4 HD.png" group-title="Спортивные",MAX Sport 4 HD
+http://213.91.178.133:8000/play/a05n
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Arena Sport 1 .png" group-title="Спортивные",Arena Sport 1
+http://78.130.250.2:8023/play/a02o/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/V562tpO.png" group-title="Спортивные",beIN SPORTS XTRA
+http://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Polsat Sport 1.png" group-title="Спортивные",Polsat Sport 1
+http://185.236.229.62:9981/play/a07n
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Polsat Sport 2.png" group-title="Спортивные",Polsat Sport 2
+http://185.236.229.62:9981/play/a07q
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Polsat Sport 3.png" group-title="Спортивные",Polsat Sport 3
+http://185.236.229.62:9981/play/a06m
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Polsat Sport Fight.png" group-title="Спортивные",Polsat Sport Fight
+http://185.236.229.62:9981/play/a06l
+#EXTINF:-1,Polsat Sport Premium 2 Super HD
+http://cdn-nvm-chicago3.lolokoko.tv/polsatsportp2.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/football.png" group-title="Спортивные",ТЕЛЕКАНАЛ ФУТБОЛ
+http://217.19.214.39:8200/hls/77/live1.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/football.png" group-title="Спортивные",OnlineTV
+http://185.221.213.254:8080/Okko/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 1.png" group-title="Спортивные",Матч! Футбол 1
+http://31.148.48.15/Match_Futbol_1_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 2.png" group-title="Спортивные",Матч! Футбол 2
+http://31.148.48.15/Match_Futbol_2_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 3.png" group-title="Спортивные",Матч! Футбол 3
+http://185.57.68.33/110/mpegts
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Планета.png" group-title="Спортивные",Матч! Планета
+http://82.215.111.227/1049/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1 HD.png" group-title="Спортивные",Setanta Sports 1 HD
+http://82.215.111.227/1263/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2 HD.png" group-title="Спортивные",Setanta Sports 2 HD
+http://82.215.111.227/1264/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 1 HD.png" group-title="Спортивные",Eurosport 1 HD 
+http://185.189.225.157/EuroSport1/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 2 HD.png" group-title="Спортивные",Eurosport 2 HD
+http://109.70.186.70:9090/udp/239.185.1.15:1234
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 2 HD .png" group-title="Спортивные",Eurosport 2 HD
+http://185.189.225.157/EuroSport2/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 2 HD .png" group-title="Спортивные",Eurosport 2 HD
+http://213.91.178.133:8000/play/a04b
+#EXTINF:-1,live Eurosport GOLD
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+#EXTINF:-1,Конный мир HD
+http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
+#EXTINF:-1,Астрахань Спорт
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Танцуй!
+http://109.200.130.123:7537/play/a02l
+#EXTINF:-1,Trace Sport Stars
+http://87.120.142.11:18000/Rossiya1
+#EXTINF:-1,A Spor HD
+http://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+#EXTINF:-1,Extreme sports
+http://109.200.130.123:7537/play/a02p
+#EXTINF:-1,Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1,A21 Network
+http://tv.a21network.ru/content/37909/index.m3u8
+#EXTINF:-1,Canal Motor
+
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1,Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,UNBEATEN
+http://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Billiard TV
+http://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2
+http://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PMJ7Zmo.png" group-title="Спортивные",Dubai Sports 1
+http://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PMJ7Zmo.png" group-title="Спортивные",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U0A8Gex.png" group-title="Спортивные",Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Матч!
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Мир Баскетбола
+http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
+#EXTINF:-1,Extreme Sports
+http://109.200.130.123:7537/play/a02p
+#EXTINF:-1,Golf Channel English
+http://78.130.250.2:8023/play/a02q/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/KHL Prime HD.png" group-title="Спортивные",KHL Prime HD
+http://radio.tvs.by:8088/KHL_HD/index.m3u8
+#EXTINF:-1,Trace Sport Stars HD
+http://82.215.111.227/1274/tracks-v1a2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viju+ Sport.png" group-title="Спортивные",Viju+ Sport
+http://82.215.111.227/1229/tracks-v1a2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 2.png" group-title="Спортивные",Eurosport 2
+http://217.19.214.39:8200/hls/260/live1.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ru Sport.png" group-title="Спортивные",Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/A21 Network HD.png" group-title="Спортивные",A21 Network HD
+http://tv.a21network.ru/stream/37909/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Red Bull TV HD.png" group-title="Спортивные",Red Bull TV HD
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport.png" group-title="Спортивные",97.XSPORT+
+http://176.122.99.7:7000/ch117/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CANAL MOTOR.png" group-title="Спортивные",CANAL MOTOR
+http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DUBAI SPORTS 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,DUBAI SPORTS 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
