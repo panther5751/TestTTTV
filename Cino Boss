@@ -1,5 +1,271 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",NOVA SPORT 1
+http://213.215.119.236:88/Nova_sport_1/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",NOVA SPORT 2
+http://213.215.119.236:88/Nova_sport_2/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",NOVA SPORT 3
+http://213.215.119.236:88/Nova_sport_3/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",NOVA SPORT 4
+http://213.215.119.236:88/Nova_sport_4/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",NOVA SPORT 5
+http://116.202.237.33:8080/NS5/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Canal+ Sport 2 PL
+http://89.187.167.247/canalplussport2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Canal+ Sport 3 PL
+http://89.187.167.247/canalplussport3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Canal+ Sport 4 PL
+http://89.187.167.247/canalplussport4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Eurosport 1
+http://89.187.167.247/Eurosport1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Eurosport 2
+http://89.187.167.247/Eurosport2polska.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Fightbox HD
+http://89.187.167.247/Fightbox.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Eleven Sports 1
+http://89.187.167.247/elevensports1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Eleven Sports 2
+http://89.187.167.247/elevensports2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Eleven Sports 3
+http://89.187.167.247/elevensports3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Eleven Sports 4
+http://89.187.167.247/elevensports4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",AMC PL
+http://89.187.167.247/amc.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Ale Kino PL
+http://89.187.167.247/alekino.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",AXN PL
+http://89.187.167.247/axnpolska.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",AXN White
+http://89.187.167.247/axnwhite.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",AXN Black PL
+http://89.187.167.247/axnblack.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",AXN Spin PL
+http://89.187.167.247/axnspin.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",BBC First PL
+http://89.187.167.247/bbcbritpolska.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Bollywood PL
+http://89.187.167.247/bollywood.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Canal+ Film PL
+http://89.187.167.247/CanalPlusFilm.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Canal+ Premium PL
+http://89.187.167.247/CanalPlusHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Canal+ Family PL
+http://89.187.167.247/CanalPlusFamily.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Canal+ Seriale PL
+http://89.187.167.247/CanalPlusSeriale.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Canal+ Sport 2 PL
+http://89.187.167.247/canalplussport2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Canal+ Sport 3 PL
+http://89.187.167.247/canalplussport3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Canal+ Sport 4 PL
+http://89.187.167.247/canalplussport4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Eurosport 1
+http://89.187.167.247/Eurosport1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Eurosport 2
+http://89.187.167.247/Eurosport2polska.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Fightbox HD
+http://89.187.167.247/Fightbox.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Eleven Sports 1
+http://89.187.167.247/elevensports1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Eleven Sports 2
+http://89.187.167.247/elevensports2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Eleven Sports 3
+http://89.187.167.247/elevensports3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Eleven Sports 4
+http://89.187.167.247/elevensports4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Cinemax PL
+http://89.187.167.247/CinemaxHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Comedy Central PL
+http://89.187.167.247/ComedyCentralPolska.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",FilmBox Extra PL
+http://89.187.167.247/FilmBoxExtra.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",FilmBox Action PL
+http://89.187.167.247/FilmBoxAction.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",FilmBox Family PL
+http://89.187.167.247/FilmBoxFamily.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",FilmBox Arthouse PL
+http://89.187.167.247/FilmBoxArthouse.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",FOX PL
+http://89.187.167.247/FOXPolska.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",FOX Comedy PL
+http://89.187.167.247/FOXComedy.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",4Fun TV PL
+http://89.187.167.247/4funtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",4Fun Dance PL
+http://89.187.167.247/4fundance.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",HBO PL
+http://89.187.167.247/HBO.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",HBO 2 PL
+http://89.187.167.247/HBO2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",HBO 3 PL
+http://89.187.167.247/HBO3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Kino TV PL
+http://89.187.167.247/filmbox.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",MTV PL
+http://89.187.167.247/mtvpolska.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",,Novela TV PL
+http://89.187.167.247/Novela.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Polonia 1 PL
+http://89.187.167.247/Polonia1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Polsat Film PL
+http://89.187.167.247/PolsatFilm.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Polsat HD PL
+http://89.187.167.247/Polsat.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Polsat 2 PL
+http://89.187.167.247/Polsat2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Polsat Music PL HD
+http://89.187.167.247/polsatmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Polsat Sport PL
+http://89.187.167.247/polsatsport.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Polsat Sport Extra PL
+http://89.187.167.247/polsatsportextra.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Polsat Sport News PL
+http://89.187.167.247/polsatsportnews.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Super Polsat PL
+http://cdn-global.lolokoko.tv/SuperPolsat.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",TELE 5 PL
+http://89.187.167.247/Tele5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",TV PULS PL
+http://89.187.167.247/TVPuls.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",TVP SERIALE
+http://89.187.167.247/TVPSeriale.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",TVP PL
+http://89.187.167.247/tvppolonia.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",TVP 1 PL
+http://89.187.167.247/TVP1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",TVP 2 PL
+http://89.187.167.247/TVP2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",TV 4 PL
+http://89.187.167.247/TV4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",TV 6 PL
+http://89.187.167.247/TV6.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",TVN PL
+http://89.187.167.247/tvn.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",TTV PL
+https://89.187.167.247/ttv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Romance TV HD PL
+http://89.187.167.247/Romance.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Stars TV PL
+http://89.187.167.247/starstv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Syfy PL
+http://89.187.167.247/SciFi.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",13 Ulica PL
+http://89.187.167.247/13Ulica.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",WarnerTV PL
+http://89.187.167.247/TNT.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Polsat Viasat History HD
+http://89.187.167.247/ViasatHistory.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Polsat Viasat Nature HD
+http://89.187.167.247/ViasatNature.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Polsat Viasat Explore HD
+http://89.187.167.247/ViasatExplore.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",,Polsat ViasatExplore
+http://89.187.167.247/polsatviasatexplore.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",National Geographic
+http://89.187.167.247/NationalGeographic.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Nat Geo People HD
+http://89.187.167.247/NatGeoPeople.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",teleTOON+ HD
+http://89.187.167.247/teleTOON.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Nicktoons HD
+http://89.187.167.247/Nicktoons.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Nickelodeon
+http://89.187.167.247/Nickelodeon.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Nick Jr
+http://89.187.167.247/NickJr.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Nick Music
+http://89.187.167.247/NickMusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Eska TV
+http://89.187.167.247/Eskatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",History
+http://89.187.167.247/History.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Epic Drama
+http://89.187.167.247/EpicDrama.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Nuta
+http://89.187.167.247/nuta.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",MTV
+http://89.187.167.247/vivapolska.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",MTV
+http://89.187.167.247/mtvpolska.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Brazzers TV
+http://89.187.167.247/brazzers.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Dorcel TV
+http://89.187.167.247/dorceltv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Hustler HD
+http://89.187.167.247/hustler.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",XXL
+http://89.187.167.247/xxl.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",EroXX
+http://89.187.167.247/Eroxx.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",EroXXX
+http://89.187.167.247/Eroxxx.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Private TV
+http://89.187.167.247/private.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Redlight HD
+http://89.187.167.247/redlight.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",France 2 HD
+http://99.27.51.147:8080/France2/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",France 3 HD
+http://99.27.51.147:8080/France3/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",France 4 HD
+http://99.27.51.147:8080/France4/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",France 5 HD
+http://99.27.51.147:8080/France5/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",C8
+http://99.27.51.147:8080/C8/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",TMC
+http://99.27.51.147:8080/TMC/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",TF1 HD
+http://99.27.51.147:8080/TF1/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Gulli PRIME HD
+http://99.27.51.147:8080/Gulli/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Disney XD
+http://99.27.51.147:8080/DİSNEYXD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Teva
+http://99.27.51.147:8080/TEVA/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",M6 HD
+http://99.27.51.147:8080/M6/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",W9
+http://99.27.51.147:8080/W9/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",MTV
+http://99.27.51.147:8080/MTV/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",NRJ 12 HD
+http://99.27.51.147:8080/NRJ12/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",TRACE URBAN
+http://99.27.51.147:8080/TraceUrban/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",D17 CSTAR
+http://99.27.51.147:8080/D17/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Bein Sport 1 HD
+http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Bein Sport 2 HD
+http://99.27.51.147:8080/BeinSport2/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Bein Sport 3 HD
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Euro Sport 1 HD
+http://99.27.51.147:8080/EuroSport/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Euro Sport 2 HD
+http://99.27.51.147:8080/EuroSport2/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Info Sport
+http://99.27.51.147:8080/Infosport/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",France Info HD
+http://99.27.51.147:8080/Franceinfo/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",FRANCE 24
+http://99.27.51.147:8080/FRANCE_24/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",ARTE HD
+http://99.27.51.147:8080/Arte/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",RTL 9
+http://99.27.51.147:8080/RTL9/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Teletoon
+http://99.27.51.147:8080/Teletoon/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",6Ter HD
+http://99.27.51.147:8080/6Ter/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="Спортивные",beIN SPORTS XTRA
 http://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Dubai Sports 1.png" group-title="Спортивные",Dubai Sports 1
