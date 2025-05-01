@@ -11,6 +11,15 @@ http://213.215.119.236:88/Nova_sport_4/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",NOVA SPORT 5
 http://116.202.237.33:8080/NS5/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",TNT Sport 1 🇬🇧
+https://wowza5.leisertv.com/live/btsports1hd.stream/.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",TNT Sport 2 🇬🇧
+https://wowza5.leisertv.com/live/btsports2hd.stream/.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",TNT Sport 3 🇬🇧
+https://wowza5.leisertv.com/live/btsports3hd.stream/.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",TNT Sport 4  🇬🇧
+https://wowza1.leisertv.com/live/btsportsespnhd.stream/.m3u8
+
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Canal+ Sport 2 PL
 http://89.187.167.247/canalplussport2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Canal+ Sport 3 PL
