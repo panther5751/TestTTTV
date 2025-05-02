@@ -20,6 +20,11 @@ https://wowza5.leisertv.com/live/btsports3hd.stream/.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",TNT Sport 4  🇬🇧
 https://wowza1.leisertv.com/live/btsportsespnhd.stream/.m3u8
 
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Tring Sport 1 HD
+http://de.1usd.tv:34000/ch1098/mono.m3u8?token=1usdtv_cenuk.r77xWGgHdiXQOwTaILgv_HW-bY6iYf41DODayvDWepy21xSk3EnmNH8GwO_KsWuk
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Tring Sport 2 HD
+http://de.1usd.tv:34000/ch1099/mono.m3u8?token=1usdtv_cenuk.r77xWGgHdiXQOwTaILgv_HW-bY6iYf41DODayvDWepy21xSk3EnmNH8GwO_KsWuk
+
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Canal+ Sport 2 PL
 http://89.187.167.247/canalplussport2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",Canal+ Sport 3 PL
