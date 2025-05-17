@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://epgx.site/p/bein-sports-4k.png" group-title="4K UHD 3840P",4K| BEIN SPORTS AR [EVENT]
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1500113&extension=ts&play_token=DTaNszR0iI
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX 1 ᵁᴴᴰ 3840P
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1502991&extension=ts&play_token=xdfBerYmIX
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX 2 ᵁᴴᴰ 3840P
@@ -272,6 +270,8 @@ http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1032474&e
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS7.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 7
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1032473&extension=ts&play_token=YfGOdawjLR
 
+#EXTINF:-1 tvg-logo="https://epgx.site/p/bein-sports-4k.png" group-title="4K UHD 3840P",4K| BEIN SPORTS AR [EVENT]
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1500113&extension=ts&play_token=DTaNszR0iI
 #EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/skysportsmainevent.png" group-title="4K UHD 3840P",4K| SKY SPORTS MAIN EVENTS UHD
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1608071&extension=ts&play_token=KUvFPDEr53
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/SKY-SPORTF1.png" group-title="4K UHD 3840P",4K| SKY SPORTS F1 UHD
