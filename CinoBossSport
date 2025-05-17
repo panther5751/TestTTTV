@@ -1,7 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="SPORT UHD",NOW SPORT 1
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="SPORT UHD",NOW SPORT 1a
 http://95781-black.cloud-ott.me:80/play/live.php?mac=00:1A:79:08:FC:A4&stream=1032487&extension=ts
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="SPORT UHD",NOW SPORT 1b
+http://95781-black.cloud-ott.me:80/play/live.php?mac=00:1A:79:05:CA:5A &stream=1032487&extension=ts
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="SPORT UHD",NOW SPORT 1c
+http://95781-black.cloud-ott.me:80/play/live.php?mac=00:1A:79:00:05:40&stream=1032487&extension=ts
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/sdvs4u1659622094.png" group-title="SPORT UHD",HUP PREMIER 2a
+http://95781-black.cloud-ott.me:80/play/live.php?mac=00:1A:79:08:FC:A4&stream=1470622&extension=ts
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/sdvs4u1659622094.png" group-title="SPORT UHD",HUP PREMIER 2b
+http://95781-black.cloud-ott.me:80/play/live.php?mac=00:1A:79:05:CA:5A &stream=1470622&extension=ts
+
 
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",NOVA SPORT 1
 http://213.215.119.236:88/Nova_sport_1/index.m3u8
