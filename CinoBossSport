@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="SPORT UHD",NOW SPORT 1
+http://95781-black.cloud-ott.me:80/play/live.php?mac=00:1A:79:08:FC:A4&stream=1032487&extension=ts
+
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",NOVA SPORT 1
 http://213.215.119.236:88/Nova_sport_1/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="NOVA+SPORT",NOVA SPORT 2
