@@ -1,96 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX 1 ᵁᴴᴰ 3840P
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1502991&extension=ts&play_token=xdfBerYmIX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX 2 ᵁᴴᴰ 3840P
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1502992&extension=ts&play_token=H1GSc0TFk3
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX 3 ᵁᴴᴰ 3840P
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1502993&extension=ts&play_token=CQtCyLA6hP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX 4 ᵁᴴᴰ 3840P
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1502994&extension=ts&play_token=hw5HQ8t0po
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX 5 ᵁᴴᴰ 3840P
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1502995&extension=ts&play_token=CyxOY28y0c
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX 6 ᵁᴴᴰ 3840P
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1502996&extension=ts&play_token=Iu3caJFWuk
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX 7 ᵁᴴᴰ 3840P
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1502997&extension=ts&play_token=UBSCDhWmQn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX 8 ᵁᴴᴰ 3840P
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1502998&extension=ts&play_token=VDG3WKyU7N
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX 9 ᵁᴴᴰ 3840P
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1502999&extension=ts&play_token=olRUcF8BIi
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX 10 ᵁᴴᴰ 3840P
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1503000&extension=ts&play_token=xfec9Bzbjb
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX 11 ᵁᴴᴰ 3840P
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1503001&extension=ts&play_token=uV8XpUieao
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX 12 ᵁᴴᴰ 3840P
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1503002&extension=ts&play_token=R0t11SwSfW
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX 13 ᵁᴴᴰ 3840P
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1503003&extension=ts&play_token=G0VqGTGw4M
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX 14 ᵁᴴᴰ 3840P
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1503004&extension=ts&play_token=slS3jW2Frh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX 15 ᵁᴴᴰ 3840P
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1503005&extension=ts&play_token=IkAarAUL6q
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX 1920P",4K| RELAX AUSTRALIA 4K
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1505560&extension=ts&play_token=Y4f7oVgv3M
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX AUSTRALIA ᵁᴴᴰ 3840P
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1502985&extension=ts&play_token=r6rVcshJDE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX 1920P",4K| RELAX EARTH NATURE 4K
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1505570&extension=ts&play_token=T4RF0LXyJd
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX EARTH NATURE ᵁᴴᴰ 3840P
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1502986&extension=ts&play_token=aTiqfuN5ha
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX 1920P",4K| RELAX EUROPE TOWNS 4K
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1505566&extension=ts&play_token=gHcRZUvKqa
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX 1920P",4K| RELAX FLOWER 4K
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1505571&extension=ts&play_token=e5XLq9uAq0
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX 1920P",4K| RELAX FOREST 4K
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1505572&extension=ts&play_token=77Yexy7AY3
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX 1920P",4K| RELAX FOREST AMERICAN 4K
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1505565&extension=ts&play_token=RMIdG2C6Gr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX FOREST ᵁᴴᴰ 3840P
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1502987&extension=ts&play_token=OTPjIj2WzQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX 1920P",4K| RELAX ICELAND 4K
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1505558&extension=ts&play_token=l6Zjn4qESz
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX ICELAND ᵁᴴᴰ 3840P
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1503007&extension=ts&play_token=5a5A0RgwiK
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX 1920P",4K| RELAX INSPIRATIONAL MOTIVATIONAL 4K
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1505567&extension=ts&play_token=mJTyI6lUfz
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX INSPIRATIONAL MOTIVATIONAL ᵁᴴᴰ 3840P
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1502988&extension=ts&play_token=5Jt16wWxFM
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX 1920P",4K| RELAX ITALY 4K
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1505561&extension=ts&play_token=hhZ7opsLb8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX 1920P",4K| RELAX MORNING RELAXING 4K
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1505568&extension=ts&play_token=f2sLBQii1Z
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX 1920P",4K| RELAX MOROCCO 4K
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1505557&extension=ts&play_token=Dk2fK9Q9W3
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX MOROCCO ᵁᴴᴰ 3840P
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1503006&extension=ts&play_token=ZOEIcMUk68
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX 1920P",4K| RELAX NATURE RELAXATION 4K
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1505569&extension=ts&play_token=bymMCAU6eE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX 1920P",4K| RELAX NORWAY 4K
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1505559&extension=ts&play_token=es8Bzylkj8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX NORWAY ᵁᴴᴰ 3840P
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1503008&extension=ts&play_token=4njRJ6hMMr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX 1920P",4K| RELAX SNOW WINTER 4K
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1505573&extension=ts&play_token=8iCQLUHico
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX 1920P",4K| RELAX STARDUST 4K
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1505574&extension=ts&play_token=08VbjtQo8G
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX 1920P",4K| RELAX SWITZERLAND 4K
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1505562&extension=ts&play_token=s6JGF8VMDM
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX 1920P",4K| RELAX THE OCEAN 4K
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1505575&extension=ts&play_token=YBtUuPVjBy
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX THE OCEAN ᵁᴴᴰ 3840P
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1502989&extension=ts&play_token=DNwozTfCJi
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX 1920P",4K| RELAX TROPICAL BEACH 4K
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1505576&extension=ts&play_token=Po4XEbfMYo
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX TROPICAL BEACH ᵁᴴᴰ 3840P
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1502990&extension=ts&play_token=omTT2EpcLN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX 1920P",4K| RELAX TURKEY 4K
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1505563&extension=ts&play_token=KjrjjmGGsX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX UHD 3840P",4K| RELAX TURKEY ᵁᴴᴰ 3840P
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1502984&extension=ts&play_token=fLAF3ZRwQR
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX 1920P",4K| RELAX VIETNAM 4K
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1505564&extension=ts&play_token=QNxEW6Ec3Z
-
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/UFC.png" group-title="UK| UFC/BOXING PPV",UFC| 24/7
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1395687&extension=ts&play_token=ayVKxYAc5O
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/UFC.png" group-title="UK| UFC/BOXING PPV",UFC 00: Fury fc 100 // UK Sun 12 Jan 10:30pm // ET Sun 12 Jan 5:30pm
@@ -402,6 +311,103 @@ http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1491188&e
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1491189&extension=ts&play_token=AxN7WBtVFe
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DIGI.png" group-title="4K UHD 3840P",4K| DIGI UHD
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1632122&extension=ts&play_token=y7X4bMfUFF
+
+#EXTINF:-1 tvg-id="1631453" tvg-name="UHD ▎M+ LALIGA TV [ES]" group-title="UHD CHANNELS",UHD ▎M+ LALIGA TV [ES]
+http://line.bon-4k.cc/3254D6/6790CF/1631453
+#EXTINF:-1 tvg-id="1444578" tvg-name="UHD ▎SKY SPORTS MAIN EVENT [UK]" tvg-logo="https://img.logo-cdn.cc/skysportsmaineventuhd.png" group-title="UHD CHANNELS",UHD ▎SKY SPORTS MAIN EVENT [UK]
+http://line.bon-4k.cc/3254D6/6790CF/1444578
+#EXTINF:-1 tvg-id="1444579" tvg-name="UHD ▎SKY SPORTS F1 [UK]" tvg-logo="https://img.logo-cdn.cc/skysportsf1uhd.png" group-title="UHD CHANNELS",UHD ▎SKY SPORTS F1 [UK]
+http://line.bon-4k.cc/3254D6/6790CF/1444579
+#EXTINF:-1 tvg-id="1444580" tvg-name="UHD ▎SKY SPORTS 1 [UK]" tvg-logo="https://img.logo-cdn.cc/skysportuhd.png" group-title="UHD CHANNELS",UHD ▎SKY SPORTS 1 [UK]
+http://line.bon-4k.cc/3254D6/6790CF/1444580
+#EXTINF:-1 tvg-id="1444581" tvg-name="UHD ▎SKY SPORTS 2 [UK]" tvg-logo="https://img.logo-cdn.cc/skysportuhd.png" group-title="UHD CHANNELS",UHD ▎SKY SPORTS 2 [UK]
+http://line.bon-4k.cc/3254D6/6790CF/1444581
+#EXTINF:-1 tvg-id="1459824" tvg-name="UHD ▎ASTRO SUPERSPORT [UK]" tvg-logo="https://img.logo-cdn.cc/astrosupersportuhd.png" group-title="UHD CHANNELS",UHD ▎ASTRO SUPERSPORT [UK]
+http://line.bon-4k.cc/3254D6/6790CF/1459824
+#EXTINF:-1 tvg-id="1459831" tvg-name="UHD ▎NOW SPORTS [UK]" tvg-logo="https://img.logo-cdn.cc/nowsportsuhd.png" group-title="UHD CHANNELS",UHD ▎NOW SPORTS [UK]
+http://line.bon-4k.cc/3254D6/6790CF/1459831
+#EXTINF:-1 tvg-id="1445052" tvg-name="UHD ▎LA 1 [ES]" tvg-logo="https://img.logo-cdn.cc/la1uhd.png" group-title="UHD CHANNELS",UHD ▎LA 1 [ES]
+http://line.bon-4k.cc/3254D6/6790CF/1445052
+#EXTINF:-1 tvg-id="1459819" tvg-name="UHD ▎ODISEA [ES]" tvg-logo="https://img.logo-cdn.cc/odiseauhd.png" group-title="UHD CHANNELS",UHD ▎ODISEA [ES]
+http://line.bon-4k.cc/3254D6/6790CF/1459819
+#EXTINF:-1 tvg-id="1459822" tvg-name="UHD ▎CANAL COCINA [ES]" tvg-logo="https://img.logo-cdn.cc/canalcocinauhd.png" group-title="UHD CHANNELS",UHD ▎CANAL COCINA [ES]
+http://line.bon-4k.cc/3254D6/6790CF/1459822
+#EXTINF:-1 tvg-id="1444599" tvg-name="UHD ▎RTL [DE]" tvg-logo="https://img.logo-cdn.cc/rtluhd.png" group-title="UHD CHANNELS",UHD ▎RTL [DE]
+http://line.bon-4k.cc/3254D6/6790CF/1444599
+#EXTINF:-1 tvg-id="1444600" tvg-name="UHD ▎SKY SPORT [DE]" tvg-logo="https://img.logo-cdn.cc/skysportuhd.png" group-title="UHD CHANNELS",UHD ▎SKY SPORT [DE]
+http://line.bon-4k.cc/3254D6/6790CF/1444600
+#EXTINF:-1 tvg-id="1444601" tvg-name="UHD ▎SKY SPORT BUNDESLIGA [DE]" tvg-logo="https://img.logo-cdn.cc/skysportbundesligauhd.png" group-title="UHD CHANNELS",UHD ▎SKY SPORT BUNDESLIGA [DE]
+http://line.bon-4k.cc/3254D6/6790CF/1444601
+#EXTINF:-1 tvg-id="1444602" tvg-name="UHD ▎PRO7SAT.1 [DE]" tvg-logo="https://img.logo-cdn.cc/pro7sat.1uhd.png" group-title="UHD CHANNELS",UHD ▎PRO7SAT.1 [DE]
+http://line.bon-4k.cc/3254D6/6790CF/1444602
+#EXTINF:-1 tvg-id="1459823" tvg-name="UHD ▎CANAL DE CASA [ES]" tvg-logo="https://img.logo-cdn.cc/canaldecasa.png" group-title="UHD CHANNELS",UHD ▎CANAL DE CASA [ES]
+http://line.bon-4k.cc/3254D6/6790CF/1459823
+#EXTINF:-1 tvg-id="1459834" tvg-name="UHD ▎UHD1 BY ASTRA [DE]" tvg-logo="https://img.logo-cdn.cc/uhd1byastra.png" group-title="UHD CHANNELS",UHD ▎UHD1 BY ASTRA [DE]
+http://line.bon-4k.cc/3254D6/6790CF/1459834
+#EXTINF:-1 tvg-id="1444598" tvg-name="UHD ▎SES [DE]" tvg-logo="https://img.logo-cdn.cc/sesuhd.png" group-title="UHD CHANNELS",UHD ▎SES [DE]
+http://line.bon-4k.cc/3254D6/6790CF/1444598
+#EXTINF:-1 tvg-id="1459830" tvg-name="UHD ▎TF1 [FR]" tvg-logo="https://img.logo-cdn.cc/tfiuhd.png" group-title="UHD CHANNELS",UHD ▎TF1 [FR]
+http://line.bon-4k.cc/3254D6/6790CF/1459830
+#EXTINF:-1 tvg-id="1459828" tvg-name="UHD ▎FRANCE 2 [FR]" tvg-logo="https://img.logo-cdn.cc/france2uhd.png" group-title="UHD CHANNELS",UHD ▎FRANCE 2 [FR]
+http://line.bon-4k.cc/3254D6/6790CF/1459828
+#EXTINF:-1 tvg-id="1459827" tvg-name="UHD ▎FRANCE 3 [FR]" tvg-logo="https://img.logo-cdn.cc/france3uhd.png" group-title="UHD CHANNELS",UHD ▎FRANCE 3 [FR]
+http://line.bon-4k.cc/3254D6/6790CF/1459827
+#EXTINF:-1 tvg-id="1459829" tvg-name="UHD ▎M6 [FR]" tvg-logo="https://img.logo-cdn.cc/m6uhd.png" group-title="UHD CHANNELS",UHD ▎M6 [FR]
+http://line.bon-4k.cc/3254D6/6790CF/1459829
+#EXTINF:-1 tvg-id="1444622" tvg-name="UHD ▎CANAL+ [FR]" tvg-logo="https://img.logo-cdn.cc/canalplusuhd.png" group-title="UHD CHANNELS",UHD ▎CANAL+ [FR]
+http://line.bon-4k.cc/3254D6/6790CF/1444622
+#EXTINF:-1 tvg-id="1459825" tvg-name="UHD ▎CANAL+ BOX OFFICE [FR]" tvg-logo="https://img.logo-cdn.cc/canalplusboxofficeuhd.png" group-title="UHD CHANNELS",UHD ▎CANAL+ BOX OFFICE [FR]
+http://line.bon-4k.cc/3254D6/6790CF/1459825
+#EXTINF:-1 tvg-id="1459826" tvg-name="UHD ▎CANAL+ EVENEMENT [FR]" tvg-logo="https://img.logo-cdn.cc/canalplus4k.png" group-title="UHD CHANNELS",UHD ▎CANAL+ EVENEMENT [FR]
+http://line.bon-4k.cc/3254D6/6790CF/1459826
+#EXTINF:-1 tvg-id="1459820" tvg-name="UHD ▎TRT [TR]" tvg-logo="https://img.logo-cdn.cc/trtuhd.png" group-title="UHD CHANNELS",UHD ▎TRT [TR]
+http://line.bon-4k.cc/3254D6/6790CF/1459820
+#EXTINF:-1 tvg-id="1444614" tvg-name="IT ▎RAI 1 4K" tvg-logo="https://img.logo-cdn.cc/raiuhd.png" group-title="UHD CHANNELS",IT ▎RAI 1 4K
+http://line.bon-4k.cc/3254D6/6790CF/1444614
+#EXTINF:-1 tvg-id="1459839" tvg-name="UHD ▎SPORT TV 1 [PT]" tvg-logo="https://img.logo-cdn.cc/sporttv1.png" group-title="UHD CHANNELS",UHD ▎SPORT TV 1 [PT]
+http://line.bon-4k.cc/3254D6/6790CF/1459839
+#EXTINF:-1 tvg-id="1459840" tvg-name="UHD ▎BENFICA TV [PT]" tvg-logo="https://img.logo-cdn.cc/benficatvuhd.png" group-title="UHD CHANNELS",UHD ▎BENFICA TV [PT]
+http://line.bon-4k.cc/3254D6/6790CF/1459840
+#EXTINF:-1 tvg-id="1459841" tvg-name="UHD ▎ELEVEN SPORTS 1 [PT]" tvg-logo="https://img.logo-cdn.cc/elevensports1uhd.png" group-title="UHD CHANNELS",UHD ▎ELEVEN SPORTS 1 [PT]
+http://line.bon-4k.cc/3254D6/6790CF/1459841
+#EXTINF:-1 tvg-id="1444603" tvg-name="UHD ▎ELEVEN SPORTS 1 [PL]" tvg-logo="https://img.logo-cdn.cc/elevensports1uhd.png" group-title="UHD CHANNELS",UHD ▎ELEVEN SPORTS 1 [PL]
+http://line.bon-4k.cc/3254D6/6790CF/1444603
+#EXTINF:-1 tvg-id="1444619" tvg-name="PL ▎ELEVENSPORT 1 4K" tvg-logo="https://img.logo-cdn.cc/elevensports1uhd.png" group-title="UHD CHANNELS",PL ▎ELEVENSPORT 1 4K
+http://line.bon-4k.cc/3254D6/6790CF/1444619
+#EXTINF:-1 tvg-id="1444582" tvg-name="UHD ▎BLUE SPORT 1 [CH]" tvg-logo="https://img.logo-cdn.cc/bluesport1uhd.png" group-title="UHD CHANNELS",UHD ▎BLUE SPORT 1 [CH]
+http://line.bon-4k.cc/3254D6/6790CF/1444582
+#EXTINF:-1 tvg-id="1444583" tvg-name="UHD ▎BLUE SPORT 2 [CH]" tvg-logo="https://img.logo-cdn.cc/bluesport2uhd.png" group-title="UHD CHANNELS",UHD ▎BLUE SPORT 2 [CH]
+http://line.bon-4k.cc/3254D6/6790CF/1444583
+#EXTINF:-1 tvg-id="1444584" tvg-name="UHD ▎BLUE SPORT 3 [CH]" tvg-logo="https://img.logo-cdn.cc/bluesport3.png" group-title="UHD CHANNELS",UHD ▎BLUE SPORT 3 [CH]
+http://line.bon-4k.cc/3254D6/6790CF/1444584
+#EXTINF:-1 tvg-id="1444585" tvg-name="UHD ▎BLUE SPORT 4 [CH]" tvg-logo="https://img.logo-cdn.cc/bluesport4uhd.png" group-title="UHD CHANNELS",UHD ▎BLUE SPORT 4 [CH]
+http://line.bon-4k.cc/3254D6/6790CF/1444585
+#EXTINF:-1 tvg-id="1459833" tvg-name="UHD ▎NESN [US]" tvg-logo="https://img.logo-cdn.cc/nesnuhd.png" group-title="UHD CHANNELS",UHD ▎NESN [US]
+http://line.bon-4k.cc/3254D6/6790CF/1459833
+#EXTINF:-1 tvg-id="1459835" tvg-name="UHD ▎DIGI [RO]" tvg-logo="https://img.logo-cdn.cc/digiuhd.png" group-title="UHD CHANNELS",UHD ▎DIGI [RO]
+http://line.bon-4k.cc/3254D6/6790CF/1459835
+#EXTINF:-1 tvg-id="1459836" tvg-name="UHD ▎PRIMA [RO]" tvg-logo="https://img.logo-cdn.cc/primauhd.png" group-title="UHD CHANNELS",UHD ▎PRIMA [RO]
+http://line.bon-4k.cc/3254D6/6790CF/1459836
+#EXTINF:-1 tvg-id="1459837" tvg-name="UHD ▎CINEPLEX [MK]" tvg-logo="https://img.logo-cdn.cc/cineplexuhd.png" group-title="UHD CHANNELS",UHD ▎CINEPLEX [MK]
+http://line.bon-4k.cc/3254D6/6790CF/1459837
+#EXTINF:-1 tvg-id="1459838" tvg-name="UHD ▎FASHION TV [AL]" tvg-logo="https://img.logo-cdn.cc/fashiontvuhd.png" group-title="UHD CHANNELS",UHD ▎FASHION TV [AL]
+http://line.bon-4k.cc/3254D6/6790CF/1459838
+#EXTINF:-1 tvg-id="1459832" tvg-name="UHD ▎BLOOMBERG [US]" tvg-logo="https://img.logo-cdn.cc/bloomberguhd.png" group-title="UHD CHANNELS",UHD ▎BLOOMBERG [US]
+http://line.bon-4k.cc/3254D6/6790CF/1459832
+#EXTINF:-1 tvg-id="1444606" tvg-name="UHD ▎MUSEUM [MULTI]" tvg-logo="https://img.logo-cdn.cc/museumuhd.png" group-title="UHD CHANNELS",UHD ▎MUSEUM [MULTI]
+http://line.bon-4k.cc/3254D6/6790CF/1444606
+#EXTINF:-1 tvg-id="1444587" tvg-name="UHD ▎QUADRO [RU]" tvg-logo="https://img.logo-cdn.cc/quadrouhd.png" group-title="UHD CHANNELS",UHD ▎QUADRO [RU]
+http://line.bon-4k.cc/3254D6/6790CF/1444587
+#EXTINF:-1 tvg-id="1444588" tvg-name="UHD ▎ULTRA REX [RU]" tvg-logo="https://img.logo-cdn.cc/russianextremultraeuhd.png" group-title="UHD CHANNELS",UHD ▎ULTRA REX [RU]
+http://line.bon-4k.cc/3254D6/6790CF/1444588
+#EXTINF:-1 tvg-id="1444589" tvg-name="UHD ▎KINO [RU]" tvg-logo="https://img.logo-cdn.cc/knhouhd.png" group-title="UHD CHANNELS",UHD ▎KINO [RU]
+http://line.bon-4k.cc/3254D6/6790CF/1444589
+#EXTINF:-1 tvg-id="1444590" tvg-name="UHD ▎SERIAL [RU]" tvg-logo="https://img.logo-cdn.cc/serialuhd.png" group-title="UHD CHANNELS",UHD ▎SERIAL [RU]
+http://line.bon-4k.cc/3254D6/6790CF/1444590
+#EXTINF:-1 tvg-id="1444591" tvg-name="UHD ▎CINEMA ULTRA HD [RU]" tvg-logo="http://img.logo-cdn.cc/nothing.png" group-title="UHD CHANNELS",UHD ▎CINEMA ULTRA HD [RU]
+http://line.bon-4k.cc/3254D6/6790CF/1444591
+#EXTINF:-1 tvg-id="1444592" tvg-name="UHD ▎OUR SIBERIA [RU]" tvg-logo="https://img.logo-cdn.cc/oursiberiauhd.png" group-title="UHD CHANNELS",UHD ▎OUR SIBERIA [RU]
+http://line.bon-4k.cc/3254D6/6790CF/1444592
 
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/UK.png" group-title="UK| HUB PREMIER PPV",##### UK HUB SPORTS #####
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1032530&extension=ts&play_token=5QgeZ3kQ05
