@@ -179,6 +179,24 @@ http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1032474&e
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS7.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 7
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1032473&extension=ts&play_token=YfGOdawjLR
 
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png"group-title="HK NOW FHD",Now HK Now Sports 4K FHD VIP SPORTS
+http://lllllliiiiiiidsa9.funtogether.xyz:8080/play/live.php?mac=00:1A:79:a6:69:3b&stream=112209&extension=ts
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png"group-title="HK NOW FHD",Now HK Sports 4K 1 UHD VIP SPORTS
+http://lllllliiiiiiidsa9.funtogether.xyz:8080/play/live.php?mac=00:1A:79:a6:69:3b&stream=112208&extension=ts
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png"group-title="HK NOW FHD",Now HK Now Sports 1 FHD VIP SPORTS
+http://lllllliiiiiiidsa9.funtogether.xyz:8080/play/live.php?mac=00:1A:79:a6:69:3b&stream=112207&extension=ts
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png"group-title="HK NOW FHD",Now HK Now Sports 2 FHD VIP SPORTS
+http://lllllliiiiiiidsa9.funtogether.xyz:8080/play/live.php?mac=00:1A:79:a6:69:3b&stream=112206&extension=ts
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png"group-title="HK NOW FHD",Now HK Now Sports 3 FHD VIP SPORTS
+http://lllllliiiiiiidsa9.funtogether.xyz:8080/play/live.php?mac=00:1A:79:a6:69:3b&stream=112205&extension=ts
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png"group-title="HK NOW FHD",Now HK Now Sports 4 FHD VIP SPORTS
+http://lllllliiiiiiidsa9.funtogether.xyz:8080/play/live.php?mac=00:1A:79:a6:69:3b&stream=112204&extension=ts
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png"group-title="HK NOW FHD",Now HK Now Sports 5 FHD VIP SPORTS
+http://lllllliiiiiiidsa9.funtogether.xyz:8080/play/live.php?mac=00:1A:79:a6:69:3b&stream=112203&extension=ts
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png"group-title="HK NOW FHD",Now HK Now Sports 6 FHD VIP SPORTS
+http://lllllliiiiiiidsa9.funtogether.xyz:8080/play/live.php?mac=00:1A:79:a6:69:3b&stream=112202&extension=ts
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png"group-title="HK NOW FHD",Now HK Now Sports 7 FHD VIP SPORTS
+http://lllllliiiiiiidsa9.funtogether.xyz:8080/play/live.php?mac=00:1A:79:a6:69:3b&stream=112201&extension=ts
 
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/NOWSPORTS.png" group-title="HK NOW SPORTS",Now Sports
 https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
