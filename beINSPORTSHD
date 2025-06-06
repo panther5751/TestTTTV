@@ -1,0 +1,32 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/227.png", AR: Bein Sports 1 HD
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/1490095787/index.m3u8
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/228.png", AR: Bein Sports 2 HD
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/1490095787/index.m3u8
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/229.png", AR: Bein Sports 3 HD
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3758995179/index.m3u8
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1062.png", AR: Bein Sports 7 HD
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/64.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/canal-hd-logo-png_seeklogo-481273.png", AR: Canal+ HD
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/4177424223/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/canal-foot.png", AR: Canal+ Foot HD
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3299673666/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/CanalSport_360.png", AR: Canal+ Sport 360 HD
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3411759213/index.m3u8
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/imagesf8505586997801f2.png", AR: Canal+ Sport HD
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3280446601/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/Canal_Sport_2015.png", AR: Canal+ Sport
+http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/Canal_Sport_2015.png", AR: Canal+ Sport 2
+http://116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/Match_2015-2019.webp", AR: Матч!
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/INFOSPORT_HD.webp", AR: Infosport+ HD
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3208238801/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/rmc-sport-1.png", AR: RMC Sport 1 HD
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/2893363456/index.m3u8
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/rmc-sport-2.png", AR: RMC Sport 2 HD
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/2516059589/index.m3u8
