@@ -1,10 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/227.png", AR: Bein Sports 1 HD
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/1490095787/index.m3u8
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/227.png", Bein Sports 1 HD
+http://125x.org:8080/bn1hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/228.png", AR: Bein Sports 2 HD
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/1490095787/index.m3u8
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/228.png", Bein Sports 2 HD
+http://125x.org:8080/bn2hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/229.png", AR: Bein Sports 3 HD
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3758995179/index.m3u8
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/229.png", Bein Sports 3 HD
+http://125x.org:8080/bn3hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/23011801ebbb7227316.png", Bein Sports 4 HD
+http://125x.org:8080/bn4hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/23298b3adf7c03eef00.png", Bein Sports 6 HD
+http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1062.png", AR: Bein Sports 7 HD
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/64.m3u8
 
