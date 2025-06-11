@@ -91,47 +91,6 @@ http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1502984&e
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/4K.png" group-title="4K RELAX 1920P",4K| RELAX VIETNAM 4K
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:62:F4:53&stream=1505564&extension=ts&play_token=QNxEW6Ec3Z
 
-#EXTINF:-1 tvg-id="1101865" tvg-name="RX: RELAX TROPICAL BEACH 4K" tvg-logo="https://cdn2.f-cdn.com/contestentries/1295462/26564987/5ac877aaa482a_thumb900.jpg" group-title="AR| RELAXING",RX: RELAX TROPICAL BEACH 4K
-http://eagle4k.dnsiptv.cfd:8080/Kouanin7781/mv7forw8uc/1101865
-#EXTINF:-1 tvg-id="1101864" tvg-name="RX: RELAX THE OCEAN 4K" tvg-logo="https://cdn2.f-cdn.com/contestentries/1295462/26564987/5ac877aaa482a_thumb900.jpg" group-title="AR| RELAXING",RX: RELAX THE OCEAN 4K
-http://eagle4k.dnsiptv.cfd:8080/Kouanin7781/mv7forw8uc/1101864
-#EXTINF:-1 tvg-id="1101863" tvg-name="RX: RELAX STARDUST 4K" tvg-logo="https://cdn2.f-cdn.com/contestentries/1295462/26564987/5ac877aaa482a_thumb900.jpg" group-title="AR| RELAXING",RX: RELAX STARDUST 4K
-http://eagle4k.dnsiptv.cfd:8080/Kouanin7781/mv7forw8uc/1101863
-#EXTINF:-1 tvg-id="1101862" tvg-name="RX: RELAX SNOW WINTER 4K" tvg-logo="https://cdn2.f-cdn.com/contestentries/1295462/26564987/5ac877aaa482a_thumb900.jpg" group-title="AR| RELAXING",RX: RELAX SNOW WINTER 4K
-http://eagle4k.dnsiptv.cfd:8080/Kouanin7781/mv7forw8uc/1101862
-#EXTINF:-1 tvg-id="1101861" tvg-name="RX: RELAX FOREST 4K" tvg-logo="https://cdn2.f-cdn.com/contestentries/1295462/26564987/5ac877aaa482a_thumb900.jpg" group-title="AR| RELAXING",RX: RELAX FOREST 4K
-http://eagle4k.dnsiptv.cfd:8080/Kouanin7781/mv7forw8uc/1101861
-#EXTINF:-1 tvg-id="1101860" tvg-name="RX: RELAX FLOWER 4K" tvg-logo="https://cdn2.f-cdn.com/contestentries/1295462/26564987/5ac877aaa482a_thumb900.jpg" group-title="AR| RELAXING",RX: RELAX FLOWER 4K
-http://eagle4k.dnsiptv.cfd:8080/Kouanin7781/mv7forw8uc/1101860
-#EXTINF:-1 tvg-id="1101859" tvg-name="RX: RELAX EARTH NATURE 4K" tvg-logo="https://cdn2.f-cdn.com/contestentries/1295462/26564987/5ac877aaa482a_thumb900.jpg" group-title="AR| RELAXING",RX: RELAX EARTH NATURE 4K
-http://eagle4k.dnsiptv.cfd:8080/Kouanin7781/mv7forw8uc/1101859
-#EXTINF:-1 tvg-id="1101858" tvg-name="RX: RELAX NATURE RELAXATION 4K" tvg-logo="https://cdn2.f-cdn.com/contestentries/1295462/26564987/5ac877aaa482a_thumb900.jpg" group-title="AR| RELAXING",RX: RELAX NATURE RELAXATION 4K
-http://eagle4k.dnsiptv.cfd:8080/Kouanin7781/mv7forw8uc/1101858
-#EXTINF:-1 tvg-id="1101857" tvg-name="RX: RELAX MORNING RELAXING 4K" tvg-logo="https://cdn2.f-cdn.com/contestentries/1295462/26564987/5ac877aaa482a_thumb900.jpg" group-title="AR| RELAXING",RX: RELAX MORNING RELAXING 4K
-http://eagle4k.dnsiptv.cfd:8080/Kouanin7781/mv7forw8uc/1101857
-#EXTINF:-1 tvg-id="1101856" tvg-name="RX: RELAX INSPIRATIONAL MOTIVATIONAL 4K" tvg-logo="https://cdn2.f-cdn.com/contestentries/1295462/26564987/5ac877aaa482a_thumb900.jpg" group-title="AR| RELAXING",RX: RELAX INSPIRATIONAL MOTIVATIONAL 4K
-http://eagle4k.dnsiptv.cfd:8080/Kouanin7781/mv7forw8uc/1101856
-#EXTINF:-1 tvg-id="1101855" tvg-name="RX: RELAX EUROPE TOWNS 4K" tvg-logo="https://cdn2.f-cdn.com/contestentries/1295462/26564987/5ac877aaa482a_thumb900.jpg" group-title="AR| RELAXING",RX: RELAX EUROPE TOWNS 4K
-http://eagle4k.dnsiptv.cfd:8080/Kouanin7781/mv7forw8uc/1101855
-#EXTINF:-1 tvg-id="1101854" tvg-name="RX: RELAX FOREST AMERICAN 4K" tvg-logo="https://cdn2.f-cdn.com/contestentries/1295462/26564987/5ac877aaa482a_thumb900.jpg" group-title="AR| RELAXING",RX: RELAX FOREST AMERICAN 4K
-http://eagle4k.dnsiptv.cfd:8080/Kouanin7781/mv7forw8uc/1101854
-#EXTINF:-1 tvg-id="1101853" tvg-name="RX: RELAX VIETNAM 4K" tvg-logo="https://cdn2.f-cdn.com/contestentries/1295462/26564987/5ac877aaa482a_thumb900.jpg" group-title="AR| RELAXING",RX: RELAX VIETNAM 4K
-http://eagle4k.dnsiptv.cfd:8080/Kouanin7781/mv7forw8uc/1101853
-#EXTINF:-1 tvg-id="1101852" tvg-name="RX: RELAX TURKEY 4K" tvg-logo="https://cdn2.f-cdn.com/contestentries/1295462/26564987/5ac877aaa482a_thumb900.jpg" group-title="AR| RELAXING",RX: RELAX TURKEY 4K
-http://eagle4k.dnsiptv.cfd:8080/Kouanin7781/mv7forw8uc/1101852
-#EXTINF:-1 tvg-id="1101851" tvg-name="RX: RELAX SWITZERLAND 4K" tvg-logo="https://cdn2.f-cdn.com/contestentries/1295462/26564987/5ac877aaa482a_thumb900.jpg" group-title="AR| RELAXING",RX: RELAX SWITZERLAND 4K
-http://eagle4k.dnsiptv.cfd:8080/Kouanin7781/mv7forw8uc/1101851
-#EXTINF:-1 tvg-id="1101850" tvg-name="RX: RELAX ITALY 4K" tvg-logo="https://cdn2.f-cdn.com/contestentries/1295462/26564987/5ac877aaa482a_thumb900.jpg" group-title="AR| RELAXING",RX: RELAX ITALY 4K
-http://eagle4k.dnsiptv.cfd:8080/Kouanin7781/mv7forw8uc/1101850
-#EXTINF:-1 tvg-id="1101849" tvg-name="RX: RELAX AUSTRALIA 4K" tvg-logo="https://cdn2.f-cdn.com/contestentries/1295462/26564987/5ac877aaa482a_thumb900.jpg" group-title="AR| RELAXING",RX: RELAX AUSTRALIA 4K
-http://eagle4k.dnsiptv.cfd:8080/Kouanin7781/mv7forw8uc/1101849
-#EXTINF:-1 tvg-id="1101848" tvg-name="RX: RELAX NORWAY 4K" tvg-logo="https://cdn2.f-cdn.com/contestentries/1295462/26564987/5ac877aaa482a_thumb900.jpg" group-title="AR| RELAXING",RX: RELAX NORWAY 4K
-http://eagle4k.dnsiptv.cfd:8080/Kouanin7781/mv7forw8uc/1101848
-#EXTINF:-1 tvg-id="1101847" tvg-name="RX: RELAX ICELAND 4K" tvg-logo="https://cdn2.f-cdn.com/contestentries/1295462/26564987/5ac877aaa482a_thumb900.jpg" group-title="AR| RELAXING",RX: RELAX ICELAND 4K
-http://eagle4k.dnsiptv.cfd:8080/Kouanin7781/mv7forw8uc/1101847
-#EXTINF:-1 tvg-id="1101846" tvg-name="RX: RELAX MOROCCO 4K" tvg-logo="https://cdn2.f-cdn.com/contestentries/1295462/26564987/5ac877aaa482a_thumb900.jpg" group-title="AR| RELAXING",RX: RELAX MOROCCO 4K
-http://eagle4k.dnsiptv.cfd:8080/Kouanin7781/mv7forw8uc/1101846
-
 #EXTINF:-1 tvg-id="1444571" tvg-name="RL ▎RELAXTIME SAFARI UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="RELAX TIME",RL ▎RELAXTIME SAFARI UHD
 http://line.bon-4k.cc/3254D6/6790CF/1444571
 #EXTINF:-1 tvg-id="1444570" tvg-name="RL ▎RELAXTIME JUNGLE UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="RELAX TIME",RL ▎RELAXTIME JUNGLE UHD
