@@ -3,6 +3,11 @@
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/1490095787/index.m3u8
 #EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/227.png", Bein Sports 1 HD
 http://125x.org:8080/bn1hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/227.png", Bein Sports 1🇶🇦
+http://125.209.88.166:45793/BRN/beINSP11.stream/chunklist_w319570480.m3u8
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/227.png", Bein Sports 1🇶🇦
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/228.png", AR: Bein Sports 2 HD
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/1490095787/index.m3u8
 #EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/228.png", Bein Sports 2 HD
