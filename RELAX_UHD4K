@@ -133,3 +133,10 @@ http://line.4k-beast.co:80/live/C0:23:8D:A5:E0:6F/424537/1448301.ts
 http://line.4k-beast.co:80/live/C0:23:8D:A5:E0:6F/424537/1448303.ts
 #EXTINF:-1 tvg-id="1448306" tvg-name="RL ▎RELAXTIME THE ALPS UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="RELAX TIME17/11/2025",RL ▎RELAXTIME THE ALPS UHD
 http://line.4k-beast.co:80/live/C0:23:8D:A5:E0:6F/424537/1448306.ts
+
+#EXTINF:-1 tvg-id="1448306" tvg-name="RL ▎RELAXTIME THE ALPS UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="Discovery",Discovery Channel
+http://rdrcasv.mexamo.xyz:80/live/3342993407/5621552678/400159780.m3u8
+#EXTINF:-1 tvg-id="1448306" tvg-name="RL ▎RELAXTIME THE ALPS UHD" tvg-logo="https://img.logo-cdn.cc/protimerelax.png" group-title="Discovery",National Geographic HD
+http://rdrcasv.mexamo.xyz:80/live/3342993407/5621552678/400159788.m3u8
+
+
