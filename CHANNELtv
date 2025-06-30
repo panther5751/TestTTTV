@@ -1,0 +1,83 @@
+#EXTM3U
+
+#EXTINF:-1 , Espn 6
+http://45.235.37.254/foxsports3hd/index.m3u8
+#EXTINF:-1 , Espn 7
+http://45.235.37.254/foxsports2hd/index.m3u8
+#EXTINF:-1 , Espn Premium
+http://45.235.37.254/espnpremiumhd/index.m3u8
+#EXTINF:-1 , TNT SPORTS CHILE
+http://45.235.37.254/tntsportshd/index.m3u8
+#EXTINF:-1 , AE
+http://45.235.37.254/aehd/index.m3u8
+#EXTINF:-1 , AMC
+http://45.235.37.254/amchd/index.m3u8
+#EXTINF:-1 , AXN
+http://45.235.37.254/axnhd/index.m3u8
+#EXTINF:-1 , DHE
+http://45.235.37.254/dhehd/index.m3u8
+#EXTINF:-1 , FX
+http://45.235.37.254/fxhd/index.m3u8
+#EXTINF:-1 , STAR CHANNEL
+http://45.235.37.254/starhd/index.m3u8
+#EXTINF:-1 , SPACE
+http://45.235.37.254/spacehd/index.m3u8
+#EXTINF:-1 , GOLDEN
+http://45.235.37.254/goldenhd/index.m3u8
+#EXTINF:-1 , GOLDEN PLUS
+http://45.235.37.254/goldenplus/index.m3u8
+#EXTINF:-1 , GOLDEN EDGE
+http://45.235.37.254/goldenedge/index.m3u8
+#EXTINF:-1 , TNT
+http://45.235.37.254/tnthd/index.m3u8
+#EXTINF:-1 , TNT SERIES
+http://45.235.37.254/tntserieshd/index.m3u8
+#EXTINF:-1 , CINEMAX
+http://45.235.37.254/cinemaxhd/index.m3u8
+#EXTINF:-1 , WARNER
+http://45.235.37.254/warnerhd/index.m3u8
+#EXTINF:-1 , UNIVERSAL CHANNEL
+http://45.235.37.254/universalhd/index.m3u8
+#EXTINF:-1 , STUDIO UNIVERSAL
+http://45.235.37.254/studiouniversalhd/index.m3u8
+#EXTINF:-1 , SONY
+http://45.235.37.254/sonyhd/index.m3u8
+#EXTINF:-1 , TOONCAST
+http://45.235.37.254/tooncast/index.m3u8
+#EXTINF:-1 , baby tv
+http://45.235.37.254/babytv/index.m3u8
+#EXTINF:-1 , DISCOVERY KIDS
+http://45.235.37.254/discoverykidshd/index.m3u8
+#EXTINF:-1 , DISNEY CHANNEL
+http://45.235.37.254/disneyhd/index.m3u8
+#EXTINF:-1 , NICK
+http://45.235.37.254/nickhd/index.m3u8
+#EXTINF:-1 , CARTOONITO
+http://45.235.37.254/cartoonito/index.m3u8
+#EXTINF:-1 , CARTOON NETWORK
+http://45.235.37.254/cartoonnetworkhd/index.m3u8
+#EXTINF:-1 , HISTORY
+http://45.235.37.254/historyhd/index.m3u8
+#EXTINF:-1 , HISTORY 2
+http://45.235.37.254/history2hd/index.m3u8
+#EXTINF:-1 , DISCOVERY
+http://45.235.37.254/discoveryhd/index.m3u8
+#EXTINF:-1 , NATGEO
+http://45.235.37.254/natgeohd/index.m3u8
+#EXTINF:-1 , ANIMAL PLANET
+http://45.235.37.254/animalplanethd/index.m3u8
+#EXTINF:-1 , ID
+http://45.235.37.254/idhd/index.m3u8
+
+#EXTINF:-1,DİGİ SPORT 1 HD
+http://origi-JW-1.netvil43.store:80/RO-115/tracks-v1a1/mono.m3u8?token=c1lhc3Q1ZVhxcXJIZTU2c2ZhdTRtWlBiMkppd3k2K0EyNE9keU5xbG1YekRxb1d1Z1plV282T1dlNU9xZ3FxeGxaT3ZvNmFGbkxLSHZJV2ZrN3Fzbm93PQ%3D%3D
+#EXTINF:-1,DİGİ SPORT 2 HD
+http://origi-JW-1.netvil43.store:80/RO-116/tracks-v1a1/mono.m3u8?token=c1lhc3Q1ZVhxcXJIZTU2c2ZhdTRtWlBiMkppd3k2K0EyNE9keU5xbG1YekRxb1d1Z1plV282T1dlNU9xZ3FxeGxaT3ZvNmFGbkxLSHZJV2ZrN3Fzbm93PQ%3D%3D
+#EXTINF:-1,DİGİ SPORT 3 HD
+http://origi-JW-1.netvil43.store:80/RO-117/tracks-v1a1/mono.m3u8?token=c1lhc3Q1ZVhxcXJIZTU2c2ZhdTRtWlBiMkppd3k2K0EyNE9keU5xbG1YekRxb1d1Z1plV282T1dlNU9xZ3FxeGxaT3ZvNmFGbkxLSHZJV2ZrN3Fzbm93PQ%3D%3D
+#EXTINF:-1,DİGİ SPORT 4 HD
+http://origi-JW-1.netvil43.store:80/RO-118/tracks-v1a1/mono.m3u8?token=c1lhc3Q1ZVhxcXJIZTU2c2ZhdTRtWlBiMkppd3k2K0EyNE9keU5xbG1YekRxb1d1Z1plV282T1dlNU9xZ3FxeGxaT3ZvNmFGbkxLSHZJV2ZrN3Fzbm93PQ%3D%3D
+#EXTINF:-1,EUROSPORT 1 ro
+http://origi-JW-1.netvil43.store:80/RO-110/tracks-v1a1/mono.m3u8?token=c1lhc3Q1ZVhxcXJIZTU2c2ZhdTRtWlBiMkppd3k2K0EyNE9keU5xbG1YekRxb1d1Z1plV282T1dlNU9xZ3FxeGxaT3ZvNmFGbkxLSHZJV2ZrN3Fzbm93PQ%3D%3D
+#EXTINF:-1,EUROSPORT 2 ro
+http://origi-JW-1.netvil43.store:80/RO-111/tracks-v1a1/mono.m3u8?token=c1lhc3Q1ZVhxcXJIZTU2c2ZhdTRtWlBiMkppd3k2K0EyNE9keU5xbG1YekRxb1d1Z1plV282T1dlNU9xZ3FxeGxaT3ZvNmFGbkxLSHZJV2ZrN3Fzbm93PQ%3D%3D
