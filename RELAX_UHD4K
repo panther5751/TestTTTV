@@ -191,5 +191,21 @@ http://rfye55.xyz/98:06:3c:98:da:fa/881A863F2BD7/1015055
 http://rdrcasv.mexamo.xyz:80/live/3342993407/5621552678/400159780.m3u8
 #EXTINF:-1 tvg-id="1448306" tvg-name="RL ▎RELAXTIME THE ALPS UHD" tvg-logo="https://img5.pic.in.th/file/secure-sv1/imagefc0054466694b471.png" group-title="Discovery",National Geographic HD
 http://rdrcasv.mexamo.xyz:80/live/3342993407/5621552678/400159788.m3u8
+#EXTINF:-1 tvg-id="1448306" tvg-name="RL ▎RELAXTIME THE ALPS UHD" tvg-logo="https://img2.pic.in.th/pic/image93e771a7f97c9684.png" group-title="Discovery",Discovery Channel
+http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-id="1448306" tvg-name="RL ▎RELAXTIME THE ALPS UHD" tvg-logo="https://img5.pic.in.th/file/secure-sv1/image482922f1ff235795.png" group-title="Discovery",Destination America
+http://fl1.moveonjoy.com/Destination_America/index.m3u8
+#EXTINF:-1 tvg-id="1448306" tvg-name="RL ▎RELAXTIME THE ALPS UHD" tvg-logo="https://img2.pic.in.th/pic/imagebed5ce37708a13aa.png" group-title="Discovery",DISCOVERY FAMILY CHANNEL
+http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="1448306" tvg-name="RL ▎RELAXTIME THE ALPS UHD" tvg-logo="https://img5.pic.in.th/file/secure-sv1/image2d3cb6f3e4248830.jpeg" group-title="Discovery",DISCOVERY LIFE
+http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-id="1448306" tvg-name="RL ▎RELAXTIME THE ALPS UHD" tvg-logo="https://img5.pic.in.th/file/secure-sv1/imagedbffe804191164ed.png" group-title="Discovery",DISCOVERY LIFE
+http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+
+
+
+
+
+
 
 
