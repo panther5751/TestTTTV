@@ -201,6 +201,10 @@ http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 #EXTINF:-1 tvg-id="1448306" tvg-name="RL ▎RELAXTIME THE ALPS UHD" tvg-logo="https://img5.pic.in.th/file/secure-sv1/imagedbffe804191164ed.png" group-title="Discovery",DISCOVERY LIFE
 http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-id="1448306" tvg-name="RL ▎RELAXTIME THE ALPS UHD" tvg-logo="https://img5.pic.in.th/file/secure-sv1/imagedbffe804191164ed.png" group-title="Discovery",travelxp
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1448306" tvg-name="RL ▎RELAXTIME THE ALPS UHD" tvg-logo="https://img5.pic.in.th/file/secure-sv1/imagedbffe804191164ed.png" group-title="Discovery",Discovery Bangla
+https://tvsen6.aynaott.com/discovery_hd_bangla/index.m3u8
 
 
 
