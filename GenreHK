@@ -2,6 +2,71 @@
 
 #EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| NOW SPORTS PRIME
 http://hls.168.us.kg/u/630/master.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Now Sports PL 1
+https://7pal.short.gy/nowhkp1
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Now Sports PL 2
+https://7pal.short.gy/nowhkp2
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Now Sports PL 3
+https://7pal.short.gy/nowhkp3
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| TNT SPORT 1
+http://58.65.205.171:8000/play/a07b
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| TNT SPORT 2
+http://58.65.205.171:8000/play/a072
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| TNT SPORT 3
+http://58.65.205.171:8000/play/a075
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Astro Grandstand
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775977&extension=m3u8
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Astro Premier League
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775975&extension=m3u8
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Astro Arena 2
+http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/33329.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Sky Sport Premier League
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Sky Sport Main Event
+https://a1xs.vip/2000001
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Sky Sport Football
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Sky Sports Tennis
+https://7pal.short.gy/ssportstn
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Sky Sports Golf
+http://193.35.224.138:80/2793116/index.m3u8?token=c1lHcnQ4YVpxYVNWZk1xc2diR0l5OG5iMko2QWxiQ3VyNHVibDZla3lvTERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Sky Sports Action/NFL
+https://7pal.short.gy/ssportsat
+
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Hub Premier 1
+https://7pal.short.gy/HPremier1
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Hub Premier 1
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Hubsport1.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Hub Premier 1
+https://012v4.goiptv.us.ci/stream/starhub/hubsports1hd/
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Hub Premier 2
+https://7pal.short.gy/HPremier2
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Hub Premier 2
+https://a1xs.vip/1100042
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Hub Premier 3
+https://7pal.short.gy/HPremier3
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Hub Premier 3
+https://a1xs.vip/1100043
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Hub Premier 4
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=264399&extension=ts
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Hub Premier 4
+https://a1xs.vip/1100044
+
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Hub Sports 1
+https://012v4.goiptv.us.ci/stream/starhub/hubsports1hd/
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Hub Sports 2
+https://012v4.goiptv.us.ci/stream/starhub/hubsports2hd/
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Hub Sports 3
+https://012v4.goiptv.us.ci/stream/starhub/hubsports3hd/
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Hub Sports 4
+https://012v4.goiptv.us.ci/stream/starhub/hubsports4hd/
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Hub Sports 5
+https://012v4.goiptv.us.ci/stream/starhub/hubsports5hd/
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Hub Sports 6
+https://012v4.goiptv.us.ci/stream/starhub/hubsports6hd/
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Hub Sports 7
+https://012v4.goiptv.us.ci/stream/starhub/hubsports7hd/
+
 #EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| 爱尔达体育3台
 http://43.251.226.89:5050/smart.php?id=eltasport3_twn&token=8522
 #EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| now新闻
