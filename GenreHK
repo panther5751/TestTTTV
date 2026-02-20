@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| NOW NEWS
+http://hls.168.us.kg/u/332/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| NOW SPORTS PRIME
 http://hls.168.us.kg/u/630/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| Now Sports PL 1
