@@ -13,9 +13,13 @@ https://7pal.short.gy/nowhkp3
 
 #EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| MONO MAX 1
 http://119.59.118.159/live/ch1/Ultraman008/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| MONO MAX 1
 https://love.tivov68423.workers.dev/lx-origin/th-aismax01_480/chunks.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| MONO MAX 1
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776175&extension=m3u8
+#EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| MONO MAX 1
 http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186563&extension=m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| TNT SPORT 1
 http://58.65.205.171:8000/play/a07b
 #EXTINF:-1 tvg-logo=" " group-title="HK WORLD SPORTS",| TNT SPORT 2
