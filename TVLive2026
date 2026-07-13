@@ -1,24 +1,30 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://madoball.com/upload/2821.jpg" group-title="TV Live", 3BB ASIA Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/2821/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://madoball.com/upload/1873.jpg" group-title="TV Live", True Asian More
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/1873/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://madoball.com/upload/1915.jpg" group-title="TV Live", True Film Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/1915/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://madoball.com/upload/1913.jpg" group-title="TV Live", Celestial Classic Movies (CCM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/1913/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://madoball.com/upload/1877.jpg" group-title="TV Live", True Film 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/1877/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://madoball.com/upload/1875.jpg" group-title="TV Live", True Movie Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/1875/playlist.m3u8
