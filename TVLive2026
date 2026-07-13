@@ -24,7 +24,63 @@ https://godlivetv.io/madoball/1913/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/1877/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://madoball.com/upload/1875.jpg" group-title="TV Live", True Movie Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/1875/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1916.jpg" group-title="TV Live", True Series
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1916/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1874.jpg" group-title="TV Live", True Thai Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1874/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2056.jpg" group-title="TV Live", True X-Zyte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2056/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2815.jpg" group-title="TV Live", CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2815/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/722.jpg" group-title="TV Live", True Explore SCI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/722/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/740.jpg" group-title="TV Live", True Explore WILD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/740/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2820.jpg" group-title="TV Live", HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2820/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2816.jpg" group-title="TV Live", HBO Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2816/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2819.jpg" group-title="TV Live", HBO Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2819/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2818.jpg" group-title="TV Live", HBO Signature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2818/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmNoYW5uZWw4LmxpdmVfaWNvbl8wXzQzYTA0MjEy/icon.webp?w=280&fakeurl=1&type=.webp" group-title="TV Live", Channel 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdn-th-vip.login.in.th
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
