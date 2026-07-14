@@ -16,10 +16,9 @@ https://godlivetv.io/madoball/1873/playlist.m3u8
 https://godlivetv.io/madoball/1915/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://madoball.com/upload/1913.jpg" group-title="TV Live", Celestial Classic Movies (CCM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:https://madoball.com/","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/1913/playlist.m3u8
-https://madoball.com/channel/1913
 
 #EXTINF:-1 tvg-logo="https://madoball.com/upload/1877.jpg" group-title="TV Live", True Film 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
