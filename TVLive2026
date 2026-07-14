@@ -85,3 +85,68 @@ https://godlivetv.io/madoball/2818/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdn-th-vip.login.in.th
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/ONEStandard-Thumb.jpg" group-title="TV Live", Sony One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:https://d1x87j1jmcypab.cloudfront.net
+https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/ONEStandard-Thumb.jpg" group-title="TV Live", Sony One Hits Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:https://d1x87j1jmcypab.cloudfront.net
+https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/ONEStandard-Thumb.jpg" group-title="TV Live", Sony One Favoris
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:https://d1x87j1jmcypab.cloudfront.net
+https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/ONEStandard-Thumb.jpg" group-title="TV Live", Sony One Series Thriller
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:https://d1x87j1jmcypab.cloudfront.net
+https://d1573iiyr4aa7c.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXvFMV42/IMG-2996.png" group-title="TV Live", Free Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:https://amg01553-amg01553c2-samsung-th-7164.playouts.now.amagi.tv
+https://amg01553-amg01553c2-samsung-th-7164.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3w3SJ64N/IMG-2998.png" group-title="TV Live", Zee Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:https://amg01553-amg01553c2-samsung-th-7164.playouts.now.amagi.tv
+https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tNz40VZ/IMG-2795.png" group-title="TV Live", Miramax Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:https://linear-798.frequency.stream
+https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MxZHkhvV/logo-universal.png" group-title="TV Live", Universal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http://49.0.64.96
+http://49.0.64.96:8007/H-Channel
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/e5xherd4srouybp676xwv/nung.png?rlkey=6lnckppxir36l9yi92ksrmshl&st=7zapwav1&dl=0" group-title="TV Live", Movies 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http://49.0.64.96
+http://49.0.64.96:8007/IZAA
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/e5xherd4srouybp676xwv/nung.png?rlkey=6lnckppxir36l9yi92ksrmshl&st=7zapwav1&dl=0" group-title="TV Live", Movies 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http://49.0.64.96
+http://49.0.64.96:8007/H-Channel
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/e5xherd4srouybp676xwv/nung.png?rlkey=6lnckppxir36l9yi92ksrmshl&st=7zapwav1&dl=0" group-title="TV Live", Movies 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http://49.0.64.96
+http://49.0.64.96:8007/Cartoonumi
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/e5xherd4srouybp676xwv/nung.png?rlkey=6lnckppxir36l9yi92ksrmshl&st=7zapwav1&dl=0" group-title="TV Live", Series 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http://49.0.64.96
+http://49.0.64.96:8007/PING
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/e5xherd4srouybp676xwv/nung.png?rlkey=6lnckppxir36l9yi92ksrmshl&st=7zapwav1&dl=0" group-title="TV Live", Series 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http://49.0.64.96
+http://49.0.64.96:8007/SERIES
