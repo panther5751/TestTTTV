@@ -141,7 +141,7 @@
         { "name": "Bein France 1", "image": "https://madoball.com/upload/61286.jpg", "url": "https://godlivetv.io/madoball/61286/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "Bein France 2", "image": "https://madoball.com/upload/61283.jpg", "url": "https://godlivetv.io/madoball/61283/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "Bein France 3", "image": "https://madoball.com/upload/61281.jpg", "url": "https://godlivetv.io/madoball/61281/playlist.m3u8", "referer": "https://madoball.com/" },
-        { "name": "Bein Sport USA", "image": "https://madoball.com/upload/10331.jpg", "url": "https://godlivetv.io/madoball/10331/playlist.m3u8", "referer": "https://madoball.com/" }
+        { "name": "Bein Sport USA", "image": "https://madoball.com/upload/10331.jpg", "url": "https://godlivetv.io/madoball/10331/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "CCTV-4", "image": "https://madoball.com/upload/402.jpg", "url": "https://godlivetv.io/madoball/402/playlist.m3u8", "referer": "https://madoball.com/" }
       ]
     },
