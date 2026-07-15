@@ -7,7 +7,7 @@
 
      {
       "name": "ไทยทีวี (ThaiTV)",
-      "image": "https://madoball.com/upload/7348.jpg",
+      "image": "https://img1.pic.in.th/images/8564.jpg",
       "stations": [
         { "name": "7 HD", "image": "https://madoball.com/upload/7161.jpg", "url": "https://godlivetv.io/madoball/7161/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "Amarin TV", "image": "https://madoball.com/upload/6328.jpg", "url": "https://godlivetv.io/madoball/6328/playlist.m3u8", "referer": "https://madoball.com/" },
@@ -38,7 +38,7 @@
     },
     {
       "name": "ข่าวสาร (News)",
-      "image": "https://madoball.com/upload/6638.jpg",
+      "image": "https://img1.pic.in.th/images/3d-rendering-illustration-letter-blocks-forming-word-news-white-background.jpg",
       "stations": [
         { "name": "BBC World News", "image": "https://madoball.com/upload/6638.jpg", "url": "https://godlivetv.io/madoball/6638/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "Bloomberg", "image": "https://madoball.com/upload/2814.jpg", "url": "https://godlivetv.io/madoball/2814/playlist.m3u8", "referer": "https://madoball.com/" },
@@ -99,7 +99,7 @@
     },
     {
       "name": "บันเทิง (Entertainment)",
-      "image": "https://madoball.com/upload/2650.jpg",
+      "image": "https://img1.pic.in.th/images/9561137.jpg",
       "stations": [
         { "name": "Fashion TV", "image": "https://madoball.com/upload/1418.jpg", "url": "https://godlivetv.io/madoball/1418/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "ITV1", "image": "https://madoball.com/upload/8738.jpg", "url": "https://godlivetv.io/madoball/8738/playlist.m3u8", "referer": "https://madoball.com/" },
