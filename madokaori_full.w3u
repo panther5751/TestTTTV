@@ -58,7 +58,7 @@
       ]
     },
     {
-      "name": "ภาพยนตร์ทีวี(MoviesLive)",
+      "name": "ภาพยนตร์ทีวี (MoviesLive)",
       "image": "https://madoball.com/upload/2820.jpg",
       "stations": [
         { "name": "3BB Asian", "image": "https://madoball.com/upload/2821.jpg", "url": "https://godlivetv.io/madoball/2821/playlist.m3u8", "referer": "https://madoball.com/" },
@@ -79,7 +79,7 @@
         { "name": "Cartoon Network", "image": "https://madoball.com/upload/8007.jpg", "url": "https://godlivetv.io/madoball/8007/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "Nick Jr.", "image": "https://madoball.com/upload/2875.jpg", "url": "https://godlivetv.io/madoball/2875/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "Nickelodeon", "image": "https://madoball.com/upload/2029.jpg", "url": "https://godlivetv.io/madoball/2029/playlist.m3u8", "referer": "https://madoball.com/" },
-        { "name": "Channel 8", "image": "https://image.winudf.com/v2/image/Y29tLmNoYW5uZWw4LmxpdmVfaWNvbl8wXzQzYTA0MjEy/icon.webp?w=280&fakeurl=1&type=.webp", "url": "https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8", "referer": "https://cdn-th-vip.login.in.th/" },
+        { "name": "Channel 8", "image": "https://image.winudf.com/v2/image/Y29tLmNoYW5uZWw4LmxpdmVfaWNvbl8wXzQzYTA0MjEy/icon.webp?w=280&fakeurl=1&type=.webp", "url": "https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8", "referer": "https://cdn-th-vip.login.in.th/" }
      
       ]
     },
@@ -129,7 +129,7 @@
         { "name": "Bein France 3", "image": "https://madoball.com/upload/61281.jpg", "url": "https://godlivetv.io/madoball/61281/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "Bein Sport USA", "image": "https://madoball.com/upload/10331.jpg", "url": "https://godlivetv.io/madoball/10331/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "Cartoonito", "image": "https://madoball.com/upload/477.jpg", "url": "https://godlivetv.io/madoball/477/playlist.m3u8", "referer": "https://madoball.com/" },
-        { "name": "CCTV-4", "image": "https://madoball.com/upload/402.jpg", "url": "https://godlivetv.io/madoball/402/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "CCTV-4", "image": "https://madoball.com/upload/402.jpg", "url": "https://godlivetv.io/madoball/402/playlist.m3u8", "referer": "https://madoball.com/" }
       ]
     },
   ]
