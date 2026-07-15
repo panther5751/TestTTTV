@@ -10,8 +10,8 @@
       "image": "https://madoball.com/upload/7348.jpg",
       "stations": [
         { "name": "7 HD", "image": "https://madoball.com/upload/7161.jpg", "url": "https://godlivetv.io/madoball/7161/playlist.m3u8", "referer": "https://madoball.com/" },
-        { "name": "Amarin TV", "image": "https://mono29.com/app/themes/mono29-2017/assets/images/tumb_mono29.png", "url": "https://godlivetv.io/madoball/6328/playlist.m3u8", "referer": "http-user-agent/" },
-        { "name": "Mono 29", "image": "https://madoball.com/upload/6328.jpg", "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd", "referer": "https://madoball.com/" },
+        { "name": "Amarin TV", "image": "https://madoball.com/upload/6328.jpg", "url": "https://godlivetv.io/madoball/6328/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "Mono 29", "image": "https://mono29.com/app/themes/mono29-2017/assets/images/tumb_mono29.png", "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd", "referer": "http-user-agent=" },
         { "name": "Ball Thai 1", "image": "https://madoball.com/upload/1389.jpg", "url": "https://godlivetv.io/madoball/1389/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "CH 8", "image": "https://madoball.com/upload/497.jpg", "url": "https://godlivetv.io/madoball/497/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "MCOT HD", "image": "https://madoball.com/upload/6332.jpg", "url": "https://godlivetv.io/madoball/6332/playlist.m3u8", "referer": "https://madoball.com/" },
