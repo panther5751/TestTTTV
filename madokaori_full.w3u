@@ -80,19 +80,7 @@
         { "name": "Nick Jr.", "image": "https://madoball.com/upload/2875.jpg", "url": "https://godlivetv.io/madoball/2875/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "Nickelodeon", "image": "https://madoball.com/upload/2029.jpg", "url": "https://godlivetv.io/madoball/2029/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "Channel 8", "image": "https://image.winudf.com/v2/image/Y29tLmNoYW5uZWw4LmxpdmVfaWNvbl8wXzQzYTA0MjEy/icon.webp?w=280&fakeurl=1&type=.webp", "url": "https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8", "referer": "https://cdn-th-vip.login.in.th/" },
-        { "name": "NSony One", "image": "https://www.onetvasia.com/sites/onetvasia.com/files/ONEStandard-Thumb.jpg", "url": "https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8", "referer": "https://d1x87j1jmcypab.cloudfront.net/" },
-        { "name": "Sony One Hits Action", "image": "https://www.onetvasia.com/sites/onetvasia.com/files/ONEStandard-Thumb.jpg", "url": "https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8", "referer": "https://d1x87j1jmcypab.cloudfront.net/" },
-        { "name": "Sony One Favoris", "image": "https://www.onetvasia.com/sites/onetvasia.com/files/ONEStandard-Thumb.jpg", "url": "https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8", "referer": "https://d1x87j1jmcypab.cloudfront.net/" },
-        { "name": "Sony One Series Thriller", "image": "https://www.onetvasia.com/sites/onetvasia.com/files/ONEStandard-Thumb.jpg", "url": "https://d1573iiyr4aa7c.cloudfront.net/playlist.m3u8", "referer": "https://d1x87j1jmcypab.cloudfront.net/" },
-        { "name": "Free Movies", "image": "https://i.postimg.cc/sXvFMV42/IMG-2996.png", "url": "https://amg01553-amg01553c2-samsung-th-7164.playouts.now.amagi.tv/playlist.m3u8", "referer": "https://amg01553-amg01553c2-samsung-th-7164.playouts.now.amagi.tv/" },
-        { "name": "Zee Cinema", "image": "https://i.postimg.cc/3w3SJ64N/IMG-2998.png", "url": "https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8", "referer": "https://amg01553-amg01553c2-samsung-th-7164.playouts.now.amagi.tv/" },
-        { "name": "Miramax Movies", "image": "https://i.postimg.cc/5tNz40VZ/IMG-2795.png", "url": "https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8", "referer": "https://linear-798.frequency.stream/" },
-        { "name": "Universal", "image": "https://i.ibb.co/MxZHkhvV/logo-universal.png", "url": "http://49.0.64.96:8007/H-Channel", "referer": "http://49.0.64.96/" },
-        { "name": "Movies 1", "image": "https://dl.dropbox.com/scl/fi/e5xherd4srouybp676xwv/nung.png?rlkey=6lnckppxir36l9yi92ksrmshl&st=7zapwav1&dl=0", "url": "http://49.0.64.96:8007/IZAA", "referer": "http://49.0.64.96/" },
-        { "name": "Movies 2", "image": "https://dl.dropbox.com/scl/fi/e5xherd4srouybp676xwv/nung.png?rlkey=6lnckppxir36l9yi92ksrmshl&st=7zapwav1&dl=0", "url": "http://49.0.64.96:8007/H-Channel", "referer": "http://49.0.64.96/" },
-        { "name": "Movies 3", "image": "https://dl.dropbox.com/scl/fi/e5xherd4srouybp676xwv/nung.png?rlkey=6lnckppxir36l9yi92ksrmshl&st=7zapwav1&dl=0", "url": "http://49.0.64.96:8007/Cartoonumi", "referer": "http://49.0.64.96/" },
-        { "name": "Series 1", "image": "https://dl.dropbox.com/scl/fi/e5xherd4srouybp676xwv/nung.png?rlkey=6lnckppxir36l9yi92ksrmshl&st=7zapwav1&dl=0", "url": "http://49.0.64.96:8007/PING", "referer": "http://49.0.64.96/" },
-        { "name": "Series 2", "image": "https://dl.dropbox.com/scl/fi/e5xherd4srouybp676xwv/nung.png?rlkey=6lnckppxir36l9yi92ksrmshl&st=7zapwav1&dl=0", "url": "http://49.0.64.96:8007/SERIES", "referer": "http://49.0.64.96/" },
+     
       ]
     },
     {
