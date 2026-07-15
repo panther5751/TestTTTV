@@ -60,7 +60,7 @@
     },
     {
       "name": "ภาพยนตร์ทีวี (MoviesLiveTV)",
-      "image": "https://img1.pic.in.th/images/cinema06_09-2.jpg",
+      "image": "https://madoball.com/upload/2820.jpg",
       "stations": [
         { "name": "3BB Asian", "image": "https://madoball.com/upload/2821.jpg", "url": "https://godlivetv.io/madoball/2821/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "True Asian More", "image": "https://madoball.com/upload/1873.jpg", "url": "https://godlivetv.io/madoball/1873/playlist.m3u8", "referer": "https://madoball.com/" },
