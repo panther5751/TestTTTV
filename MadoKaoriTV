@@ -6,7 +6,7 @@
   "groups": [
 
      {
-      "name": "ไทย (Thai)",
+      "name": "ไทยทีวี (ThaiTV)",
       "image": "https://madoball.com/upload/7348.jpg",
       "stations": [
         { "name": "7 HD", "image": "https://madoball.com/upload/7161.jpg", "url": "https://godlivetv.io/madoball/7161/playlist.m3u8", "referer": "https://madoball.com/" },
@@ -77,6 +77,7 @@
         { "name": "Cool Channel", "image": "https://madoball.com/upload/1416.jpg", "url": "https://godlivetv.io/madoball/1416/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "Boomerang", "image": "https://madoball.com/upload/8999.jpg", "url": "https://godlivetv.io/madoball/8999/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "Cartoon Network", "image": "https://madoball.com/upload/8007.jpg", "url": "https://godlivetv.io/madoball/8007/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "Cartoonito", "image": "https://madoball.com/upload/477.jpg", "url": "https://godlivetv.io/madoball/477/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "Nick Jr.", "image": "https://madoball.com/upload/2875.jpg", "url": "https://godlivetv.io/madoball/2875/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "Nickelodeon", "image": "https://madoball.com/upload/2029.jpg", "url": "https://godlivetv.io/madoball/2029/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "Channel 8", "image": "https://image.winudf.com/v2/image/Y29tLmNoYW5uZWw4LmxpdmVfaWNvbl8wXzQzYTA0MjEy/icon.webp?w=280&fakeurl=1&type=.webp", "url": "https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8", "referer": "https://cdn-th-vip.login.in.th/" },
@@ -140,8 +141,7 @@
         { "name": "Bein France 1", "image": "https://madoball.com/upload/61286.jpg", "url": "https://godlivetv.io/madoball/61286/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "Bein France 2", "image": "https://madoball.com/upload/61283.jpg", "url": "https://godlivetv.io/madoball/61283/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "Bein France 3", "image": "https://madoball.com/upload/61281.jpg", "url": "https://godlivetv.io/madoball/61281/playlist.m3u8", "referer": "https://madoball.com/" },
-        { "name": "Bein Sport USA", "image": "https://madoball.com/upload/10331.jpg", "url": "https://godlivetv.io/madoball/10331/playlist.m3u8", "referer": "https://madoball.com/" },
-        { "name": "Cartoonito", "image": "https://madoball.com/upload/477.jpg", "url": "https://godlivetv.io/madoball/477/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "Bein Sport USA", "image": "https://madoball.com/upload/10331.jpg", "url": "https://godlivetv.io/madoball/10331/playlist.m3u8", "referer": "https://madoball.com/" }
         { "name": "CCTV-4", "image": "https://madoball.com/upload/402.jpg", "url": "https://godlivetv.io/madoball/402/playlist.m3u8", "referer": "https://madoball.com/" }
       ]
     },
