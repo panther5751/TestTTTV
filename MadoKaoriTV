@@ -127,7 +127,27 @@
         { "name": "True Tennis", "image": "https://cdn.madoball.com/upload/2101.jpg", "url": "https://godlivetv.io/madoball/2101/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "True Premier HD 3", "image": "https://madoball.com/upload/2018.jpg", "url": "https://godlivetv.io/madoball/2018/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "True Premier HD 4", "image": "https://madoball.com/upload/2017.jpg", "url": "https://godlivetv.io/madoball/2017/playlist.m3u8", "referer": "https://madoball.com/" },
-        { "name": "ONE Championship", "image": "https://cdn.madoball.com/upload/81433.jpg", "url": "https://godlivetv.io/madoball/81433/playlist.m3u8", "referer": "https://madoball.com/" }
+        { "name": "ONE Championship", "image": "https://cdn.madoball.com/upload/81433.jpg", "url": "https://godlivetv.io/madoball/81433/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "Play Sports 41", "image": "https://cdn.madoball.com/upload/1485.jpg", "url": "https://godlivetv.io/madoball/1485/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "Play Sports 48", "image": "https://cdn.madoball.com/upload/1484.jpg", "url": "https://godlivetv.io/madoball/1484/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "Play Sports 55", "image": "https://cdn.madoball.com/upload/1485.jpg", "url": "https://godlivetv.io/madoball/1485/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "Play Sports 56", "image": "https://cdn.madoball.com/upload/1483.jpg", "url": "https://godlivetv.io/madoball/1483/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "Play Sports 57", "image": "https://cdn.madoball.com/upload/1441.jpg", "url": "https://godlivetv.io/madoball/1441/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "Play Sports 58", "image": "https://cdn.madoball.com/upload/1440.jpg", "url": "https://godlivetv.io/madoball/1440/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "Play Sports 61", "image": "https://cdn.madoball.com/upload/1482.jpg", "url": "https://godlivetv.io/madoball/1482/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "Play Sports 62", "image": "https://cdn.madoball.com/upload/1481.jpg", "url": "https://godlivetv.io/madoball/1481/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "Play Sports 63", "image": "https://cdn.madoball.com/upload/1480.jpg", "url": "https://godlivetv.io/madoball/1480/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "Play Sports 64", "image": "https://cdn.madoball.com/upload/1438.jpg", "url": "https://godlivetv.io/madoball/1438/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "Play Sports 66", "image": "https://cdn.madoball.com/upload/1479.jpg", "url": "https://godlivetv.io/madoball/1479/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "Play Sports 67", "image": "https://cdn.madoball.com/upload/1437.jpg", "url": "https://godlivetv.io/madoball/1437/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "Play Sports 69", "image": "https://cdn.madoball.com/upload/1478.jpg", "url": "https://godlivetv.io/madoball/1478/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "Play Sports 71", "image": "https://cdn.madoball.com/upload/1477.jpg", "url": "https://godlivetv.io/madoball/1477/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "Play Sports 72", "image": "https://cdn.madoball.com/upload/1476.jpg", "url": "https://godlivetv.io/madoball/1476/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "Play Sports 73", "image": "https://cdn.madoball.com/upload/1475.jpg", "url": "https://godlivetv.io/madoball/1475/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "Play Sports 74", "image": "https://cdn.madoball.com/upload/1433.jpg", "url": "https://godlivetv.io/madoball/1433/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "Play Sports 75", "image": "https://cdn.madoball.com/upload/1432.jpg", "url": "https://godlivetv.io/madoball/1432/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "Play Sports 90", "image": "https://cdn.madoball.com/upload/1436.jpg", "url": "https://godlivetv.io/madoball/1436/playlist.m3u8", "referer": "https://madoball.com/" }
+
       ]
      },
     {
