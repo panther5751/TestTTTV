@@ -59,7 +59,7 @@
     },
     {
       "name": "ภาพยนตร์ทีวี (MoviesLiveTV)",
-      "image": "https://img1.pic.in.th/images/cinema06_09-2.jpg",
+      "image": "https://img1.pic.in.th/images/cinema06_09.jpg",
       "stations": [
         { "name": "3BB Asian", "image": "https://madoball.com/upload/2821.jpg", "url": "https://godlivetv.io/madoball/2821/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "True Asian More", "image": "https://madoball.com/upload/1873.jpg", "url": "https://godlivetv.io/madoball/1873/playlist.m3u8", "referer": "https://madoball.com/" },
@@ -115,6 +115,15 @@
         { "name": "Warner TV", "image": "https://madoball.com/upload/2739.jpg", "url": "https://godlivetv.io/madoball/2739/playlist.m3u8", "referer": "https://madoball.com/" }
       ]
     },
+
+ {
+      "name": "มาดูกีฬา (SPORT MADO)",
+      "image": "https://cdn.madoball.com/upload/1782505192351.png",
+      "stations": [
+        { "name": "True Sport 1", "image": "https://cdn.madoball.com/upload/2892.jpg", "url": "https://godlivetv.io/madoball/2892/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "True Explore WILD", "image": "https://madoball.com/upload/740.jpg", "url": "https://godlivetv.io/madoball/740/playlist.m3u8", "referer": "https://madoball.com/" }
+      ]
+     },
     {
       "name": "สารคดี (Documentary)",
       "image": "https://madoball.com/upload/1546.jpg",
