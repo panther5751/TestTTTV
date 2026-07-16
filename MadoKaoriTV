@@ -102,7 +102,7 @@
       "image": "https://img1.pic.in.th/images/9561137.jpg",
       "stations": [
         { "name": "Fashion TV", "image": "https://madoball.com/upload/1418.jpg", "url": "https://godlivetv.io/madoball/1418/playlist.m3u8", "referer": "https://madoball.com/" },
-        { "name": "CCTV-4", "image": "https://madoball.com/upload/402.jpg", "url": "https://godlivetv.io/madoball/402/playlist.m3u8", "referer": "https://madoball.com/" }
+        { "name": "CCTV-4", "image": "https://madoball.com/upload/402.jpg", "url": "https://godlivetv.io/madoball/402/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "ITV1", "image": "https://madoball.com/upload/8738.jpg", "url": "https://godlivetv.io/madoball/8738/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "ITV2", "image": "https://madoball.com/upload/8737.jpg", "url": "https://godlivetv.io/madoball/8737/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "ITV3", "image": "https://madoball.com/upload/8736.jpg", "url": "https://godlivetv.io/madoball/8736/playlist.m3u8", "referer": "https://madoball.com/" },
