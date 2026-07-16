@@ -28,6 +28,7 @@
         { "name": "ช่อง 3 HD", "image": "https://madoball.com/upload/7348.jpg", "url": "https://godlivetv.io/madoball/7348/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "ช่อง 5 HD", "image": "https://madoball.com/upload/7347.jpg", "url": "https://godlivetv.io/madoball/7347/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "ถิ่นใต้ IPTV", "image": "https://madoball.com/upload/24.jpg", "url": "https://godlivetv.io/madoball/24/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "One Channel", "image": "https://madoball.com/upload/461.jpg", "url": "https://godlivetv.io/madoball/461/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "ไทยรัฐ TV HD", "image": "https://madoball.com/upload/6330.jpg", "url": "https://godlivetv.io/madoball/6330/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "สำรวจโลก", "image": "https://madoball.com/upload/563.jpg", "url": "https://godlivetv.io/madoball/563/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "สุวรรณภูมิทีวี", "image": "https://madoball.com/upload/1243.jpg", "url": "https://godlivetv.io/madoball/1243/playlist.m3u8", "referer": "https://madoball.com/" },
@@ -104,7 +105,6 @@
         { "name": "ITV2", "image": "https://madoball.com/upload/8737.jpg", "url": "https://godlivetv.io/madoball/8737/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "ITV3", "image": "https://madoball.com/upload/8736.jpg", "url": "https://godlivetv.io/madoball/8736/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "ITV4", "image": "https://madoball.com/upload/8735.jpg", "url": "https://godlivetv.io/madoball/8735/playlist.m3u8", "referer": "https://madoball.com/" },
-        { "name": "One Channel", "image": "https://madoball.com/upload/461.jpg", "url": "https://godlivetv.io/madoball/461/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "Rock Action", "image": "https://madoball.com/upload/2930.jpg", "url": "https://godlivetv.io/madoball/2930/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "Rock Entertainment", "image": "https://madoball.com/upload/2929.jpg", "url": "https://godlivetv.io/madoball/2929/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "ROCK X Stream", "image": "https://madoball.com/upload/261622.jpg", "url": "https://godlivetv.io/madoball/261622/playlist.m3u8", "referer": "https://madoball.com/" },
@@ -124,8 +124,10 @@
         { "name": "True Sport 4", "image": "https://cdn.madoball.com/upload/2889.jpg", "url": "https://godlivetv.io/madoball/2889/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "True Sport 5", "image": "https://cdn.madoball.com/upload/2888.jpg", "url": "https://godlivetv.io/madoball/2888/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "True Sport 7", "image": "https://cdn.madoball.com/upload/2829.jpg", "url": "https://godlivetv.io/madoball/2829/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "True Tennis", "image": "https://cdn.madoball.com/upload/2101.jpg", "url": "https://godlivetv.io/madoball/2101/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "True Premier HD 3", "image": "https://madoball.com/upload/2018.jpg", "url": "https://godlivetv.io/madoball/2018/playlist.m3u8", "referer": "https://madoball.com/" },
-        { "name": "True Premier HD 4", "image": "https://madoball.com/upload/2017.jpg", "url": "https://godlivetv.io/madoball/2017/playlist.m3u8", "referer": "https://madoball.com/" }
+        { "name": "True Premier HD 4", "image": "https://madoball.com/upload/2017.jpg", "url": "https://godlivetv.io/madoball/2017/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "ONE Championship", "image": "https://cdn.madoball.com/upload/81433.jpg", "url": "https://godlivetv.io/madoball/81433/playlist.m3u8", "referer": "https://madoball.com/" }
       ]
      },
     {
