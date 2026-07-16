@@ -22,8 +22,6 @@
         { "name": "Thainess TV", "image": "https://madoball.com/upload/715.jpg", "url": "https://godlivetv.io/madoball/715/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "TNN 16", "image": "https://madoball.com/upload/6345.jpg", "url": "https://godlivetv.io/madoball/6345/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "TPTV", "image": "https://madoball.com/upload/430.jpg", "url": "https://godlivetv.io/madoball/430/playlist.m3u8", "referer": "https://madoball.com/" },
-        { "name": "True Premier HD 3", "image": "https://madoball.com/upload/2018.jpg", "url": "https://godlivetv.io/madoball/2018/playlist.m3u8", "referer": "https://madoball.com/" },
-        { "name": "True Premier HD 4", "image": "https://madoball.com/upload/2017.jpg", "url": "https://godlivetv.io/madoball/2017/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "True4U", "image": "https://madoball.com/upload/6337.jpg", "url": "https://godlivetv.io/madoball/6337/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "Workpoint TV", "image": "https://madoball.com/upload/6335.jpg", "url": "https://godlivetv.io/madoball/6335/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "ของดีประเทศไทย", "image": "https://madoball.com/upload/716.jpg", "url": "https://godlivetv.io/madoball/716/playlist.m3u8", "referer": "https://madoball.com/" },
@@ -121,7 +119,13 @@
       "image": "https://cdn.madoball.com/upload/1782505192351.png",
       "stations": [
         { "name": "True Sport 1", "image": "https://cdn.madoball.com/upload/2892.jpg", "url": "https://godlivetv.io/madoball/2892/playlist.m3u8", "referer": "https://madoball.com/" },
-        { "name": "True Explore WILD", "image": "https://madoball.com/upload/740.jpg", "url": "https://godlivetv.io/madoball/740/playlist.m3u8", "referer": "https://madoball.com/" }
+        { "name": "True Sport 2", "image": "https://cdn.madoball.com/upload/2891.jpg", "url": "https://godlivetv.io/madoball/2891/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "True Sport 3", "image": "https://cdn.madoball.com/upload/2890.jpg", "url": "https://godlivetv.io/madoball/2890/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "True Sport 4", "image": "https://cdn.madoball.com/upload/2889.jpg", "url": "https://godlivetv.io/madoball/2889/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "True Sport 5", "image": "https://cdn.madoball.com/upload/2888.jpg", "url": "https://godlivetv.io/madoball/2888/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "True Sport 7", "image": "https://cdn.madoball.com/upload/2829.jpg", "url": "https://godlivetv.io/madoball/2829/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "True Premier HD 3", "image": "https://madoball.com/upload/2018.jpg", "url": "https://godlivetv.io/madoball/2018/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "True Premier HD 4", "image": "https://madoball.com/upload/2017.jpg", "url": "https://godlivetv.io/madoball/2017/playlist.m3u8", "referer": "https://madoball.com/" }
       ]
      },
     {
