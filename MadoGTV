@@ -63,7 +63,7 @@
       "stations": [
         { "name": "3BB Asian", "image": "https://madoball.com/upload/2821.jpg", "url": "https://godlivetv.io/madoball/2821/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "True Asian More", "image": "https://madoball.com/upload/1873.jpg", "url": "https://godlivetv.io/madoball/1873/playlist.m3u8", "referer": "https://madoball.com/" },
-        { "name": "Celestial Classic Movies (CCM)", "image": "https://madoball.com/upload/1913.jpg", "url": "https://hls.iptv-th.workers.dev/live/34/playlist.m3u8", "url": "https://godlivetv.io/madoball/1913/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "Celestial Classic Movies (CCM)", "image": "https://madoball.com/upload/1913.jpg", "url": "https://hls.iptv-th.workers.dev/live/34/playlist.m3u8", "referer": "https://hls.iptv-th.workers.dev/" },
         { "name": "CINEMAX", "image": "https://madoball.com/upload/2815.jpg", "url": "https://godlivetv.io/madoball/2815/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "HBO", "image": "https://madoball.com/upload/2820.jpg", "url": "https://godlivetv.io/madoball/2820/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "HBO Family", "image": "https://madoball.com/upload/2816.jpg", "url": "https://godlivetv.io/madoball/2816/playlist.m3u8", "referer": "https://madoball.com/" },
