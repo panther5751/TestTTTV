@@ -11,7 +11,7 @@
       "stations": [
         { "name": "7 HD", "image": "https://madoball.com/upload/7161.jpg", "url": "https://godlivetv.io/madoball/7161/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "Amarin TV", "image": "https://madoball.com/upload/6328.jpg", "url": "https://godlivetv.io/madoball/6328/playlist.m3u8", "referer": "https://madoball.com/" },
-        { "name": "MONO 29", "image": "https://mono29.com/app/themes/mono29-2017/assets/images/tumb_mono29.png", "url": "https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8", "referer": "https://live-us1.thaimomo.com/" },
+        { "name": "MONO 29", "image": "https://mono29.com/app/themes/mono29-2017/assets/images/tumb_mono29.png","url": "https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8", "referer": "https://live-us1.thaimomo.com/" },
         { "name": "CH 8", "image": "https://madoball.com/upload/497.jpg", "url": "https://godlivetv.io/madoball/497/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "MCOT HD", "image": "https://madoball.com/upload/6332.jpg", "url": "https://godlivetv.io/madoball/6332/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "Nation", "image": "https://madoball.com/upload/6339.jpg", "url": "https://godlivetv.io/madoball/6339/playlist.m3u8", "referer": "https://madoball.com/" },
@@ -63,7 +63,7 @@
       "stations": [
         { "name": "3BB Asian", "image": "https://madoball.com/upload/2821.jpg", "url": "https://godlivetv.io/madoball/2821/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "True Asian More", "image": "https://madoball.com/upload/1873.jpg", "url": "https://godlivetv.io/madoball/1873/playlist.m3u8", "referer": "https://madoball.com/" },
-        { "name": "Celestial Classic Movies (CCM)", "image": "https://madoball.com/upload/1913.jpg", "url": "https://godlivetv.io/madoball/1913/playlist.m3u8", "referer": "https://madoball.com/" },
+        { "name": "Celestial Classic Movies (CCM)", "image": "https://madoball.com/upload/1913.jpg", "url": "https://hls.iptv-th.workers.dev/live/34/playlist.m3u8", "url": "https://godlivetv.io/madoball/1913/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "CINEMAX", "image": "https://madoball.com/upload/2815.jpg", "url": "https://godlivetv.io/madoball/2815/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "HBO", "image": "https://madoball.com/upload/2820.jpg", "url": "https://godlivetv.io/madoball/2820/playlist.m3u8", "referer": "https://madoball.com/" },
         { "name": "HBO Family", "image": "https://madoball.com/upload/2816.jpg", "url": "https://godlivetv.io/madoball/2816/playlist.m3u8", "referer": "https://madoball.com/" },
