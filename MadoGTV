@@ -11,7 +11,7 @@
       "stations": [
         { "name": "7 HD", "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/35.png", "url": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/35/35.mpd", "referer": "https://cri-streamer3.cdn.3bbtv.com/" },
   { "name": "Amarin TV", "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/34.png", "url": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd", "referer": "https://cri-streamer3.cdn.3bbtv.com/" },
-        { "name": "MONO 29", "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/29.png","url": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd", "referer": "https://cri-streamer3.cdn.3bbtv.com/" },
+        { "name": "MONO 29", "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/29.png", "url": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd", "referer": "https://cri-streamer3.cdn.3bbtv.com/" },
 
         
         { "name": "Food Network", "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/205.png", "url": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd", "referer": "https://cri-streamer3.cdn.3bbtv.com/" }
