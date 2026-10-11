@@ -10,7 +10,7 @@
       "image": "https://img1.pic.in.th/images/8564.jpg",
       "stations": [
         { "name": "7 HD", "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/35.png", "url": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/35/35.mpd", "referer": "https://cri-streamer3.cdn.3bbtv.com/" },
- { "name": "T Sport Channel", "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/7.png", "url": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/7/7.mpd", "referer": "https://cri-streamer3.cdn.3bbtv.com/" },
+ 
         
         { "name": "Food Network", "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/205.png", "url": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd", "referer": "https://cri-streamer3.cdn.3bbtv.com/" }
       ]
