@@ -19,7 +19,7 @@
         { "name": "NBT Channel", "image": "https://madoball.com/upload/1450.jpg", "url": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/5/5.mpd", "referer": "https://cri-streamer3.cdn.3bbtv.com/" },
         { "name": "PPTV HD", "image": "https://madoball.com/upload/1664.jpg", "url": "https://godlivetv.io/madoball/1664/playlist.m3u8", "referer": "https://cri-streamer3.cdn.3bbtv.com/" },
         { "name": "Rama Channel", "image": "https://madoball.com/upload/1642.jpg", "url": "https://godlivetv.io/madoball/1642/playlist.m3u8", "referer": "https://cri-streamer3.cdn.3bbtv.com/" },
-        { "name": "Thai PBS", "image": "https://madoball.com/upload/1698.jpg", "url": "https://godlivetv.io/madoball/1698/playlist.m3u8", "referer": "https://cri-streamer3.cdn.3bbtv.com/" },
+        
 
         { "name": "GMM 25", "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/25.png", "url": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd", "referer": "https://cri-streamer3.cdn.3bbtv.com/" },
        
