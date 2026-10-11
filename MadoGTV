@@ -69,7 +69,7 @@
       "stations": [
 { "name": "MyCinema", "image": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg", "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8", "referer": "http://www.dens.tv/" },
 
-  { "name": "HBO",Cinemax", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cJbdKf_BbwC9Q1V0rXAxmavdau1-hILuRA&s", "https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd", "referer": "https://www.indihometv.com/" }
+  { "name": "Cinemax", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cJbdKf_BbwC9Q1V0rXAxmavdau1-hILuRA&s", "https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd", "referer": "https://www.indihometv.com/" }
 
 
  ]
