@@ -62,6 +62,14 @@
         { "name": "TV5MONDE", "image": "https://madoball.com/upload/1404.jpg", "url": "https://godlivetv.io/madoball/1404/playlist.m3u8", "referer": "https://madoball.com/" }
       ]
     },
+
+ {
+      "name": "บันเทิง (Entertainment)",
+      "image": "https://img1.pic.in.th/images/9561137.jpg",
+      "stations": [
+ ]
+    },
+
     {
       "name": "ภาพยนตร์ทีวี (MoviesLiveTV)",
       "image": "https://img1.pic.in.th/images/cinema06_09.jpg",
