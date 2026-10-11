@@ -18,8 +18,11 @@
         { "name": "Nation", "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/22.png", "url": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/22/22.mpd", "referer": "https://cri-streamer3.cdn.3bbtv.com/" },
         { "name": "NBT Channel", "image": "https://madoball.com/upload/1450.jpg", "url": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/5/5.mpd", "referer": "https://cri-streamer3.cdn.3bbtv.com/" },
         { "name": "PPTV HD", "image": "https://madoball.com/upload/1664.jpg", "url": "https://godlivetv.io/madoball/1664/playlist.m3u8", "referer": "https://cri-streamer3.cdn.3bbtv.com/" },
-
+ { "name": "Rama Channel", "image": "https://madoball.com/upload/1642.jpg", "url": "https://godlivetv.io/madoball/1642/playlist.m3u8", "referer": "https://cri-streamer3.cdn.3bbtv.com/" },
  { "name": "Thai PBS", "image": "https://madoball.com/upload/1698.jpg", "url": "https://godlivetv.io/madoball/1698/playlist.m3u8", "referer": "https://cri-streamer3.cdn.3bbtv.com/" },
+  { "name": "Thainess TV", "image": "https://madoball.com/upload/715.jpg", "url": "https://godlivetv.io/madoball/715/playlist.m3u8", "referer": "https://cri-streamer3.cdn.3bbtv.com/" },
+        { "name": "TNN 16", "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/16.png", "url": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/16/16.mpd", "referer": "https://cri-streamer3.cdn.3bbtv.com/" },
+        { "name": "TPTV", "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/10.png", "url": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/10/10.mpd", "referer": "https://cri-streamer3.cdn.3bbtv.comm/" },
 
         
 
