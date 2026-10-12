@@ -119,9 +119,9 @@
       "image": "https://img2.pic.in.th/TrueVisionsNOW.png",
       "stations": [
  { 
-"name": "TrueSports 1", "image": "https://ball67.com/assets/channels-logo/truesport1.png", "url": "http://31.43.191.125:8080/live/restream/restream/157333.ts", "referer": "http://31.43.191.125/" },
+"name": "TrueSports 1", "image": "https://ball67.com/assets/channels-logo/truesport1.png", "url": "http://31.43.191.125:8080/live/restream/restream/157333.ts", "referer": "http://31.43.191.125/" }
 
-"name": "TrueSports 7", "image": "https://dooballplus2.live/assets/channels-logo/truesport7.png", "url": "http://31.43.191.125:8080/live/restream/restream/157334.ts", "referer": "http://31.43.191.125/" }
+
  ]
     },
 
