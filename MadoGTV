@@ -119,12 +119,12 @@
       "image": "https://img2.pic.in.th/TrueVisionsNOW.png",
       "stations": [
  { 
-"name": "TrueSports 1", "image": "https://ball67.com/assets/channels-logo/truesport1.png", "url": "http://31.43.191.125:8080/live/restream/restream/157333.ts", "referer": "http://31.43.191.125/" }
-"name": "TrueSports 2", "image": "https://ball67.com/assets/channels-logo/truesport2.png", "url": "http://31.43.191.125:8080/live/restream/restream/157332.ts", "referer": "http://31.43.191.125/" }
-"name": "TrueSports 3", "image": "https://ball67.com/assets/channels-logo/truesport3.png", "url": "http://31.43.191.125:8080/live/restream/restream/157331.ts", "referer": "http://31.43.191.125/" }
-"name": "TrueSports 4", "image": "https://ball67.com/assets/channels-logo/truesport4.png", "url": "https://ball67.com/channels/truesports4", "referer": "https://ball67.com/" }
-"name": "TrueSports 5", "image": "https://ball67.com/assets/channels-logo/truesport5.png", "url": "http://31.43.191.125:8080/live/restream/restream/157330.ts", "referer": "http://31.43.191.125/" }
-"name": "T Sports7", "image": "https://dooballplus2.live/assets/channels-logo/tsport.png", "url": "http://31.43.191.125:8080/live/restream/restream/157329.ts", "referer": "http://31.43.191.125/" }
+"name": "TrueSports 1", "image": "https://ball67.com/assets/channels-logo/truesport1.png", "url": "http://31.43.191.125:8080/live/restream/restream/157333.ts", "referer": "http://31.43.191.125/" },
+"name": "TrueSports 2", "image": "https://ball67.com/assets/channels-logo/truesport2.png", "url": "http://31.43.191.125:8080/live/restream/restream/157332.ts", "referer": "http://31.43.191.125/" },
+"name": "TrueSports 3", "image": "https://ball67.com/assets/channels-logo/truesport3.png", "url": "http://31.43.191.125:8080/live/restream/restream/157331.ts", "referer": "http://31.43.191.125/" },
+"name": "TrueSports 4", "image": "https://ball67.com/assets/channels-logo/truesport4.png", "url": "https://ball67.com/channels/truesports4", "referer": "https://ball67.com/" },
+"name": "TrueSports 5", "image": "https://ball67.com/assets/channels-logo/truesport5.png", "url": "http://31.43.191.125:8080/live/restream/restream/157330.ts", "referer": "http://31.43.191.125/" },
+"name": "T Sports7", "image": "https://dooballplus2.live/assets/channels-logo/tsport.png", "url": "http://31.43.191.125:8080/live/restream/restream/157329.ts", "referer": "http://31.43.191.125/" },
 "name": "TrueSports 7", "image": "https://dooballplus2.live/assets/channels-logo/truesport7.png", "url": "http://31.43.191.125:8080/live/restream/restream/157334.ts", "referer": "http://31.43.191.125/" }
  ]
     },
